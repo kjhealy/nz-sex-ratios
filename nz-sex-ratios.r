@@ -24,18 +24,30 @@ dat.w$pos <- dat.w$Diff > 1
 
 dat.w$Electorate <- reorder(dat.w$Electorate, dat.w$Diff, order=TRUE)
 
+pct.labs <- c("0.6", "0.8", "1", "1.2")
+
 age.lab <- c("0-4", "5-9", "10-14", "15-19", "20-24",
              "25-29", "30-34", "35-39", "40-44", "45-49",
              "50-54", "55-59", "60-64", "65-69", "70-74",
              "75-79", "80-84", "85 and up")
 
-pct.labs <- c("0.6", "0.8", "1", "1.2")
+age.levels <- c("0–4 Years", "5–9 Years", "10–14 Years",
+                "15–19 Years", "20–24 Years",
+                "25–29 Years", "30–34 Years",
+                "35–39 Years", "40–44 Years",
+                "45–49 Years", "50–54 Years",
+                "55–59 Years", "60–64 Years",
+                "65–69 Years", "70–74 Years",
+                "75–79 Years", "80–84 Years",
+                "85 Years And Over")
 
-p0 <- ggplot(dat.w, aes(x=factor(Age, levels=unique(Age), ordered=TRUE),
-                        ymax=Diff,
-                        ymin=1,
-                       group=Electorate,
-                       color=pos))
+dat.w$Age <- factor(dat.w$Age, levels = age.levels, ordered = TRUE)
+
+p0 <- ggplot(dat.w, aes(x = Age,
+                        ymax = Diff,
+                        ymin = 1,
+                        group = Electorate,
+                        color = pos))
 
 p1 <- p0 + geom_linerange(size=1.2) +
     labs(x="",
