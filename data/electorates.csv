@@ -1,0 +1,2557 @@
+"","Age","Electorate","Sex","count","right_left"
+"1","0–4 Years","Ikaroa-Rāwhiti","Male",4926,-0.834799188141952
+"2","5–9 Years","Ikaroa-Rāwhiti","Male",4881,-0.834799188141952
+"3","10–14 Years","Ikaroa-Rāwhiti","Male",4740,-0.834799188141952
+"4","15–19 Years","Ikaroa-Rāwhiti","Male",4059,-0.834799188141952
+"5","20–24 Years","Ikaroa-Rāwhiti","Male",2811,-0.834799188141952
+"6","25–29 Years","Ikaroa-Rāwhiti","Male",2154,-0.834799188141952
+"7","30–34 Years","Ikaroa-Rāwhiti","Male",2124,-0.834799188141952
+"8","35–39 Years","Ikaroa-Rāwhiti","Male",2238,-0.834799188141952
+"9","40–44 Years","Ikaroa-Rāwhiti","Male",2370,-0.834799188141952
+"10","45–49 Years","Ikaroa-Rāwhiti","Male",2274,-0.834799188141952
+"11","50–54 Years","Ikaroa-Rāwhiti","Male",2214,-0.834799188141952
+"12","55–59 Years","Ikaroa-Rāwhiti","Male",1824,-0.834799188141952
+"13","60–64 Years","Ikaroa-Rāwhiti","Male",1476,-0.834799188141952
+"14","65–69 Years","Ikaroa-Rāwhiti","Male",945,-0.834799188141952
+"15","70–74 Years","Ikaroa-Rāwhiti","Male",654,-0.834799188141952
+"16","75–79 Years","Ikaroa-Rāwhiti","Male",378,-0.834799188141952
+"17","80–84 Years","Ikaroa-Rāwhiti","Male",210,-0.834799188141952
+"18","85 Years And Over","Ikaroa-Rāwhiti","Male",87,-0.834799188141952
+"19","0–4 Years","Ikaroa-Rāwhiti","Female",4887,-0.834799188141952
+"20","5–9 Years","Ikaroa-Rāwhiti","Female",4749,-0.834799188141952
+"21","10–14 Years","Ikaroa-Rāwhiti","Female",4617,-0.834799188141952
+"22","15–19 Years","Ikaroa-Rāwhiti","Female",3972,-0.834799188141952
+"23","20–24 Years","Ikaroa-Rāwhiti","Female",3384,-0.834799188141952
+"24","25–29 Years","Ikaroa-Rāwhiti","Female",2853,-0.834799188141952
+"25","30–34 Years","Ikaroa-Rāwhiti","Female",2691,-0.834799188141952
+"26","35–39 Years","Ikaroa-Rāwhiti","Female",2754,-0.834799188141952
+"27","40–44 Years","Ikaroa-Rāwhiti","Female",3009,-0.834799188141952
+"28","45–49 Years","Ikaroa-Rāwhiti","Female",2739,-0.834799188141952
+"29","50–54 Years","Ikaroa-Rāwhiti","Female",2658,-0.834799188141952
+"30","55–59 Years","Ikaroa-Rāwhiti","Female",2067,-0.834799188141952
+"31","60–64 Years","Ikaroa-Rāwhiti","Female",1635,-0.834799188141952
+"32","65–69 Years","Ikaroa-Rāwhiti","Female",1134,-0.834799188141952
+"33","70–74 Years","Ikaroa-Rāwhiti","Female",783,-0.834799188141952
+"34","75–79 Years","Ikaroa-Rāwhiti","Female",525,-0.834799188141952
+"35","80–84 Years","Ikaroa-Rāwhiti","Female",294,-0.834799188141952
+"36","85 Years And Over","Ikaroa-Rāwhiti","Female",177,-0.834799188141952
+"37","0–4 Years","Waiariki","Male",4743,-0.82791586998088
+"38","5–9 Years","Waiariki","Male",4791,-0.82791586998088
+"39","10–14 Years","Waiariki","Male",4671,-0.82791586998088
+"40","15–19 Years","Waiariki","Male",3894,-0.82791586998088
+"41","20–24 Years","Waiariki","Male",2616,-0.82791586998088
+"42","25–29 Years","Waiariki","Male",2109,-0.82791586998088
+"43","30–34 Years","Waiariki","Male",2034,-0.82791586998088
+"44","35–39 Years","Waiariki","Male",2229,-0.82791586998088
+"45","40–44 Years","Waiariki","Male",2325,-0.82791586998088
+"46","45–49 Years","Waiariki","Male",2211,-0.82791586998088
+"47","50–54 Years","Waiariki","Male",2283,-0.82791586998088
+"48","55–59 Years","Waiariki","Male",1773,-0.82791586998088
+"49","60–64 Years","Waiariki","Male",1470,-0.82791586998088
+"50","65–69 Years","Waiariki","Male",996,-0.82791586998088
+"51","70–74 Years","Waiariki","Male",759,-0.82791586998088
+"52","75–79 Years","Waiariki","Male",456,-0.82791586998088
+"53","80–84 Years","Waiariki","Male",204,-0.82791586998088
+"54","85 Years And Over","Waiariki","Male",99,-0.82791586998088
+"55","0–4 Years","Waiariki","Female",4365,-0.82791586998088
+"56","5–9 Years","Waiariki","Female",4566,-0.82791586998088
+"57","10–14 Years","Waiariki","Female",4437,-0.82791586998088
+"58","15–19 Years","Waiariki","Female",3849,-0.82791586998088
+"59","20–24 Years","Waiariki","Female",3060,-0.82791586998088
+"60","25–29 Years","Waiariki","Female",2715,-0.82791586998088
+"61","30–34 Years","Waiariki","Female",2667,-0.82791586998088
+"62","35–39 Years","Waiariki","Female",2808,-0.82791586998088
+"63","40–44 Years","Waiariki","Female",2859,-0.82791586998088
+"64","45–49 Years","Waiariki","Female",2745,-0.82791586998088
+"65","50–54 Years","Waiariki","Female",2694,-0.82791586998088
+"66","55–59 Years","Waiariki","Female",2229,-0.82791586998088
+"67","60–64 Years","Waiariki","Female",1635,-0.82791586998088
+"68","65–69 Years","Waiariki","Female",1113,-0.82791586998088
+"69","70–74 Years","Waiariki","Female",876,-0.82791586998088
+"70","75–79 Years","Waiariki","Female",540,-0.82791586998088
+"71","80–84 Years","Waiariki","Female",354,-0.82791586998088
+"72","85 Years And Over","Waiariki","Female",189,-0.82791586998088
+"73","0–4 Years","Te Tai Hauāuru","Male",5982,-0.772837050717431
+"74","5–9 Years","Te Tai Hauāuru","Male",5685,-0.772837050717431
+"75","10–14 Years","Te Tai Hauāuru","Male",5484,-0.772837050717431
+"76","15–19 Years","Te Tai Hauāuru","Male",4893,-0.772837050717431
+"77","20–24 Years","Te Tai Hauāuru","Male",3573,-0.772837050717431
+"78","25–29 Years","Te Tai Hauāuru","Male",2619,-0.772837050717431
+"79","30–34 Years","Te Tai Hauāuru","Male",2487,-0.772837050717431
+"80","35–39 Years","Te Tai Hauāuru","Male",2478,-0.772837050717431
+"81","40–44 Years","Te Tai Hauāuru","Male",2814,-0.772837050717431
+"82","45–49 Years","Te Tai Hauāuru","Male",2649,-0.772837050717431
+"83","50–54 Years","Te Tai Hauāuru","Male",2463,-0.772837050717431
+"84","55–59 Years","Te Tai Hauāuru","Male",1908,-0.772837050717431
+"85","60–64 Years","Te Tai Hauāuru","Male",1494,-0.772837050717431
+"86","65–69 Years","Te Tai Hauāuru","Male",1017,-0.772837050717431
+"87","70–74 Years","Te Tai Hauāuru","Male",765,-0.772837050717431
+"88","75–79 Years","Te Tai Hauāuru","Male",441,-0.772837050717431
+"89","80–84 Years","Te Tai Hauāuru","Male",213,-0.772837050717431
+"90","85 Years And Over","Te Tai Hauāuru","Male",93,-0.772837050717431
+"91","0–4 Years","Te Tai Hauāuru","Female",5697,-0.772837050717431
+"92","5–9 Years","Te Tai Hauāuru","Female",5331,-0.772837050717431
+"93","10–14 Years","Te Tai Hauāuru","Female",5145,-0.772837050717431
+"94","15–19 Years","Te Tai Hauāuru","Female",4725,-0.772837050717431
+"95","20–24 Years","Te Tai Hauāuru","Female",3984,-0.772837050717431
+"96","25–29 Years","Te Tai Hauāuru","Female",3282,-0.772837050717431
+"97","30–34 Years","Te Tai Hauāuru","Female",3000,-0.772837050717431
+"98","35–39 Years","Te Tai Hauāuru","Female",3198,-0.772837050717431
+"99","40–44 Years","Te Tai Hauāuru","Female",3387,-0.772837050717431
+"100","45–49 Years","Te Tai Hauāuru","Female",2988,-0.772837050717431
+"101","50–54 Years","Te Tai Hauāuru","Female",2931,-0.772837050717431
+"102","55–59 Years","Te Tai Hauāuru","Female",2184,-0.772837050717431
+"103","60–64 Years","Te Tai Hauāuru","Female",1755,-0.772837050717431
+"104","65–69 Years","Te Tai Hauāuru","Female",1197,-0.772837050717431
+"105","70–74 Years","Te Tai Hauāuru","Female",870,-0.772837050717431
+"106","75–79 Years","Te Tai Hauāuru","Female",558,-0.772837050717431
+"107","80–84 Years","Te Tai Hauāuru","Female",306,-0.772837050717431
+"108","85 Years And Over","Te Tai Hauāuru","Female",189,-0.772837050717431
+"109","0–4 Years","Hauraki-Waikato","Male",5907,-0.765763401351617
+"110","5–9 Years","Hauraki-Waikato","Male",5532,-0.765763401351617
+"111","10–14 Years","Hauraki-Waikato","Male",5226,-0.765763401351617
+"112","15–19 Years","Hauraki-Waikato","Male",4641,-0.765763401351617
+"113","20–24 Years","Hauraki-Waikato","Male",3636,-0.765763401351617
+"114","25–29 Years","Hauraki-Waikato","Male",2679,-0.765763401351617
+"115","30–34 Years","Hauraki-Waikato","Male",2391,-0.765763401351617
+"116","35–39 Years","Hauraki-Waikato","Male",2529,-0.765763401351617
+"117","40–44 Years","Hauraki-Waikato","Male",2619,-0.765763401351617
+"118","45–49 Years","Hauraki-Waikato","Male",2325,-0.765763401351617
+"119","50–54 Years","Hauraki-Waikato","Male",2283,-0.765763401351617
+"120","55–59 Years","Hauraki-Waikato","Male",1767,-0.765763401351617
+"121","60–64 Years","Hauraki-Waikato","Male",1350,-0.765763401351617
+"122","65–69 Years","Hauraki-Waikato","Male",954,-0.765763401351617
+"123","70–74 Years","Hauraki-Waikato","Male",615,-0.765763401351617
+"124","75–79 Years","Hauraki-Waikato","Male",315,-0.765763401351617
+"125","80–84 Years","Hauraki-Waikato","Male",168,-0.765763401351617
+"126","85 Years And Over","Hauraki-Waikato","Male",66,-0.765763401351617
+"127","0–4 Years","Hauraki-Waikato","Female",5508,-0.765763401351617
+"128","5–9 Years","Hauraki-Waikato","Female",5268,-0.765763401351617
+"129","10–14 Years","Hauraki-Waikato","Female",4977,-0.765763401351617
+"130","15–19 Years","Hauraki-Waikato","Female",4695,-0.765763401351617
+"131","20–24 Years","Hauraki-Waikato","Female",4233,-0.765763401351617
+"132","25–29 Years","Hauraki-Waikato","Female",3372,-0.765763401351617
+"133","30–34 Years","Hauraki-Waikato","Female",3042,-0.765763401351617
+"134","35–39 Years","Hauraki-Waikato","Female",3162,-0.765763401351617
+"135","40–44 Years","Hauraki-Waikato","Female",3315,-0.765763401351617
+"136","45–49 Years","Hauraki-Waikato","Female",2940,-0.765763401351617
+"137","50–54 Years","Hauraki-Waikato","Female",2751,-0.765763401351617
+"138","55–59 Years","Hauraki-Waikato","Female",2103,-0.765763401351617
+"139","60–64 Years","Hauraki-Waikato","Female",1551,-0.765763401351617
+"140","65–69 Years","Hauraki-Waikato","Female",1062,-0.765763401351617
+"141","70–74 Years","Hauraki-Waikato","Female",708,-0.765763401351617
+"142","75–79 Years","Hauraki-Waikato","Female",417,-0.765763401351617
+"143","80–84 Years","Hauraki-Waikato","Female",282,-0.765763401351617
+"144","85 Years And Over","Hauraki-Waikato","Female",153,-0.765763401351617
+"145","0–4 Years","Tāmaki Makaurau","Male",5235,-0.765323992994746
+"146","5–9 Years","Tāmaki Makaurau","Male",4800,-0.765323992994746
+"147","10–14 Years","Tāmaki Makaurau","Male",4416,-0.765323992994746
+"148","15–19 Years","Tāmaki Makaurau","Male",4329,-0.765323992994746
+"149","20–24 Years","Tāmaki Makaurau","Male",3702,-0.765323992994746
+"150","25–29 Years","Tāmaki Makaurau","Male",2703,-0.765323992994746
+"151","30–34 Years","Tāmaki Makaurau","Male",2427,-0.765323992994746
+"152","35–39 Years","Tāmaki Makaurau","Male",2496,-0.765323992994746
+"153","40–44 Years","Tāmaki Makaurau","Male",2619,-0.765323992994746
+"154","45–49 Years","Tāmaki Makaurau","Male",2427,-0.765323992994746
+"155","50–54 Years","Tāmaki Makaurau","Male",2133,-0.765323992994746
+"156","55–59 Years","Tāmaki Makaurau","Male",1602,-0.765323992994746
+"157","60–64 Years","Tāmaki Makaurau","Male",1200,-0.765323992994746
+"158","65–69 Years","Tāmaki Makaurau","Male",852,-0.765323992994746
+"159","70–74 Years","Tāmaki Makaurau","Male",552,-0.765323992994746
+"160","75–79 Years","Tāmaki Makaurau","Male",300,-0.765323992994746
+"161","80–84 Years","Tāmaki Makaurau","Male",114,-0.765323992994746
+"162","85 Years And Over","Tāmaki Makaurau","Male",57,-0.765323992994746
+"163","0–4 Years","Tāmaki Makaurau","Female",4899,-0.765323992994746
+"164","5–9 Years","Tāmaki Makaurau","Female",4569,-0.765323992994746
+"165","10–14 Years","Tāmaki Makaurau","Female",4206,-0.765323992994746
+"166","15–19 Years","Tāmaki Makaurau","Female",4575,-0.765323992994746
+"167","20–24 Years","Tāmaki Makaurau","Female",4590,-0.765323992994746
+"168","25–29 Years","Tāmaki Makaurau","Female",3531,-0.765323992994746
+"169","30–34 Years","Tāmaki Makaurau","Female",3144,-0.765323992994746
+"170","35–39 Years","Tāmaki Makaurau","Female",3069,-0.765323992994746
+"171","40–44 Years","Tāmaki Makaurau","Female",3240,-0.765323992994746
+"172","45–49 Years","Tāmaki Makaurau","Female",2847,-0.765323992994746
+"173","50–54 Years","Tāmaki Makaurau","Female",2601,-0.765323992994746
+"174","55–59 Years","Tāmaki Makaurau","Female",2013,-0.765323992994746
+"175","60–64 Years","Tāmaki Makaurau","Female",1476,-0.765323992994746
+"176","65–69 Years","Tāmaki Makaurau","Female",969,-0.765323992994746
+"177","70–74 Years","Tāmaki Makaurau","Female",681,-0.765323992994746
+"178","75–79 Years","Tāmaki Makaurau","Female",405,-0.765323992994746
+"179","80–84 Years","Tāmaki Makaurau","Female",240,-0.765323992994746
+"180","85 Years And Over","Tāmaki Makaurau","Female",144,-0.765323992994746
+"181","0–4 Years","Te Tai Tokerau","Male",5793,-0.744785423159914
+"182","5–9 Years","Te Tai Tokerau","Male",5289,-0.744785423159914
+"183","10–14 Years","Te Tai Tokerau","Male",5268,-0.744785423159914
+"184","15–19 Years","Te Tai Tokerau","Male",4569,-0.744785423159914
+"185","20–24 Years","Te Tai Tokerau","Male",3354,-0.744785423159914
+"186","25–29 Years","Te Tai Tokerau","Male",2487,-0.744785423159914
+"187","30–34 Years","Te Tai Tokerau","Male",2307,-0.744785423159914
+"188","35–39 Years","Te Tai Tokerau","Male",2553,-0.744785423159914
+"189","40–44 Years","Te Tai Tokerau","Male",2838,-0.744785423159914
+"190","45–49 Years","Te Tai Tokerau","Male",2751,-0.744785423159914
+"191","50–54 Years","Te Tai Tokerau","Male",2592,-0.744785423159914
+"192","55–59 Years","Te Tai Tokerau","Male",1953,-0.744785423159914
+"193","60–64 Years","Te Tai Tokerau","Male",1521,-0.744785423159914
+"194","65–69 Years","Te Tai Tokerau","Male",1134,-0.744785423159914
+"195","70–74 Years","Te Tai Tokerau","Male",795,-0.744785423159914
+"196","75–79 Years","Te Tai Tokerau","Male",447,-0.744785423159914
+"197","80–84 Years","Te Tai Tokerau","Male",252,-0.744785423159914
+"198","85 Years And Over","Te Tai Tokerau","Male",114,-0.744785423159914
+"199","0–4 Years","Te Tai Tokerau","Female",5460,-0.744785423159914
+"200","5–9 Years","Te Tai Tokerau","Female",5256,-0.744785423159914
+"201","10–14 Years","Te Tai Tokerau","Female",4911,-0.744785423159914
+"202","15–19 Years","Te Tai Tokerau","Female",4449,-0.744785423159914
+"203","20–24 Years","Te Tai Tokerau","Female",3684,-0.744785423159914
+"204","25–29 Years","Te Tai Tokerau","Female",3093,-0.744785423159914
+"205","30–34 Years","Te Tai Tokerau","Female",2880,-0.744785423159914
+"206","35–39 Years","Te Tai Tokerau","Female",3102,-0.744785423159914
+"207","40–44 Years","Te Tai Tokerau","Female",3327,-0.744785423159914
+"208","45–49 Years","Te Tai Tokerau","Female",3147,-0.744785423159914
+"209","50–54 Years","Te Tai Tokerau","Female",3198,-0.744785423159914
+"210","55–59 Years","Te Tai Tokerau","Female",2370,-0.744785423159914
+"211","60–64 Years","Te Tai Tokerau","Female",1902,-0.744785423159914
+"212","65–69 Years","Te Tai Tokerau","Female",1302,-0.744785423159914
+"213","70–74 Years","Te Tai Tokerau","Female",942,-0.744785423159914
+"214","75–79 Years","Te Tai Tokerau","Female",621,-0.744785423159914
+"215","80–84 Years","Te Tai Tokerau","Female",375,-0.744785423159914
+"216","85 Years And Over","Te Tai Tokerau","Female",225,-0.744785423159914
+"217","0–4 Years","Māngere","Male",3321,-0.586052820553738
+"218","5–9 Years","Māngere","Male",3108,-0.586052820553738
+"219","10–14 Years","Māngere","Male",3111,-0.586052820553738
+"220","15–19 Years","Māngere","Male",3054,-0.586052820553738
+"221","20–24 Years","Māngere","Male",2682,-0.586052820553738
+"222","25–29 Years","Māngere","Male",2103,-0.586052820553738
+"223","30–34 Years","Māngere","Male",1974,-0.586052820553738
+"224","35–39 Years","Māngere","Male",1842,-0.586052820553738
+"225","40–44 Years","Māngere","Male",2064,-0.586052820553738
+"226","45–49 Years","Māngere","Male",1989,-0.586052820553738
+"227","50–54 Years","Māngere","Male",1701,-0.586052820553738
+"228","55–59 Years","Māngere","Male",1368,-0.586052820553738
+"229","60–64 Years","Māngere","Male",1200,-0.586052820553738
+"230","65–69 Years","Māngere","Male",972,-0.586052820553738
+"231","70–74 Years","Māngere","Male",711,-0.586052820553738
+"232","75–79 Years","Māngere","Male",450,-0.586052820553738
+"233","80–84 Years","Māngere","Male",243,-0.586052820553738
+"234","85 Years And Over","Māngere","Male",144,-0.586052820553738
+"235","0–4 Years","Māngere","Female",3183,-0.586052820553738
+"236","5–9 Years","Māngere","Female",3021,-0.586052820553738
+"237","10–14 Years","Māngere","Female",3030,-0.586052820553738
+"238","15–19 Years","Māngere","Female",2949,-0.586052820553738
+"239","20–24 Years","Māngere","Female",2844,-0.586052820553738
+"240","25–29 Years","Māngere","Female",2493,-0.586052820553738
+"241","30–34 Years","Māngere","Female",2295,-0.586052820553738
+"242","35–39 Years","Māngere","Female",2175,-0.586052820553738
+"243","40–44 Years","Māngere","Female",2310,-0.586052820553738
+"244","45–49 Years","Māngere","Female",2103,-0.586052820553738
+"245","50–54 Years","Māngere","Female",1857,-0.586052820553738
+"246","55–59 Years","Māngere","Female",1503,-0.586052820553738
+"247","60–64 Years","Māngere","Female",1332,-0.586052820553738
+"248","65–69 Years","Māngere","Female",1038,-0.586052820553738
+"249","70–74 Years","Māngere","Female",792,-0.586052820553738
+"250","75–79 Years","Māngere","Female",516,-0.586052820553738
+"251","80–84 Years","Māngere","Female",318,-0.586052820553738
+"252","85 Years And Over","Māngere","Female",228,-0.586052820553738
+"253","0–4 Years","Te Tai Tonga","Male",7095,-0.583415597235933
+"254","5–9 Years","Te Tai Tonga","Male",6723,-0.583415597235933
+"255","10–14 Years","Te Tai Tonga","Male",6240,-0.583415597235933
+"256","15–19 Years","Te Tai Tonga","Male",6240,-0.583415597235933
+"257","20–24 Years","Te Tai Tonga","Male",5547,-0.583415597235933
+"258","25–29 Years","Te Tai Tonga","Male",3855,-0.583415597235933
+"259","30–34 Years","Te Tai Tonga","Male",3561,-0.583415597235933
+"260","35–39 Years","Te Tai Tonga","Male",3618,-0.583415597235933
+"261","40–44 Years","Te Tai Tonga","Male",3807,-0.583415597235933
+"262","45–49 Years","Te Tai Tonga","Male",3477,-0.583415597235933
+"263","50–54 Years","Te Tai Tonga","Male",3042,-0.583415597235933
+"264","55–59 Years","Te Tai Tonga","Male",2346,-0.583415597235933
+"265","60–64 Years","Te Tai Tonga","Male",1896,-0.583415597235933
+"266","65–69 Years","Te Tai Tonga","Male",1206,-0.583415597235933
+"267","70–74 Years","Te Tai Tonga","Male",915,-0.583415597235933
+"268","75–79 Years","Te Tai Tonga","Male",444,-0.583415597235933
+"269","80–84 Years","Te Tai Tonga","Male",237,-0.583415597235933
+"270","85 Years And Over","Te Tai Tonga","Male",117,-0.583415597235933
+"271","0–4 Years","Te Tai Tonga","Female",6630,-0.583415597235933
+"272","5–9 Years","Te Tai Tonga","Female",6246,-0.583415597235933
+"273","10–14 Years","Te Tai Tonga","Female",6057,-0.583415597235933
+"274","15–19 Years","Te Tai Tonga","Female",6057,-0.583415597235933
+"275","20–24 Years","Te Tai Tonga","Female",5772,-0.583415597235933
+"276","25–29 Years","Te Tai Tonga","Female",4206,-0.583415597235933
+"277","30–34 Years","Te Tai Tonga","Female",3954,-0.583415597235933
+"278","35–39 Years","Te Tai Tonga","Female",4047,-0.583415597235933
+"279","40–44 Years","Te Tai Tonga","Female",4314,-0.583415597235933
+"280","45–49 Years","Te Tai Tonga","Female",3798,-0.583415597235933
+"281","50–54 Years","Te Tai Tonga","Female",3453,-0.583415597235933
+"282","55–59 Years","Te Tai Tonga","Female",2478,-0.583415597235933
+"283","60–64 Years","Te Tai Tonga","Female",1833,-0.583415597235933
+"284","65–69 Years","Te Tai Tonga","Female",1233,-0.583415597235933
+"285","70–74 Years","Te Tai Tonga","Female",846,-0.583415597235933
+"286","75–79 Years","Te Tai Tonga","Female",492,-0.583415597235933
+"287","80–84 Years","Te Tai Tonga","Female",321,-0.583415597235933
+"288","85 Years And Over","Te Tai Tonga","Female",204,-0.583415597235933
+"289","0–4 Years","Manukau East","Male",3057,-0.495884096147514
+"290","5–9 Years","Manukau East","Male",2721,-0.495884096147514
+"291","10–14 Years","Manukau East","Male",2652,-0.495884096147514
+"292","15–19 Years","Manukau East","Male",2775,-0.495884096147514
+"293","20–24 Years","Manukau East","Male",2811,-0.495884096147514
+"294","25–29 Years","Manukau East","Male",2334,-0.495884096147514
+"295","30–34 Years","Manukau East","Male",2157,-0.495884096147514
+"296","35–39 Years","Manukau East","Male",1959,-0.495884096147514
+"297","40–44 Years","Manukau East","Male",2040,-0.495884096147514
+"298","45–49 Years","Manukau East","Male",2004,-0.495884096147514
+"299","50–54 Years","Manukau East","Male",1851,-0.495884096147514
+"300","55–59 Years","Manukau East","Male",1482,-0.495884096147514
+"301","60–64 Years","Manukau East","Male",1302,-0.495884096147514
+"302","65–69 Years","Manukau East","Male",945,-0.495884096147514
+"303","70–74 Years","Manukau East","Male",669,-0.495884096147514
+"304","75–79 Years","Manukau East","Male",456,-0.495884096147514
+"305","80–84 Years","Manukau East","Male",279,-0.495884096147514
+"306","85 Years And Over","Manukau East","Male",195,-0.495884096147514
+"307","0–4 Years","Manukau East","Female",2925,-0.495884096147514
+"308","5–9 Years","Manukau East","Female",2559,-0.495884096147514
+"309","10–14 Years","Manukau East","Female",2592,-0.495884096147514
+"310","15–19 Years","Manukau East","Female",2670,-0.495884096147514
+"311","20–24 Years","Manukau East","Female",2880,-0.495884096147514
+"312","25–29 Years","Manukau East","Female",2610,-0.495884096147514
+"313","30–34 Years","Manukau East","Female",2448,-0.495884096147514
+"314","35–39 Years","Manukau East","Female",2250,-0.495884096147514
+"315","40–44 Years","Manukau East","Female",2223,-0.495884096147514
+"316","45–49 Years","Manukau East","Female",2100,-0.495884096147514
+"317","50–54 Years","Manukau East","Female",1953,-0.495884096147514
+"318","55–59 Years","Manukau East","Female",1557,-0.495884096147514
+"319","60–64 Years","Manukau East","Female",1290,-0.495884096147514
+"320","65–69 Years","Manukau East","Female",1020,-0.495884096147514
+"321","70–74 Years","Manukau East","Female",825,-0.495884096147514
+"322","75–79 Years","Manukau East","Female",600,-0.495884096147514
+"323","80–84 Years","Manukau East","Female",408,-0.495884096147514
+"324","85 Years And Over","Manukau East","Female",336,-0.495884096147514
+"325","0–4 Years","Manurewa","Male",3594,-0.303277352030002
+"326","5–9 Years","Manurewa","Male",3297,-0.303277352030002
+"327","10–14 Years","Manurewa","Male",2988,-0.303277352030002
+"328","15–19 Years","Manurewa","Male",2979,-0.303277352030002
+"329","20–24 Years","Manurewa","Male",3072,-0.303277352030002
+"330","25–29 Years","Manurewa","Male",2556,-0.303277352030002
+"331","30–34 Years","Manurewa","Male",2340,-0.303277352030002
+"332","35–39 Years","Manurewa","Male",2118,-0.303277352030002
+"333","40–44 Years","Manurewa","Male",2292,-0.303277352030002
+"334","45–49 Years","Manurewa","Male",2145,-0.303277352030002
+"335","50–54 Years","Manurewa","Male",2073,-0.303277352030002
+"336","55–59 Years","Manurewa","Male",1665,-0.303277352030002
+"337","60–64 Years","Manurewa","Male",1374,-0.303277352030002
+"338","65–69 Years","Manurewa","Male",1026,-0.303277352030002
+"339","70–74 Years","Manurewa","Male",699,-0.303277352030002
+"340","75–79 Years","Manurewa","Male",420,-0.303277352030002
+"341","80–84 Years","Manurewa","Male",273,-0.303277352030002
+"342","85 Years And Over","Manurewa","Male",183,-0.303277352030002
+"343","0–4 Years","Manurewa","Female",3507,-0.303277352030002
+"344","5–9 Years","Manurewa","Female",3150,-0.303277352030002
+"345","10–14 Years","Manurewa","Female",2949,-0.303277352030002
+"346","15–19 Years","Manurewa","Female",3051,-0.303277352030002
+"347","20–24 Years","Manurewa","Female",3174,-0.303277352030002
+"348","25–29 Years","Manurewa","Female",2967,-0.303277352030002
+"349","30–34 Years","Manurewa","Female",2739,-0.303277352030002
+"350","35–39 Years","Manurewa","Female",2421,-0.303277352030002
+"351","40–44 Years","Manurewa","Female",2472,-0.303277352030002
+"352","45–49 Years","Manurewa","Female",2406,-0.303277352030002
+"353","50–54 Years","Manurewa","Female",2292,-0.303277352030002
+"354","55–59 Years","Manurewa","Female",1866,-0.303277352030002
+"355","60–64 Years","Manurewa","Female",1491,-0.303277352030002
+"356","65–69 Years","Manurewa","Female",1116,-0.303277352030002
+"357","70–74 Years","Manurewa","Female",741,-0.303277352030002
+"358","75–79 Years","Manurewa","Female",480,-0.303277352030002
+"359","80–84 Years","Manurewa","Female",399,-0.303277352030002
+"360","85 Years And Over","Manurewa","Female",306,-0.303277352030002
+"361","0–4 Years","Rongotai","Male",2217,-0.255223589142746
+"362","5–9 Years","Rongotai","Male",1989,-0.255223589142746
+"363","10–14 Years","Rongotai","Male",1794,-0.255223589142746
+"364","15–19 Years","Rongotai","Male",1842,-0.255223589142746
+"365","20–24 Years","Rongotai","Male",2598,-0.255223589142746
+"366","25–29 Years","Rongotai","Male",2454,-0.255223589142746
+"367","30–34 Years","Rongotai","Male",2478,-0.255223589142746
+"368","35–39 Years","Rongotai","Male",2457,-0.255223589142746
+"369","40–44 Years","Rongotai","Male",2445,-0.255223589142746
+"370","45–49 Years","Rongotai","Male",2298,-0.255223589142746
+"371","50–54 Years","Rongotai","Male",2115,-0.255223589142746
+"372","55–59 Years","Rongotai","Male",1614,-0.255223589142746
+"373","60–64 Years","Rongotai","Male",1404,-0.255223589142746
+"374","65–69 Years","Rongotai","Male",978,-0.255223589142746
+"375","70–74 Years","Rongotai","Male",717,-0.255223589142746
+"376","75–79 Years","Rongotai","Male",510,-0.255223589142746
+"377","80–84 Years","Rongotai","Male",402,-0.255223589142746
+"378","85 Years And Over","Rongotai","Male",312,-0.255223589142746
+"379","0–4 Years","Rongotai","Female",2121,-0.255223589142746
+"380","5–9 Years","Rongotai","Female",1962,-0.255223589142746
+"381","10–14 Years","Rongotai","Female",1728,-0.255223589142746
+"382","15–19 Years","Rongotai","Female",1722,-0.255223589142746
+"383","20–24 Years","Rongotai","Female",2736,-0.255223589142746
+"384","25–29 Years","Rongotai","Female",2715,-0.255223589142746
+"385","30–34 Years","Rongotai","Female",2751,-0.255223589142746
+"386","35–39 Years","Rongotai","Female",2724,-0.255223589142746
+"387","40–44 Years","Rongotai","Female",2718,-0.255223589142746
+"388","45–49 Years","Rongotai","Female",2583,-0.255223589142746
+"389","50–54 Years","Rongotai","Female",2259,-0.255223589142746
+"390","55–59 Years","Rongotai","Female",1776,-0.255223589142746
+"391","60–64 Years","Rongotai","Female",1407,-0.255223589142746
+"392","65–69 Years","Rongotai","Female",1035,-0.255223589142746
+"393","70–74 Years","Rongotai","Female",834,-0.255223589142746
+"394","75–79 Years","Rongotai","Female",627,-0.255223589142746
+"395","80–84 Years","Rongotai","Female",537,-0.255223589142746
+"396","85 Years And Over","Rongotai","Female",594,-0.255223589142746
+"397","0–4 Years","Dunedin North","Male",1491,-0.230640044784475
+"398","5–9 Years","Dunedin North","Male",1422,-0.230640044784475
+"399","10–14 Years","Dunedin North","Male",1533,-0.230640044784475
+"400","15–19 Years","Dunedin North","Male",3951,-0.230640044784475
+"401","20–24 Years","Dunedin North","Male",4917,-0.230640044784475
+"402","25–29 Years","Dunedin North","Male",1869,-0.230640044784475
+"403","30–34 Years","Dunedin North","Male",1518,-0.230640044784475
+"404","35–39 Years","Dunedin North","Male",1485,-0.230640044784475
+"405","40–44 Years","Dunedin North","Male",1671,-0.230640044784475
+"406","45–49 Years","Dunedin North","Male",1683,-0.230640044784475
+"407","50–54 Years","Dunedin North","Male",1857,-0.230640044784475
+"408","55–59 Years","Dunedin North","Male",1674,-0.230640044784475
+"409","60–64 Years","Dunedin North","Male",1461,-0.230640044784475
+"410","65–69 Years","Dunedin North","Male",1167,-0.230640044784475
+"411","70–74 Years","Dunedin North","Male",837,-0.230640044784475
+"412","75–79 Years","Dunedin North","Male",576,-0.230640044784475
+"413","80–84 Years","Dunedin North","Male",450,-0.230640044784475
+"414","85 Years And Over","Dunedin North","Male",291,-0.230640044784475
+"415","0–4 Years","Dunedin North","Female",1302,-0.230640044784475
+"416","5–9 Years","Dunedin North","Female",1314,-0.230640044784475
+"417","10–14 Years","Dunedin North","Female",1437,-0.230640044784475
+"418","15–19 Years","Dunedin North","Female",5013,-0.230640044784475
+"419","20–24 Years","Dunedin North","Female",5283,-0.230640044784475
+"420","25–29 Years","Dunedin North","Female",1773,-0.230640044784475
+"421","30–34 Years","Dunedin North","Female",1587,-0.230640044784475
+"422","35–39 Years","Dunedin North","Female",1602,-0.230640044784475
+"423","40–44 Years","Dunedin North","Female",1836,-0.230640044784475
+"424","45–49 Years","Dunedin North","Female",1848,-0.230640044784475
+"425","50–54 Years","Dunedin North","Female",2019,-0.230640044784475
+"426","55–59 Years","Dunedin North","Female",1761,-0.230640044784475
+"427","60–64 Years","Dunedin North","Female",1461,-0.230640044784475
+"428","65–69 Years","Dunedin North","Female",1158,-0.230640044784475
+"429","70–74 Years","Dunedin North","Female",894,-0.230640044784475
+"430","75–79 Years","Dunedin North","Female",675,-0.230640044784475
+"431","80–84 Years","Dunedin North","Female",582,-0.230640044784475
+"432","85 Years And Over","Dunedin North","Female",630,-0.230640044784475
+"433","0–4 Years","Kelston","Male",2844,-0.198590232323959
+"434","5–9 Years","Kelston","Male",2418,-0.198590232323959
+"435","10–14 Years","Kelston","Male",2214,-0.198590232323959
+"436","15–19 Years","Kelston","Male",2286,-0.198590232323959
+"437","20–24 Years","Kelston","Male",2361,-0.198590232323959
+"438","25–29 Years","Kelston","Male",2178,-0.198590232323959
+"439","30–34 Years","Kelston","Male",2301,-0.198590232323959
+"440","35–39 Years","Kelston","Male",2217,-0.198590232323959
+"441","40–44 Years","Kelston","Male",2268,-0.198590232323959
+"442","45–49 Years","Kelston","Male",2040,-0.198590232323959
+"443","50–54 Years","Kelston","Male",1938,-0.198590232323959
+"444","55–59 Years","Kelston","Male",1584,-0.198590232323959
+"445","60–64 Years","Kelston","Male",1245,-0.198590232323959
+"446","65–69 Years","Kelston","Male",975,-0.198590232323959
+"447","70–74 Years","Kelston","Male",711,-0.198590232323959
+"448","75–79 Years","Kelston","Male",432,-0.198590232323959
+"449","80–84 Years","Kelston","Male",315,-0.198590232323959
+"450","85 Years And Over","Kelston","Male",177,-0.198590232323959
+"451","0–4 Years","Kelston","Female",2649,-0.198590232323959
+"452","5–9 Years","Kelston","Female",2166,-0.198590232323959
+"453","10–14 Years","Kelston","Female",2139,-0.198590232323959
+"454","15–19 Years","Kelston","Female",2340,-0.198590232323959
+"455","20–24 Years","Kelston","Female",2514,-0.198590232323959
+"456","25–29 Years","Kelston","Female",2514,-0.198590232323959
+"457","30–34 Years","Kelston","Female",2583,-0.198590232323959
+"458","35–39 Years","Kelston","Female",2415,-0.198590232323959
+"459","40–44 Years","Kelston","Female",2496,-0.198590232323959
+"460","45–49 Years","Kelston","Female",2286,-0.198590232323959
+"461","50–54 Years","Kelston","Female",2181,-0.198590232323959
+"462","55–59 Years","Kelston","Female",1788,-0.198590232323959
+"463","60–64 Years","Kelston","Female",1326,-0.198590232323959
+"464","65–69 Years","Kelston","Female",1080,-0.198590232323959
+"465","70–74 Years","Kelston","Female",768,-0.198590232323959
+"466","75–79 Years","Kelston","Female",582,-0.198590232323959
+"467","80–84 Years","Kelston","Female",402,-0.198590232323959
+"468","85 Years And Over","Kelston","Female",360,-0.198590232323959
+"469","0–4 Years","Wellington Central","Male",1242,-0.158888107728084
+"470","5–9 Years","Wellington Central","Male",1266,-0.158888107728084
+"471","10–14 Years","Wellington Central","Male",1299,-0.158888107728084
+"472","15–19 Years","Wellington Central","Male",2874,-0.158888107728084
+"473","20–24 Years","Wellington Central","Male",4812,-0.158888107728084
+"474","25–29 Years","Wellington Central","Male",3780,-0.158888107728084
+"475","30–34 Years","Wellington Central","Male",2940,-0.158888107728084
+"476","35–39 Years","Wellington Central","Male",2157,-0.158888107728084
+"477","40–44 Years","Wellington Central","Male",1905,-0.158888107728084
+"478","45–49 Years","Wellington Central","Male",1803,-0.158888107728084
+"479","50–54 Years","Wellington Central","Male",1653,-0.158888107728084
+"480","55–59 Years","Wellington Central","Male",1308,-0.158888107728084
+"481","60–64 Years","Wellington Central","Male",1254,-0.158888107728084
+"482","65–69 Years","Wellington Central","Male",942,-0.158888107728084
+"483","70–74 Years","Wellington Central","Male",567,-0.158888107728084
+"484","75–79 Years","Wellington Central","Male",345,-0.158888107728084
+"485","80–84 Years","Wellington Central","Male",261,-0.158888107728084
+"486","85 Years And Over","Wellington Central","Male",186,-0.158888107728084
+"487","0–4 Years","Wellington Central","Female",1158,-0.158888107728084
+"488","5–9 Years","Wellington Central","Female",1152,-0.158888107728084
+"489","10–14 Years","Wellington Central","Female",1170,-0.158888107728084
+"490","15–19 Years","Wellington Central","Female",3714,-0.158888107728084
+"491","20–24 Years","Wellington Central","Female",5673,-0.158888107728084
+"492","25–29 Years","Wellington Central","Female",3756,-0.158888107728084
+"493","30–34 Years","Wellington Central","Female",2748,-0.158888107728084
+"494","35–39 Years","Wellington Central","Female",2004,-0.158888107728084
+"495","40–44 Years","Wellington Central","Female",1974,-0.158888107728084
+"496","45–49 Years","Wellington Central","Female",1890,-0.158888107728084
+"497","50–54 Years","Wellington Central","Female",1776,-0.158888107728084
+"498","55–59 Years","Wellington Central","Female",1494,-0.158888107728084
+"499","60–64 Years","Wellington Central","Female",1248,-0.158888107728084
+"500","65–69 Years","Wellington Central","Female",903,-0.158888107728084
+"501","70–74 Years","Wellington Central","Female",597,-0.158888107728084
+"502","75–79 Years","Wellington Central","Female",411,-0.158888107728084
+"503","80–84 Years","Wellington Central","Female",363,-0.158888107728084
+"504","85 Years And Over","Wellington Central","Female",318,-0.158888107728084
+"505","0–4 Years","Mt Albert","Male",2334,-0.114642191309336
+"506","5–9 Years","Mt Albert","Male",2067,-0.114642191309336
+"507","10–14 Years","Mt Albert","Male",1746,-0.114642191309336
+"508","15–19 Years","Mt Albert","Male",1839,-0.114642191309336
+"509","20–24 Years","Mt Albert","Male",2757,-0.114642191309336
+"510","25–29 Years","Mt Albert","Male",2928,-0.114642191309336
+"511","30–34 Years","Mt Albert","Male",2877,-0.114642191309336
+"512","35–39 Years","Mt Albert","Male",2757,-0.114642191309336
+"513","40–44 Years","Mt Albert","Male",2607,-0.114642191309336
+"514","45–49 Years","Mt Albert","Male",2283,-0.114642191309336
+"515","50–54 Years","Mt Albert","Male",1932,-0.114642191309336
+"516","55–59 Years","Mt Albert","Male",1470,-0.114642191309336
+"517","60–64 Years","Mt Albert","Male",1155,-0.114642191309336
+"518","65–69 Years","Mt Albert","Male",777,-0.114642191309336
+"519","70–74 Years","Mt Albert","Male",564,-0.114642191309336
+"520","75–79 Years","Mt Albert","Male",387,-0.114642191309336
+"521","80–84 Years","Mt Albert","Male",306,-0.114642191309336
+"522","85 Years And Over","Mt Albert","Male",270,-0.114642191309336
+"523","0–4 Years","Mt Albert","Female",2277,-0.114642191309336
+"524","5–9 Years","Mt Albert","Female",1983,-0.114642191309336
+"525","10–14 Years","Mt Albert","Female",1578,-0.114642191309336
+"526","15–19 Years","Mt Albert","Female",1770,-0.114642191309336
+"527","20–24 Years","Mt Albert","Female",2808,-0.114642191309336
+"528","25–29 Years","Mt Albert","Female",3225,-0.114642191309336
+"529","30–34 Years","Mt Albert","Female",3078,-0.114642191309336
+"530","35–39 Years","Mt Albert","Female",2964,-0.114642191309336
+"531","40–44 Years","Mt Albert","Female",2817,-0.114642191309336
+"532","45–49 Years","Mt Albert","Female",2307,-0.114642191309336
+"533","50–54 Years","Mt Albert","Female",2028,-0.114642191309336
+"534","55–59 Years","Mt Albert","Female",1575,-0.114642191309336
+"535","60–64 Years","Mt Albert","Female",1206,-0.114642191309336
+"536","65–69 Years","Mt Albert","Female",822,-0.114642191309336
+"537","70–74 Years","Mt Albert","Female",639,-0.114642191309336
+"538","75–79 Years","Mt Albert","Female",495,-0.114642191309336
+"539","80–84 Years","Mt Albert","Female",405,-0.114642191309336
+"540","85 Years And Over","Mt Albert","Female",570,-0.114642191309336
+"541","0–4 Years","Mana","Male",2868,-0.0517750156487526
+"542","5–9 Years","Mana","Male",2742,-0.0517750156487526
+"543","10–14 Years","Mana","Male",2712,-0.0517750156487526
+"544","15–19 Years","Mana","Male",2568,-0.0517750156487526
+"545","20–24 Years","Mana","Male",1977,-0.0517750156487526
+"546","25–29 Years","Mana","Male",1602,-0.0517750156487526
+"547","30–34 Years","Mana","Male",1839,-0.0517750156487526
+"548","35–39 Years","Mana","Male",2172,-0.0517750156487526
+"549","40–44 Years","Mana","Male",2538,-0.0517750156487526
+"550","45–49 Years","Mana","Male",2511,-0.0517750156487526
+"551","50–54 Years","Mana","Male",2250,-0.0517750156487526
+"552","55–59 Years","Mana","Male",2061,-0.0517750156487526
+"553","60–64 Years","Mana","Male",1710,-0.0517750156487526
+"554","65–69 Years","Mana","Male",1395,-0.0517750156487526
+"555","70–74 Years","Mana","Male",987,-0.0517750156487526
+"556","75–79 Years","Mana","Male",597,-0.0517750156487526
+"557","80–84 Years","Mana","Male",429,-0.0517750156487526
+"558","85 Years And Over","Mana","Male",297,-0.0517750156487526
+"559","0–4 Years","Mana","Female",2751,-0.0517750156487526
+"560","5–9 Years","Mana","Female",2754,-0.0517750156487526
+"561","10–14 Years","Mana","Female",2586,-0.0517750156487526
+"562","15–19 Years","Mana","Female",2403,-0.0517750156487526
+"563","20–24 Years","Mana","Female",2172,-0.0517750156487526
+"564","25–29 Years","Mana","Female",1857,-0.0517750156487526
+"565","30–34 Years","Mana","Female",2208,-0.0517750156487526
+"566","35–39 Years","Mana","Female",2598,-0.0517750156487526
+"567","40–44 Years","Mana","Female",2925,-0.0517750156487526
+"568","45–49 Years","Mana","Female",2691,-0.0517750156487526
+"569","50–54 Years","Mana","Female",2604,-0.0517750156487526
+"570","55–59 Years","Mana","Female",2118,-0.0517750156487526
+"571","60–64 Years","Mana","Female",1887,-0.0517750156487526
+"572","65–69 Years","Mana","Female",1434,-0.0517750156487526
+"573","70–74 Years","Mana","Female",1080,-0.0517750156487526
+"574","75–79 Years","Mana","Female",732,-0.0517750156487526
+"575","80–84 Years","Mana","Female",585,-0.0517750156487526
+"576","85 Years And Over","Mana","Female",534,-0.0517750156487526
+"577","0–4 Years","Dunedin South","Male",1896,-0.0361903630911736
+"578","5–9 Years","Dunedin South","Male",1974,-0.0361903630911736
+"579","10–14 Years","Dunedin South","Male",2040,-0.0361903630911736
+"580","15–19 Years","Dunedin South","Male",1941,-0.0361903630911736
+"581","20–24 Years","Dunedin South","Male",1452,-0.0361903630911736
+"582","25–29 Years","Dunedin South","Male",1476,-0.0361903630911736
+"583","30–34 Years","Dunedin South","Male",1545,-0.0361903630911736
+"584","35–39 Years","Dunedin South","Male",1617,-0.0361903630911736
+"585","40–44 Years","Dunedin South","Male",2040,-0.0361903630911736
+"586","45–49 Years","Dunedin South","Male",2061,-0.0361903630911736
+"587","50–54 Years","Dunedin South","Male",2247,-0.0361903630911736
+"588","55–59 Years","Dunedin South","Male",2124,-0.0361903630911736
+"589","60–64 Years","Dunedin South","Male",1791,-0.0361903630911736
+"590","65–69 Years","Dunedin South","Male",1554,-0.0361903630911736
+"591","70–74 Years","Dunedin South","Male",1173,-0.0361903630911736
+"592","75–79 Years","Dunedin South","Male",903,-0.0361903630911736
+"593","80–84 Years","Dunedin South","Male",708,-0.0361903630911736
+"594","85 Years And Over","Dunedin South","Male",594,-0.0361903630911736
+"595","0–4 Years","Dunedin South","Female",1812,-0.0361903630911736
+"596","5–9 Years","Dunedin South","Female",1848,-0.0361903630911736
+"597","10–14 Years","Dunedin South","Female",1800,-0.0361903630911736
+"598","15–19 Years","Dunedin South","Female",1791,-0.0361903630911736
+"599","20–24 Years","Dunedin South","Female",1527,-0.0361903630911736
+"600","25–29 Years","Dunedin South","Female",1596,-0.0361903630911736
+"601","30–34 Years","Dunedin South","Female",1743,-0.0361903630911736
+"602","35–39 Years","Dunedin South","Female",1998,-0.0361903630911736
+"603","40–44 Years","Dunedin South","Female",2409,-0.0361903630911736
+"604","45–49 Years","Dunedin South","Female",2349,-0.0361903630911736
+"605","50–54 Years","Dunedin South","Female",2442,-0.0361903630911736
+"606","55–59 Years","Dunedin South","Female",2118,-0.0361903630911736
+"607","60–64 Years","Dunedin South","Female",1968,-0.0361903630911736
+"608","65–69 Years","Dunedin South","Female",1617,-0.0361903630911736
+"609","70–74 Years","Dunedin South","Female",1419,-0.0361903630911736
+"610","75–79 Years","Dunedin South","Female",1149,-0.0361903630911736
+"611","80–84 Years","Dunedin South","Female",1008,-0.0361903630911736
+"612","85 Years And Over","Dunedin South","Female",1095,-0.0361903630911736
+"613","0–4 Years","New Lynn","Male",2247,-0.0294845092423848
+"614","5–9 Years","New Lynn","Male",1971,-0.0294845092423848
+"615","10–14 Years","New Lynn","Male",1845,-0.0294845092423848
+"616","15–19 Years","New Lynn","Male",2166,-0.0294845092423848
+"617","20–24 Years","New Lynn","Male",2274,-0.0294845092423848
+"618","25–29 Years","New Lynn","Male",2223,-0.0294845092423848
+"619","30–34 Years","New Lynn","Male",2190,-0.0294845092423848
+"620","35–39 Years","New Lynn","Male",2058,-0.0294845092423848
+"621","40–44 Years","New Lynn","Male",2157,-0.0294845092423848
+"622","45–49 Years","New Lynn","Male",2052,-0.0294845092423848
+"623","50–54 Years","New Lynn","Male",1992,-0.0294845092423848
+"624","55–59 Years","New Lynn","Male",1659,-0.0294845092423848
+"625","60–64 Years","New Lynn","Male",1347,-0.0294845092423848
+"626","65–69 Years","New Lynn","Male",1089,-0.0294845092423848
+"627","70–74 Years","New Lynn","Male",939,-0.0294845092423848
+"628","75–79 Years","New Lynn","Male",762,-0.0294845092423848
+"629","80–84 Years","New Lynn","Male",519,-0.0294845092423848
+"630","85 Years And Over","New Lynn","Male",402,-0.0294845092423848
+"631","0–4 Years","New Lynn","Female",2088,-0.0294845092423848
+"632","5–9 Years","New Lynn","Female",1809,-0.0294845092423848
+"633","10–14 Years","New Lynn","Female",1746,-0.0294845092423848
+"634","15–19 Years","New Lynn","Female",2034,-0.0294845092423848
+"635","20–24 Years","New Lynn","Female",2214,-0.0294845092423848
+"636","25–29 Years","New Lynn","Female",2220,-0.0294845092423848
+"637","30–34 Years","New Lynn","Female",2427,-0.0294845092423848
+"638","35–39 Years","New Lynn","Female",2169,-0.0294845092423848
+"639","40–44 Years","New Lynn","Female",2394,-0.0294845092423848
+"640","45–49 Years","New Lynn","Female",2331,-0.0294845092423848
+"641","50–54 Years","New Lynn","Female",2070,-0.0294845092423848
+"642","55–59 Years","New Lynn","Female",1734,-0.0294845092423848
+"643","60–64 Years","New Lynn","Female",1464,-0.0294845092423848
+"644","65–69 Years","New Lynn","Female",1218,-0.0294845092423848
+"645","70–74 Years","New Lynn","Female",1095,-0.0294845092423848
+"646","75–79 Years","New Lynn","Female",918,-0.0294845092423848
+"647","80–84 Years","New Lynn","Female",720,-0.0294845092423848
+"648","85 Years And Over","New Lynn","Female",726,-0.0294845092423848
+"649","0–4 Years","Christchurch East","Male",2310,-0.0261212079331076
+"650","5–9 Years","Christchurch East","Male",2187,-0.0261212079331076
+"651","10–14 Years","Christchurch East","Male",2106,-0.0261212079331076
+"652","15–19 Years","Christchurch East","Male",2187,-0.0261212079331076
+"653","20–24 Years","Christchurch East","Male",2025,-0.0261212079331076
+"654","25–29 Years","Christchurch East","Male",1923,-0.0261212079331076
+"655","30–34 Years","Christchurch East","Male",1983,-0.0261212079331076
+"656","35–39 Years","Christchurch East","Male",2196,-0.0261212079331076
+"657","40–44 Years","Christchurch East","Male",2496,-0.0261212079331076
+"658","45–49 Years","Christchurch East","Male",2337,-0.0261212079331076
+"659","50–54 Years","Christchurch East","Male",2364,-0.0261212079331076
+"660","55–59 Years","Christchurch East","Male",2019,-0.0261212079331076
+"661","60–64 Years","Christchurch East","Male",1794,-0.0261212079331076
+"662","65–69 Years","Christchurch East","Male",1371,-0.0261212079331076
+"663","70–74 Years","Christchurch East","Male",930,-0.0261212079331076
+"664","75–79 Years","Christchurch East","Male",696,-0.0261212079331076
+"665","80–84 Years","Christchurch East","Male",531,-0.0261212079331076
+"666","85 Years And Over","Christchurch East","Male",405,-0.0261212079331076
+"667","0–4 Years","Christchurch East","Female",2304,-0.0261212079331076
+"668","5–9 Years","Christchurch East","Female",2019,-0.0261212079331076
+"669","10–14 Years","Christchurch East","Female",2052,-0.0261212079331076
+"670","15–19 Years","Christchurch East","Female",1989,-0.0261212079331076
+"671","20–24 Years","Christchurch East","Female",1980,-0.0261212079331076
+"672","25–29 Years","Christchurch East","Female",1929,-0.0261212079331076
+"673","30–34 Years","Christchurch East","Female",2127,-0.0261212079331076
+"674","35–39 Years","Christchurch East","Female",2379,-0.0261212079331076
+"675","40–44 Years","Christchurch East","Female",2538,-0.0261212079331076
+"676","45–49 Years","Christchurch East","Female",2421,-0.0261212079331076
+"677","50–54 Years","Christchurch East","Female",2469,-0.0261212079331076
+"678","55–59 Years","Christchurch East","Female",2136,-0.0261212079331076
+"679","60–64 Years","Christchurch East","Female",1836,-0.0261212079331076
+"680","65–69 Years","Christchurch East","Female",1476,-0.0261212079331076
+"681","70–74 Years","Christchurch East","Female",1089,-0.0261212079331076
+"682","75–79 Years","Christchurch East","Female",801,-0.0261212079331076
+"683","80–84 Years","Christchurch East","Female",714,-0.0261212079331076
+"684","85 Years And Over","Christchurch East","Female",642,-0.0261212079331076
+"685","0–4 Years","Maungakiekie","Male",2997,0.00486702044148585
+"686","5–9 Years","Maungakiekie","Male",2238,0.00486702044148585
+"687","10–14 Years","Maungakiekie","Male",1932,0.00486702044148585
+"688","15–19 Years","Maungakiekie","Male",1923,0.00486702044148585
+"689","20–24 Years","Maungakiekie","Male",2457,0.00486702044148585
+"690","25–29 Years","Maungakiekie","Male",2799,0.00486702044148585
+"691","30–34 Years","Maungakiekie","Male",3060,0.00486702044148585
+"692","35–39 Years","Maungakiekie","Male",2664,0.00486702044148585
+"693","40–44 Years","Maungakiekie","Male",2379,0.00486702044148585
+"694","45–49 Years","Maungakiekie","Male",1992,0.00486702044148585
+"695","50–54 Years","Maungakiekie","Male",1911,0.00486702044148585
+"696","55–59 Years","Maungakiekie","Male",1665,0.00486702044148585
+"697","60–64 Years","Maungakiekie","Male",1449,0.00486702044148585
+"698","65–69 Years","Maungakiekie","Male",1065,0.00486702044148585
+"699","70–74 Years","Maungakiekie","Male",777,0.00486702044148585
+"700","75–79 Years","Maungakiekie","Male",573,0.00486702044148585
+"701","80–84 Years","Maungakiekie","Male",366,0.00486702044148585
+"702","85 Years And Over","Maungakiekie","Male",315,0.00486702044148585
+"703","0–4 Years","Maungakiekie","Female",2808,0.00486702044148585
+"704","5–9 Years","Maungakiekie","Female",2208,0.00486702044148585
+"705","10–14 Years","Maungakiekie","Female",1827,0.00486702044148585
+"706","15–19 Years","Maungakiekie","Female",1938,0.00486702044148585
+"707","20–24 Years","Maungakiekie","Female",2754,0.00486702044148585
+"708","25–29 Years","Maungakiekie","Female",3174,0.00486702044148585
+"709","30–34 Years","Maungakiekie","Female",3363,0.00486702044148585
+"710","35–39 Years","Maungakiekie","Female",2859,0.00486702044148585
+"711","40–44 Years","Maungakiekie","Female",2538,0.00486702044148585
+"712","45–49 Years","Maungakiekie","Female",2214,0.00486702044148585
+"713","50–54 Years","Maungakiekie","Female",2064,0.00486702044148585
+"714","55–59 Years","Maungakiekie","Female",1860,0.00486702044148585
+"715","60–64 Years","Maungakiekie","Female",1560,0.00486702044148585
+"716","65–69 Years","Maungakiekie","Female",1173,0.00486702044148585
+"717","70–74 Years","Maungakiekie","Female",927,0.00486702044148585
+"718","75–79 Years","Maungakiekie","Female",600,0.00486702044148585
+"719","80–84 Years","Maungakiekie","Female",501,0.00486702044148585
+"720","85 Years And Over","Maungakiekie","Female",645,0.00486702044148585
+"721","0–4 Years","Mt Roskill","Male",2178,0.0143423287412719
+"722","5–9 Years","Mt Roskill","Male",2031,0.0143423287412719
+"723","10–14 Years","Mt Roskill","Male",1875,0.0143423287412719
+"724","15–19 Years","Mt Roskill","Male",2166,0.0143423287412719
+"725","20–24 Years","Mt Roskill","Male",2667,0.0143423287412719
+"726","25–29 Years","Mt Roskill","Male",2358,0.0143423287412719
+"727","30–34 Years","Mt Roskill","Male",2190,0.0143423287412719
+"728","35–39 Years","Mt Roskill","Male",1929,0.0143423287412719
+"729","40–44 Years","Mt Roskill","Male",2031,0.0143423287412719
+"730","45–49 Years","Mt Roskill","Male",2022,0.0143423287412719
+"731","50–54 Years","Mt Roskill","Male",1959,0.0143423287412719
+"732","55–59 Years","Mt Roskill","Male",1725,0.0143423287412719
+"733","60–64 Years","Mt Roskill","Male",1461,0.0143423287412719
+"734","65–69 Years","Mt Roskill","Male",948,0.0143423287412719
+"735","70–74 Years","Mt Roskill","Male",798,0.0143423287412719
+"736","75–79 Years","Mt Roskill","Male",549,0.0143423287412719
+"737","80–84 Years","Mt Roskill","Male",381,0.0143423287412719
+"738","85 Years And Over","Mt Roskill","Male",345,0.0143423287412719
+"739","0–4 Years","Mt Roskill","Female",2037,0.0143423287412719
+"740","5–9 Years","Mt Roskill","Female",1938,0.0143423287412719
+"741","10–14 Years","Mt Roskill","Female",1815,0.0143423287412719
+"742","15–19 Years","Mt Roskill","Female",2172,0.0143423287412719
+"743","20–24 Years","Mt Roskill","Female",2694,0.0143423287412719
+"744","25–29 Years","Mt Roskill","Female",2532,0.0143423287412719
+"745","30–34 Years","Mt Roskill","Female",2373,0.0143423287412719
+"746","35–39 Years","Mt Roskill","Female",2217,0.0143423287412719
+"747","40–44 Years","Mt Roskill","Female",2364,0.0143423287412719
+"748","45–49 Years","Mt Roskill","Female",2244,0.0143423287412719
+"749","50–54 Years","Mt Roskill","Female",2235,0.0143423287412719
+"750","55–59 Years","Mt Roskill","Female",1824,0.0143423287412719
+"751","60–64 Years","Mt Roskill","Female",1446,0.0143423287412719
+"752","65–69 Years","Mt Roskill","Female",1122,0.0143423287412719
+"753","70–74 Years","Mt Roskill","Female",885,0.0143423287412719
+"754","75–79 Years","Mt Roskill","Female",663,0.0143423287412719
+"755","80–84 Years","Mt Roskill","Female",516,0.0143423287412719
+"756","85 Years And Over","Mt Roskill","Female",705,0.0143423287412719
+"757","0–4 Years","Te Atatū","Male",3015,0.0213518382598252
+"758","5–9 Years","Te Atatū","Male",2496,0.0213518382598252
+"759","10–14 Years","Te Atatū","Male",2373,0.0213518382598252
+"760","15–19 Years","Te Atatū","Male",2448,0.0213518382598252
+"761","20–24 Years","Te Atatū","Male",2334,0.0213518382598252
+"762","25–29 Years","Te Atatū","Male",2067,0.0213518382598252
+"763","30–34 Years","Te Atatū","Male",2292,0.0213518382598252
+"764","35–39 Years","Te Atatū","Male",2364,0.0213518382598252
+"765","40–44 Years","Te Atatū","Male",2400,0.0213518382598252
+"766","45–49 Years","Te Atatū","Male",2208,0.0213518382598252
+"767","50–54 Years","Te Atatū","Male",2109,0.0213518382598252
+"768","55–59 Years","Te Atatū","Male",1677,0.0213518382598252
+"769","60–64 Years","Te Atatū","Male",1395,0.0213518382598252
+"770","65–69 Years","Te Atatū","Male",1152,0.0213518382598252
+"771","70–74 Years","Te Atatū","Male",867,0.0213518382598252
+"772","75–79 Years","Te Atatū","Male",663,0.0213518382598252
+"773","80–84 Years","Te Atatū","Male",492,0.0213518382598252
+"774","85 Years And Over","Te Atatū","Male",324,0.0213518382598252
+"775","0–4 Years","Te Atatū","Female",2835,0.0213518382598252
+"776","5–9 Years","Te Atatū","Female",2418,0.0213518382598252
+"777","10–14 Years","Te Atatū","Female",2304,0.0213518382598252
+"778","15–19 Years","Te Atatū","Female",2466,0.0213518382598252
+"779","20–24 Years","Te Atatū","Female",2343,0.0213518382598252
+"780","25–29 Years","Te Atatū","Female",2412,0.0213518382598252
+"781","30–34 Years","Te Atatū","Female",2685,0.0213518382598252
+"782","35–39 Years","Te Atatū","Female",2598,0.0213518382598252
+"783","40–44 Years","Te Atatū","Female",2661,0.0213518382598252
+"784","45–49 Years","Te Atatū","Female",2436,0.0213518382598252
+"785","50–54 Years","Te Atatū","Female",2214,0.0213518382598252
+"786","55–59 Years","Te Atatū","Female",1872,0.0213518382598252
+"787","60–64 Years","Te Atatū","Female",1617,0.0213518382598252
+"788","65–69 Years","Te Atatū","Female",1323,0.0213518382598252
+"789","70–74 Years","Te Atatū","Female",1038,0.0213518382598252
+"790","75–79 Years","Te Atatū","Female",801,0.0213518382598252
+"791","80–84 Years","Te Atatū","Female",633,0.0213518382598252
+"792","85 Years And Over","Te Atatū","Female",555,0.0213518382598252
+"793","0–4 Years","Auckland Central","Male",1134,0.0216591434965672
+"794","5–9 Years","Auckland Central","Male",888,0.0216591434965672
+"795","10–14 Years","Auckland Central","Male",729,0.0216591434965672
+"796","15–19 Years","Auckland Central","Male",2268,0.0216591434965672
+"797","20–24 Years","Auckland Central","Male",5091,0.0216591434965672
+"798","25–29 Years","Auckland Central","Male",4818,0.0216591434965672
+"799","30–34 Years","Auckland Central","Male",3420,0.0216591434965672
+"800","35–39 Years","Auckland Central","Male",2088,0.0216591434965672
+"801","40–44 Years","Auckland Central","Male",1923,0.0216591434965672
+"802","45–49 Years","Auckland Central","Male",1653,0.0216591434965672
+"803","50–54 Years","Auckland Central","Male",1587,0.0216591434965672
+"804","55–59 Years","Auckland Central","Male",1353,0.0216591434965672
+"805","60–64 Years","Auckland Central","Male",1290,0.0216591434965672
+"806","65–69 Years","Auckland Central","Male",960,0.0216591434965672
+"807","70–74 Years","Auckland Central","Male",618,0.0216591434965672
+"808","75–79 Years","Auckland Central","Male",324,0.0216591434965672
+"809","80–84 Years","Auckland Central","Male",186,0.0216591434965672
+"810","85 Years And Over","Auckland Central","Male",144,0.0216591434965672
+"811","0–4 Years","Auckland Central","Female",1074,0.0216591434965672
+"812","5–9 Years","Auckland Central","Female",849,0.0216591434965672
+"813","10–14 Years","Auckland Central","Female",741,0.0216591434965672
+"814","15–19 Years","Auckland Central","Female",2547,0.0216591434965672
+"815","20–24 Years","Auckland Central","Female",4974,0.0216591434965672
+"816","25–29 Years","Auckland Central","Female",4575,0.0216591434965672
+"817","30–34 Years","Auckland Central","Female",3153,0.0216591434965672
+"818","35–39 Years","Auckland Central","Female",2073,0.0216591434965672
+"819","40–44 Years","Auckland Central","Female",1755,0.0216591434965672
+"820","45–49 Years","Auckland Central","Female",1590,0.0216591434965672
+"821","50–54 Years","Auckland Central","Female",1569,0.0216591434965672
+"822","55–59 Years","Auckland Central","Female",1386,0.0216591434965672
+"823","60–64 Years","Auckland Central","Female",1257,0.0216591434965672
+"824","65–69 Years","Auckland Central","Female",939,0.0216591434965672
+"825","70–74 Years","Auckland Central","Female",540,0.0216591434965672
+"826","75–79 Years","Auckland Central","Female",276,0.0216591434965672
+"827","80–84 Years","Auckland Central","Female",225,0.0216591434965672
+"828","85 Years And Over","Auckland Central","Female",213,0.0216591434965672
+"829","0–4 Years","Rimutaka","Male",2538,0.0403384011770476
+"830","5–9 Years","Rimutaka","Male",2466,0.0403384011770476
+"831","10–14 Years","Rimutaka","Male",2577,0.0403384011770476
+"832","15–19 Years","Rimutaka","Male",2484,0.0403384011770476
+"833","20–24 Years","Rimutaka","Male",2118,0.0403384011770476
+"834","25–29 Years","Rimutaka","Male",1863,0.0403384011770476
+"835","30–34 Years","Rimutaka","Male",1932,0.0403384011770476
+"836","35–39 Years","Rimutaka","Male",2268,0.0403384011770476
+"837","40–44 Years","Rimutaka","Male",2562,0.0403384011770476
+"838","45–49 Years","Rimutaka","Male",2472,0.0403384011770476
+"839","50–54 Years","Rimutaka","Male",2418,0.0403384011770476
+"840","55–59 Years","Rimutaka","Male",1971,0.0403384011770476
+"841","60–64 Years","Rimutaka","Male",1743,0.0403384011770476
+"842","65–69 Years","Rimutaka","Male",1425,0.0403384011770476
+"843","70–74 Years","Rimutaka","Male",1104,0.0403384011770476
+"844","75–79 Years","Rimutaka","Male",738,0.0403384011770476
+"845","80–84 Years","Rimutaka","Male",597,0.0403384011770476
+"846","85 Years And Over","Rimutaka","Male",438,0.0403384011770476
+"847","0–4 Years","Rimutaka","Female",2508,0.0403384011770476
+"848","5–9 Years","Rimutaka","Female",2319,0.0403384011770476
+"849","10–14 Years","Rimutaka","Female",2400,0.0403384011770476
+"850","15–19 Years","Rimutaka","Female",2319,0.0403384011770476
+"851","20–24 Years","Rimutaka","Female",2154,0.0403384011770476
+"852","25–29 Years","Rimutaka","Female",2088,0.0403384011770476
+"853","30–34 Years","Rimutaka","Female",2181,0.0403384011770476
+"854","35–39 Years","Rimutaka","Female",2430,0.0403384011770476
+"855","40–44 Years","Rimutaka","Female",2733,0.0403384011770476
+"856","45–49 Years","Rimutaka","Female",2562,0.0403384011770476
+"857","50–54 Years","Rimutaka","Female",2565,0.0403384011770476
+"858","55–59 Years","Rimutaka","Female",2055,0.0403384011770476
+"859","60–64 Years","Rimutaka","Female",1773,0.0403384011770476
+"860","65–69 Years","Rimutaka","Female",1590,0.0403384011770476
+"861","70–74 Years","Rimutaka","Female",1152,0.0403384011770476
+"862","75–79 Years","Rimutaka","Female",951,0.0403384011770476
+"863","80–84 Years","Rimutaka","Female",819,0.0403384011770476
+"864","85 Years And Over","Rimutaka","Female",846,0.0403384011770476
+"865","0–4 Years","Christchurch Central","Male",2139,0.0564217252396166
+"866","5–9 Years","Christchurch Central","Male",1800,0.0564217252396166
+"867","10–14 Years","Christchurch Central","Male",1641,0.0564217252396166
+"868","15–19 Years","Christchurch Central","Male",1944,0.0564217252396166
+"869","20–24 Years","Christchurch Central","Male",3144,0.0564217252396166
+"870","25–29 Years","Christchurch Central","Male",3027,0.0564217252396166
+"871","30–34 Years","Christchurch Central","Male",2541,0.0564217252396166
+"872","35–39 Years","Christchurch Central","Male",2274,0.0564217252396166
+"873","40–44 Years","Christchurch Central","Male",2397,0.0564217252396166
+"874","45–49 Years","Christchurch Central","Male",2208,0.0564217252396166
+"875","50–54 Years","Christchurch Central","Male",2139,0.0564217252396166
+"876","55–59 Years","Christchurch Central","Male",1719,0.0564217252396166
+"877","60–64 Years","Christchurch Central","Male",1482,0.0564217252396166
+"878","65–69 Years","Christchurch Central","Male",1137,0.0564217252396166
+"879","70–74 Years","Christchurch Central","Male",852,0.0564217252396166
+"880","75–79 Years","Christchurch Central","Male",645,0.0564217252396166
+"881","80–84 Years","Christchurch Central","Male",525,0.0564217252396166
+"882","85 Years And Over","Christchurch Central","Male",543,0.0564217252396166
+"883","0–4 Years","Christchurch Central","Female",1980,0.0564217252396166
+"884","5–9 Years","Christchurch Central","Female",1653,0.0564217252396166
+"885","10–14 Years","Christchurch Central","Female",1611,0.0564217252396166
+"886","15–19 Years","Christchurch Central","Female",1815,0.0564217252396166
+"887","20–24 Years","Christchurch Central","Female",2916,0.0564217252396166
+"888","25–29 Years","Christchurch Central","Female",2883,0.0564217252396166
+"889","30–34 Years","Christchurch Central","Female",2484,0.0564217252396166
+"890","35–39 Years","Christchurch Central","Female",2316,0.0564217252396166
+"891","40–44 Years","Christchurch Central","Female",2412,0.0564217252396166
+"892","45–49 Years","Christchurch Central","Female",2211,0.0564217252396166
+"893","50–54 Years","Christchurch Central","Female",2142,0.0564217252396166
+"894","55–59 Years","Christchurch Central","Female",1794,0.0564217252396166
+"895","60–64 Years","Christchurch Central","Female",1554,0.0564217252396166
+"896","65–69 Years","Christchurch Central","Female",1272,0.0564217252396166
+"897","70–74 Years","Christchurch Central","Female",1014,0.0564217252396166
+"898","75–79 Years","Christchurch Central","Female",903,0.0564217252396166
+"899","80–84 Years","Christchurch Central","Female",897,0.0564217252396166
+"900","85 Years And Over","Christchurch Central","Female",1158,0.0564217252396166
+"901","0–4 Years","Wigram","Male",1920,0.0590892531876138
+"902","5–9 Years","Wigram","Male",1512,0.0590892531876138
+"903","10–14 Years","Wigram","Male",1473,0.0590892531876138
+"904","15–19 Years","Wigram","Male",2154,0.0590892531876138
+"905","20–24 Years","Wigram","Male",3513,0.0590892531876138
+"906","25–29 Years","Wigram","Male",2685,0.0590892531876138
+"907","30–34 Years","Wigram","Male",2358,0.0590892531876138
+"908","35–39 Years","Wigram","Male",1956,0.0590892531876138
+"909","40–44 Years","Wigram","Male",1977,0.0590892531876138
+"910","45–49 Years","Wigram","Male",1752,0.0590892531876138
+"911","50–54 Years","Wigram","Male",1767,0.0590892531876138
+"912","55–59 Years","Wigram","Male",1659,0.0590892531876138
+"913","60–64 Years","Wigram","Male",1404,0.0590892531876138
+"914","65–69 Years","Wigram","Male",1212,0.0590892531876138
+"915","70–74 Years","Wigram","Male",864,0.0590892531876138
+"916","75–79 Years","Wigram","Male",624,0.0590892531876138
+"917","80–84 Years","Wigram","Male",525,0.0590892531876138
+"918","85 Years And Over","Wigram","Male",477,0.0590892531876138
+"919","0–4 Years","Wigram","Female",1929,0.0590892531876138
+"920","5–9 Years","Wigram","Female",1557,0.0590892531876138
+"921","10–14 Years","Wigram","Female",1539,0.0590892531876138
+"922","15–19 Years","Wigram","Female",1962,0.0590892531876138
+"923","20–24 Years","Wigram","Female",3078,0.0590892531876138
+"924","25–29 Years","Wigram","Female",2478,0.0590892531876138
+"925","30–34 Years","Wigram","Female",2247,0.0590892531876138
+"926","35–39 Years","Wigram","Female",1935,0.0590892531876138
+"927","40–44 Years","Wigram","Female",1986,0.0590892531876138
+"928","45–49 Years","Wigram","Female",1821,0.0590892531876138
+"929","50–54 Years","Wigram","Female",1887,0.0590892531876138
+"930","55–59 Years","Wigram","Female",1713,0.0590892531876138
+"931","60–64 Years","Wigram","Female",1464,0.0590892531876138
+"932","65–69 Years","Wigram","Female",1290,0.0590892531876138
+"933","70–74 Years","Wigram","Female",1065,0.0590892531876138
+"934","75–79 Years","Wigram","Female",798,0.0590892531876138
+"935","80–84 Years","Wigram","Female",795,0.0590892531876138
+"936","85 Years And Over","Wigram","Female",840,0.0590892531876138
+"937","0–4 Years","Palmerston North","Male",2397,0.0713985312671864
+"938","5–9 Years","Palmerston North","Male",2244,0.0713985312671864
+"939","10–14 Years","Palmerston North","Male",2160,0.0713985312671864
+"940","15–19 Years","Palmerston North","Male",2508,0.0713985312671864
+"941","20–24 Years","Palmerston North","Male",3237,0.0713985312671864
+"942","25–29 Years","Palmerston North","Male",2304,0.0713985312671864
+"943","30–34 Years","Palmerston North","Male",2031,0.0713985312671864
+"944","35–39 Years","Palmerston North","Male",1839,0.0713985312671864
+"945","40–44 Years","Palmerston North","Male",1965,0.0713985312671864
+"946","45–49 Years","Palmerston North","Male",1887,0.0713985312671864
+"947","50–54 Years","Palmerston North","Male",1974,0.0713985312671864
+"948","55–59 Years","Palmerston North","Male",1629,0.0713985312671864
+"949","60–64 Years","Palmerston North","Male",1488,0.0713985312671864
+"950","65–69 Years","Palmerston North","Male",1227,0.0713985312671864
+"951","70–74 Years","Palmerston North","Male",966,0.0713985312671864
+"952","75–79 Years","Palmerston North","Male",756,0.0713985312671864
+"953","80–84 Years","Palmerston North","Male",537,0.0713985312671864
+"954","85 Years And Over","Palmerston North","Male",468,0.0713985312671864
+"955","0–4 Years","Palmerston North","Female",2310,0.0713985312671864
+"956","5–9 Years","Palmerston North","Female",2076,0.0713985312671864
+"957","10–14 Years","Palmerston North","Female",2040,0.0713985312671864
+"958","15–19 Years","Palmerston North","Female",2640,0.0713985312671864
+"959","20–24 Years","Palmerston North","Female",3501,0.0713985312671864
+"960","25–29 Years","Palmerston North","Female",2601,0.0713985312671864
+"961","30–34 Years","Palmerston North","Female",2292,0.0713985312671864
+"962","35–39 Years","Palmerston North","Female",2112,0.0713985312671864
+"963","40–44 Years","Palmerston North","Female",2205,0.0713985312671864
+"964","45–49 Years","Palmerston North","Female",2049,0.0713985312671864
+"965","50–54 Years","Palmerston North","Female",2265,0.0713985312671864
+"966","55–59 Years","Palmerston North","Female",1920,0.0713985312671864
+"967","60–64 Years","Palmerston North","Female",1698,0.0713985312671864
+"968","65–69 Years","Palmerston North","Female",1431,0.0713985312671864
+"969","70–74 Years","Palmerston North","Female",1164,0.0713985312671864
+"970","75–79 Years","Palmerston North","Female",960,0.0713985312671864
+"971","80–84 Years","Palmerston North","Female",801,0.0713985312671864
+"972","85 Years And Over","Palmerston North","Female",876,0.0713985312671864
+"973","0–4 Years","Hutt South","Male",2472,0.0887290167865707
+"974","5–9 Years","Hutt South","Male",2442,0.0887290167865707
+"975","10–14 Years","Hutt South","Male",2343,0.0887290167865707
+"976","15–19 Years","Hutt South","Male",2340,0.0887290167865707
+"977","20–24 Years","Hutt South","Male",2175,0.0887290167865707
+"978","25–29 Years","Hutt South","Male",1941,0.0887290167865707
+"979","30–34 Years","Hutt South","Male",2145,0.0887290167865707
+"980","35–39 Years","Hutt South","Male",2214,0.0887290167865707
+"981","40–44 Years","Hutt South","Male",2496,0.0887290167865707
+"982","45–49 Years","Hutt South","Male",2454,0.0887290167865707
+"983","50–54 Years","Hutt South","Male",2541,0.0887290167865707
+"984","55–59 Years","Hutt South","Male",2148,0.0887290167865707
+"985","60–64 Years","Hutt South","Male",1827,0.0887290167865707
+"986","65–69 Years","Hutt South","Male",1461,0.0887290167865707
+"987","70–74 Years","Hutt South","Male",1053,0.0887290167865707
+"988","75–79 Years","Hutt South","Male",690,0.0887290167865707
+"989","80–84 Years","Hutt South","Male",462,0.0887290167865707
+"990","85 Years And Over","Hutt South","Male",336,0.0887290167865707
+"991","0–4 Years","Hutt South","Female",2430,0.0887290167865707
+"992","5–9 Years","Hutt South","Female",2343,0.0887290167865707
+"993","10–14 Years","Hutt South","Female",2289,0.0887290167865707
+"994","15–19 Years","Hutt South","Female",2214,0.0887290167865707
+"995","20–24 Years","Hutt South","Female",2235,0.0887290167865707
+"996","25–29 Years","Hutt South","Female",2106,0.0887290167865707
+"997","30–34 Years","Hutt South","Female",2358,0.0887290167865707
+"998","35–39 Years","Hutt South","Female",2493,0.0887290167865707
+"999","40–44 Years","Hutt South","Female",2859,0.0887290167865707
+"1000","45–49 Years","Hutt South","Female",2712,0.0887290167865707
+"1001","50–54 Years","Hutt South","Female",2670,0.0887290167865707
+"1002","55–59 Years","Hutt South","Female",2241,0.0887290167865707
+"1003","60–64 Years","Hutt South","Female",1869,0.0887290167865707
+"1004","65–69 Years","Hutt South","Female",1491,0.0887290167865707
+"1005","70–74 Years","Hutt South","Female",1218,0.0887290167865707
+"1006","75–79 Years","Hutt South","Female",831,0.0887290167865707
+"1007","80–84 Years","Hutt South","Female",654,0.0887290167865707
+"1008","85 Years And Over","Hutt South","Female",564,0.0887290167865707
+"1009","0–4 Years","Port Hills","Male",2097,0.0955140237764901
+"1010","5–9 Years","Port Hills","Male",2169,0.0955140237764901
+"1011","10–14 Years","Port Hills","Male",2067,0.0955140237764901
+"1012","15–19 Years","Port Hills","Male",1998,0.0955140237764901
+"1013","20–24 Years","Port Hills","Male",1635,0.0955140237764901
+"1014","25–29 Years","Port Hills","Male",1563,0.0955140237764901
+"1015","30–34 Years","Port Hills","Male",1659,0.0955140237764901
+"1016","35–39 Years","Port Hills","Male",2055,0.0955140237764901
+"1017","40–44 Years","Port Hills","Male",2361,0.0955140237764901
+"1018","45–49 Years","Port Hills","Male",2496,0.0955140237764901
+"1019","50–54 Years","Port Hills","Male",2499,0.0955140237764901
+"1020","55–59 Years","Port Hills","Male",2175,0.0955140237764901
+"1021","60–64 Years","Port Hills","Male",1989,0.0955140237764901
+"1022","65–69 Years","Port Hills","Male",1641,0.0955140237764901
+"1023","70–74 Years","Port Hills","Male",1200,0.0955140237764901
+"1024","75–79 Years","Port Hills","Male",840,0.0955140237764901
+"1025","80–84 Years","Port Hills","Male",675,0.0955140237764901
+"1026","85 Years And Over","Port Hills","Male",498,0.0955140237764901
+"1027","0–4 Years","Port Hills","Female",1980,0.0955140237764901
+"1028","5–9 Years","Port Hills","Female",2103,0.0955140237764901
+"1029","10–14 Years","Port Hills","Female",1989,0.0955140237764901
+"1030","15–19 Years","Port Hills","Female",1815,0.0955140237764901
+"1031","20–24 Years","Port Hills","Female",1539,0.0955140237764901
+"1032","25–29 Years","Port Hills","Female",1584,0.0955140237764901
+"1033","30–34 Years","Port Hills","Female",1869,0.0955140237764901
+"1034","35–39 Years","Port Hills","Female",2205,0.0955140237764901
+"1035","40–44 Years","Port Hills","Female",2709,0.0955140237764901
+"1036","45–49 Years","Port Hills","Female",2622,0.0955140237764901
+"1037","50–54 Years","Port Hills","Female",2649,0.0955140237764901
+"1038","55–59 Years","Port Hills","Female",2307,0.0955140237764901
+"1039","60–64 Years","Port Hills","Female",2133,0.0955140237764901
+"1040","65–69 Years","Port Hills","Female",1743,0.0955140237764901
+"1041","70–74 Years","Port Hills","Female",1338,0.0955140237764901
+"1042","75–79 Years","Port Hills","Female",999,0.0955140237764901
+"1043","80–84 Years","Port Hills","Female",861,0.0955140237764901
+"1044","85 Years And Over","Port Hills","Female",912,0.0955140237764901
+"1045","0–4 Years","Nelson","Male",2010,0.118255080588648
+"1046","5–9 Years","Nelson","Male",2073,0.118255080588648
+"1047","10–14 Years","Nelson","Male",2211,0.118255080588648
+"1048","15–19 Years","Nelson","Male",2076,0.118255080588648
+"1049","20–24 Years","Nelson","Male",1560,0.118255080588648
+"1050","25–29 Years","Nelson","Male",1431,0.118255080588648
+"1051","30–34 Years","Nelson","Male",1509,0.118255080588648
+"1052","35–39 Years","Nelson","Male",1722,0.118255080588648
+"1053","40–44 Years","Nelson","Male",2247,0.118255080588648
+"1054","45–49 Years","Nelson","Male",2277,0.118255080588648
+"1055","50–54 Years","Nelson","Male",2373,0.118255080588648
+"1056","55–59 Years","Nelson","Male",2034,0.118255080588648
+"1057","60–64 Years","Nelson","Male",1893,0.118255080588648
+"1058","65–69 Years","Nelson","Male",1707,0.118255080588648
+"1059","70–74 Years","Nelson","Male",1215,0.118255080588648
+"1060","75–79 Years","Nelson","Male",897,0.118255080588648
+"1061","80–84 Years","Nelson","Male",696,0.118255080588648
+"1062","85 Years And Over","Nelson","Male",600,0.118255080588648
+"1063","0–4 Years","Nelson","Female",1839,0.118255080588648
+"1064","5–9 Years","Nelson","Female",2061,0.118255080588648
+"1065","10–14 Years","Nelson","Female",2055,0.118255080588648
+"1066","15–19 Years","Nelson","Female",1893,0.118255080588648
+"1067","20–24 Years","Nelson","Female",1473,0.118255080588648
+"1068","25–29 Years","Nelson","Female",1605,0.118255080588648
+"1069","30–34 Years","Nelson","Female",1665,0.118255080588648
+"1070","35–39 Years","Nelson","Female",2013,0.118255080588648
+"1071","40–44 Years","Nelson","Female",2490,0.118255080588648
+"1072","45–49 Years","Nelson","Female",2544,0.118255080588648
+"1073","50–54 Years","Nelson","Female",2577,0.118255080588648
+"1074","55–59 Years","Nelson","Female",2289,0.118255080588648
+"1075","60–64 Years","Nelson","Female",2127,0.118255080588648
+"1076","65–69 Years","Nelson","Female",1764,0.118255080588648
+"1077","70–74 Years","Nelson","Female",1398,0.118255080588648
+"1078","75–79 Years","Nelson","Female",1110,0.118255080588648
+"1079","80–84 Years","Nelson","Female",903,0.118255080588648
+"1080","85 Years And Over","Nelson","Female",1026,0.118255080588648
+"1081","0–4 Years","West Coast-Tasman","Male",1923,0.147404005612961
+"1082","5–9 Years","West Coast-Tasman","Male",2094,0.147404005612961
+"1083","10–14 Years","West Coast-Tasman","Male",2163,0.147404005612961
+"1084","15–19 Years","West Coast-Tasman","Male",1845,0.147404005612961
+"1085","20–24 Years","West Coast-Tasman","Male",1446,0.147404005612961
+"1086","25–29 Years","West Coast-Tasman","Male",1338,0.147404005612961
+"1087","30–34 Years","West Coast-Tasman","Male",1338,0.147404005612961
+"1088","35–39 Years","West Coast-Tasman","Male",1725,0.147404005612961
+"1089","40–44 Years","West Coast-Tasman","Male",2199,0.147404005612961
+"1090","45–49 Years","West Coast-Tasman","Male",2409,0.147404005612961
+"1091","50–54 Years","West Coast-Tasman","Male",2610,0.147404005612961
+"1092","55–59 Years","West Coast-Tasman","Male",2553,0.147404005612961
+"1093","60–64 Years","West Coast-Tasman","Male",2316,0.147404005612961
+"1094","65–69 Years","West Coast-Tasman","Male",1950,0.147404005612961
+"1095","70–74 Years","West Coast-Tasman","Male",1410,0.147404005612961
+"1096","75–79 Years","West Coast-Tasman","Male",915,0.147404005612961
+"1097","80–84 Years","West Coast-Tasman","Male",576,0.147404005612961
+"1098","85 Years And Over","West Coast-Tasman","Male",408,0.147404005612961
+"1099","0–4 Years","West Coast-Tasman","Female",1932,0.147404005612961
+"1100","5–9 Years","West Coast-Tasman","Female",1959,0.147404005612961
+"1101","10–14 Years","West Coast-Tasman","Female",2004,0.147404005612961
+"1102","15–19 Years","West Coast-Tasman","Female",1608,0.147404005612961
+"1103","20–24 Years","West Coast-Tasman","Female",1359,0.147404005612961
+"1104","25–29 Years","West Coast-Tasman","Female",1371,0.147404005612961
+"1105","30–34 Years","West Coast-Tasman","Female",1614,0.147404005612961
+"1106","35–39 Years","West Coast-Tasman","Female",1923,0.147404005612961
+"1107","40–44 Years","West Coast-Tasman","Female",2454,0.147404005612961
+"1108","45–49 Years","West Coast-Tasman","Female",2514,0.147404005612961
+"1109","50–54 Years","West Coast-Tasman","Female",2706,0.147404005612961
+"1110","55–59 Years","West Coast-Tasman","Female",2364,0.147404005612961
+"1111","60–64 Years","West Coast-Tasman","Female",2163,0.147404005612961
+"1112","65–69 Years","West Coast-Tasman","Female",1842,0.147404005612961
+"1113","70–74 Years","West Coast-Tasman","Female",1287,0.147404005612961
+"1114","75–79 Years","West Coast-Tasman","Female",876,0.147404005612961
+"1115","80–84 Years","West Coast-Tasman","Female",591,0.147404005612961
+"1116","85 Years And Over","West Coast-Tasman","Female",594,0.147404005612961
+"1117","0–4 Years","Ōhāriu","Male",2211,0.158656330749354
+"1118","5–9 Years","Ōhāriu","Male",2133,0.158656330749354
+"1119","10–14 Years","Ōhāriu","Male",2073,0.158656330749354
+"1120","15–19 Years","Ōhāriu","Male",1971,0.158656330749354
+"1121","20–24 Years","Ōhāriu","Male",1755,0.158656330749354
+"1122","25–29 Years","Ōhāriu","Male",1623,0.158656330749354
+"1123","30–34 Years","Ōhāriu","Male",2037,0.158656330749354
+"1124","35–39 Years","Ōhāriu","Male",2244,0.158656330749354
+"1125","40–44 Years","Ōhāriu","Male",2463,0.158656330749354
+"1126","45–49 Years","Ōhāriu","Male",2427,0.158656330749354
+"1127","50–54 Years","Ōhāriu","Male",2190,0.158656330749354
+"1128","55–59 Years","Ōhāriu","Male",1656,0.158656330749354
+"1129","60–64 Years","Ōhāriu","Male",1434,0.158656330749354
+"1130","65–69 Years","Ōhāriu","Male",1101,0.158656330749354
+"1131","70–74 Years","Ōhāriu","Male",789,0.158656330749354
+"1132","75–79 Years","Ōhāriu","Male",516,0.158656330749354
+"1133","80–84 Years","Ōhāriu","Male",279,0.158656330749354
+"1134","85 Years And Over","Ōhāriu","Male",237,0.158656330749354
+"1135","0–4 Years","Ōhāriu","Female",2241,0.158656330749354
+"1136","5–9 Years","Ōhāriu","Female",2145,0.158656330749354
+"1137","10–14 Years","Ōhāriu","Female",2115,0.158656330749354
+"1138","15–19 Years","Ōhāriu","Female",1839,0.158656330749354
+"1139","20–24 Years","Ōhāriu","Female",1668,0.158656330749354
+"1140","25–29 Years","Ōhāriu","Female",1851,0.158656330749354
+"1141","30–34 Years","Ōhāriu","Female",2226,0.158656330749354
+"1142","35–39 Years","Ōhāriu","Female",2481,0.158656330749354
+"1143","40–44 Years","Ōhāriu","Female",2823,0.158656330749354
+"1144","45–49 Years","Ōhāriu","Female",2625,0.158656330749354
+"1145","50–54 Years","Ōhāriu","Female",2334,0.158656330749354
+"1146","55–59 Years","Ōhāriu","Female",1821,0.158656330749354
+"1147","60–64 Years","Ōhāriu","Female",1461,0.158656330749354
+"1148","65–69 Years","Ōhāriu","Female",1212,0.158656330749354
+"1149","70–74 Years","Ōhāriu","Female",816,0.158656330749354
+"1150","75–79 Years","Ōhāriu","Female",525,0.158656330749354
+"1151","80–84 Years","Ōhāriu","Female",420,0.158656330749354
+"1152","85 Years And Over","Ōhāriu","Female",453,0.158656330749354
+"1153","0–4 Years","Hamilton West","Male",3144,0.208662887402831
+"1154","5–9 Years","Hamilton West","Male",2487,0.208662887402831
+"1155","10–14 Years","Hamilton West","Male",2328,0.208662887402831
+"1156","15–19 Years","Hamilton West","Male",2454,0.208662887402831
+"1157","20–24 Years","Hamilton West","Male",2916,0.208662887402831
+"1158","25–29 Years","Hamilton West","Male",2820,0.208662887402831
+"1159","30–34 Years","Hamilton West","Male",2559,0.208662887402831
+"1160","35–39 Years","Hamilton West","Male",2265,0.208662887402831
+"1161","40–44 Years","Hamilton West","Male",2181,0.208662887402831
+"1162","45–49 Years","Hamilton West","Male",2088,0.208662887402831
+"1163","50–54 Years","Hamilton West","Male",1950,0.208662887402831
+"1164","55–59 Years","Hamilton West","Male",1782,0.208662887402831
+"1165","60–64 Years","Hamilton West","Male",1599,0.208662887402831
+"1166","65–69 Years","Hamilton West","Male",1242,0.208662887402831
+"1167","70–74 Years","Hamilton West","Male",849,0.208662887402831
+"1168","75–79 Years","Hamilton West","Male",618,0.208662887402831
+"1169","80–84 Years","Hamilton West","Male",432,0.208662887402831
+"1170","85 Years And Over","Hamilton West","Male",303,0.208662887402831
+"1171","0–4 Years","Hamilton West","Female",2889,0.208662887402831
+"1172","5–9 Years","Hamilton West","Female",2571,0.208662887402831
+"1173","10–14 Years","Hamilton West","Female",2355,0.208662887402831
+"1174","15–19 Years","Hamilton West","Female",2448,0.208662887402831
+"1175","20–24 Years","Hamilton West","Female",3168,0.208662887402831
+"1176","25–29 Years","Hamilton West","Female",3273,0.208662887402831
+"1177","30–34 Years","Hamilton West","Female",2733,0.208662887402831
+"1178","35–39 Years","Hamilton West","Female",2418,0.208662887402831
+"1179","40–44 Years","Hamilton West","Female",2433,0.208662887402831
+"1180","45–49 Years","Hamilton West","Female",2265,0.208662887402831
+"1181","50–54 Years","Hamilton West","Female",2292,0.208662887402831
+"1182","55–59 Years","Hamilton West","Female",2034,0.208662887402831
+"1183","60–64 Years","Hamilton West","Female",1770,0.208662887402831
+"1184","65–69 Years","Hamilton West","Female",1368,0.208662887402831
+"1185","70–74 Years","Hamilton West","Female",1002,0.208662887402831
+"1186","75–79 Years","Hamilton West","Female",735,0.208662887402831
+"1187","80–84 Years","Hamilton West","Female",660,0.208662887402831
+"1188","85 Years And Over","Hamilton West","Female",555,0.208662887402831
+"1189","0–4 Years","Ōtaki","Male",1821,0.212192331387332
+"1190","5–9 Years","Ōtaki","Male",1911,0.212192331387332
+"1191","10–14 Years","Ōtaki","Male",2022,0.212192331387332
+"1192","15–19 Years","Ōtaki","Male",1902,0.212192331387332
+"1193","20–24 Years","Ōtaki","Male",1332,0.212192331387332
+"1194","25–29 Years","Ōtaki","Male",990,0.212192331387332
+"1195","30–34 Years","Ōtaki","Male",1071,0.212192331387332
+"1196","35–39 Years","Ōtaki","Male",1344,0.212192331387332
+"1197","40–44 Years","Ōtaki","Male",1794,0.212192331387332
+"1198","45–49 Years","Ōtaki","Male",2022,0.212192331387332
+"1199","50–54 Years","Ōtaki","Male",2253,0.212192331387332
+"1200","55–59 Years","Ōtaki","Male",1953,0.212192331387332
+"1201","60–64 Years","Ōtaki","Male",1980,0.212192331387332
+"1202","65–69 Years","Ōtaki","Male",2214,0.212192331387332
+"1203","70–74 Years","Ōtaki","Male",1914,0.212192331387332
+"1204","75–79 Years","Ōtaki","Male",1476,0.212192331387332
+"1205","80–84 Years","Ōtaki","Male",1110,0.212192331387332
+"1206","85 Years And Over","Ōtaki","Male",882,0.212192331387332
+"1207","0–4 Years","Ōtaki","Female",1806,0.212192331387332
+"1208","5–9 Years","Ōtaki","Female",1932,0.212192331387332
+"1209","10–14 Years","Ōtaki","Female",2031,0.212192331387332
+"1210","15–19 Years","Ōtaki","Female",1851,0.212192331387332
+"1211","20–24 Years","Ōtaki","Female",1353,0.212192331387332
+"1212","25–29 Years","Ōtaki","Female",1191,0.212192331387332
+"1213","30–34 Years","Ōtaki","Female",1293,0.212192331387332
+"1214","35–39 Years","Ōtaki","Female",1668,0.212192331387332
+"1215","40–44 Years","Ōtaki","Female",2217,0.212192331387332
+"1216","45–49 Years","Ōtaki","Female",2331,0.212192331387332
+"1217","50–54 Years","Ōtaki","Female",2436,0.212192331387332
+"1218","55–59 Years","Ōtaki","Female",2196,0.212192331387332
+"1219","60–64 Years","Ōtaki","Female",2382,0.212192331387332
+"1220","65–69 Years","Ōtaki","Female",2568,0.212192331387332
+"1221","70–74 Years","Ōtaki","Female",2247,0.212192331387332
+"1222","75–79 Years","Ōtaki","Female",1752,0.212192331387332
+"1223","80–84 Years","Ōtaki","Female",1392,0.212192331387332
+"1224","85 Years And Over","Ōtaki","Female",1410,0.212192331387332
+"1225","0–4 Years","Hamilton East","Male",2616,0.216359171336818
+"1226","5–9 Years","Hamilton East","Male",2424,0.216359171336818
+"1227","10–14 Years","Hamilton East","Male",2508,0.216359171336818
+"1228","15–19 Years","Hamilton East","Male",3342,0.216359171336818
+"1229","20–24 Years","Hamilton East","Male",3663,0.216359171336818
+"1230","25–29 Years","Hamilton East","Male",2445,0.216359171336818
+"1231","30–34 Years","Hamilton East","Male",2103,0.216359171336818
+"1232","35–39 Years","Hamilton East","Male",2106,0.216359171336818
+"1233","40–44 Years","Hamilton East","Male",2235,0.216359171336818
+"1234","45–49 Years","Hamilton East","Male",2004,0.216359171336818
+"1235","50–54 Years","Hamilton East","Male",1968,0.216359171336818
+"1236","55–59 Years","Hamilton East","Male",1647,0.216359171336818
+"1237","60–64 Years","Hamilton East","Male",1398,0.216359171336818
+"1238","65–69 Years","Hamilton East","Male",1155,0.216359171336818
+"1239","70–74 Years","Hamilton East","Male",885,0.216359171336818
+"1240","75–79 Years","Hamilton East","Male",606,0.216359171336818
+"1241","80–84 Years","Hamilton East","Male",534,0.216359171336818
+"1242","85 Years And Over","Hamilton East","Male",426,0.216359171336818
+"1243","0–4 Years","Hamilton East","Female",2475,0.216359171336818
+"1244","5–9 Years","Hamilton East","Female",2355,0.216359171336818
+"1245","10–14 Years","Hamilton East","Female",2346,0.216359171336818
+"1246","15–19 Years","Hamilton East","Female",3375,0.216359171336818
+"1247","20–24 Years","Hamilton East","Female",3789,0.216359171336818
+"1248","25–29 Years","Hamilton East","Female",2430,0.216359171336818
+"1249","30–34 Years","Hamilton East","Female",2424,0.216359171336818
+"1250","35–39 Years","Hamilton East","Female",2358,0.216359171336818
+"1251","40–44 Years","Hamilton East","Female",2586,0.216359171336818
+"1252","45–49 Years","Hamilton East","Female",2355,0.216359171336818
+"1253","50–54 Years","Hamilton East","Female",2247,0.216359171336818
+"1254","55–59 Years","Hamilton East","Female",1881,0.216359171336818
+"1255","60–64 Years","Hamilton East","Female",1629,0.216359171336818
+"1256","65–69 Years","Hamilton East","Female",1353,0.216359171336818
+"1257","70–74 Years","Hamilton East","Female",1086,0.216359171336818
+"1258","75–79 Years","Hamilton East","Female",843,0.216359171336818
+"1259","80–84 Years","Hamilton East","Female",765,0.216359171336818
+"1260","85 Years And Over","Hamilton East","Female",789,0.216359171336818
+"1261","0–4 Years","Whanganui","Male",2613,0.223638394323632
+"1262","5–9 Years","Whanganui","Male",2499,0.223638394323632
+"1263","10–14 Years","Whanganui","Male",2652,0.223638394323632
+"1264","15–19 Years","Whanganui","Male",2412,0.223638394323632
+"1265","20–24 Years","Whanganui","Male",2019,0.223638394323632
+"1266","25–29 Years","Whanganui","Male",1818,0.223638394323632
+"1267","30–34 Years","Whanganui","Male",1791,0.223638394323632
+"1268","35–39 Years","Whanganui","Male",1848,0.223638394323632
+"1269","40–44 Years","Whanganui","Male",2256,0.223638394323632
+"1270","45–49 Years","Whanganui","Male",2388,0.223638394323632
+"1271","50–54 Years","Whanganui","Male",2559,0.223638394323632
+"1272","55–59 Years","Whanganui","Male",2367,0.223638394323632
+"1273","60–64 Years","Whanganui","Male",2139,0.223638394323632
+"1274","65–69 Years","Whanganui","Male",1830,0.223638394323632
+"1275","70–74 Years","Whanganui","Male",1383,0.223638394323632
+"1276","75–79 Years","Whanganui","Male",1041,0.223638394323632
+"1277","80–84 Years","Whanganui","Male",834,0.223638394323632
+"1278","85 Years And Over","Whanganui","Male",591,0.223638394323632
+"1279","0–4 Years","Whanganui","Female",2538,0.223638394323632
+"1280","5–9 Years","Whanganui","Female",2397,0.223638394323632
+"1281","10–14 Years","Whanganui","Female",2565,0.223638394323632
+"1282","15–19 Years","Whanganui","Female",2313,0.223638394323632
+"1283","20–24 Years","Whanganui","Female",1959,0.223638394323632
+"1284","25–29 Years","Whanganui","Female",1968,0.223638394323632
+"1285","30–34 Years","Whanganui","Female",1911,0.223638394323632
+"1286","35–39 Years","Whanganui","Female",2103,0.223638394323632
+"1287","40–44 Years","Whanganui","Female",2472,0.223638394323632
+"1288","45–49 Years","Whanganui","Female",2526,0.223638394323632
+"1289","50–54 Years","Whanganui","Female",2706,0.223638394323632
+"1290","55–59 Years","Whanganui","Female",2451,0.223638394323632
+"1291","60–64 Years","Whanganui","Female",2148,0.223638394323632
+"1292","65–69 Years","Whanganui","Female",1974,0.223638394323632
+"1293","70–74 Years","Whanganui","Female",1638,0.223638394323632
+"1294","75–79 Years","Whanganui","Female",1365,0.223638394323632
+"1295","80–84 Years","Whanganui","Female",1053,0.223638394323632
+"1296","85 Years And Over","Whanganui","Female",1113,0.223638394323632
+"1297","0–4 Years","Napier","Male",2466,0.225338985598749
+"1298","5–9 Years","Napier","Male",2424,0.225338985598749
+"1299","10–14 Years","Napier","Male",2517,0.225338985598749
+"1300","15–19 Years","Napier","Male",2385,0.225338985598749
+"1301","20–24 Years","Napier","Male",1824,0.225338985598749
+"1302","25–29 Years","Napier","Male",1524,0.225338985598749
+"1303","30–34 Years","Napier","Male",1602,0.225338985598749
+"1304","35–39 Years","Napier","Male",1890,0.225338985598749
+"1305","40–44 Years","Napier","Male",2277,0.225338985598749
+"1306","45–49 Years","Napier","Male",2283,0.225338985598749
+"1307","50–54 Years","Napier","Male",2490,0.225338985598749
+"1308","55–59 Years","Napier","Male",2229,0.225338985598749
+"1309","60–64 Years","Napier","Male",2163,0.225338985598749
+"1310","65–69 Years","Napier","Male",1902,0.225338985598749
+"1311","70–74 Years","Napier","Male",1425,0.225338985598749
+"1312","75–79 Years","Napier","Male",1083,0.225338985598749
+"1313","80–84 Years","Napier","Male",762,0.225338985598749
+"1314","85 Years And Over","Napier","Male",543,0.225338985598749
+"1315","0–4 Years","Napier","Female",2385,0.225338985598749
+"1316","5–9 Years","Napier","Female",2478,0.225338985598749
+"1317","10–14 Years","Napier","Female",2466,0.225338985598749
+"1318","15–19 Years","Napier","Female",2265,0.225338985598749
+"1319","20–24 Years","Napier","Female",1956,0.225338985598749
+"1320","25–29 Years","Napier","Female",1779,0.225338985598749
+"1321","30–34 Years","Napier","Female",1881,0.225338985598749
+"1322","35–39 Years","Napier","Female",2223,0.225338985598749
+"1323","40–44 Years","Napier","Female",2517,0.225338985598749
+"1324","45–49 Years","Napier","Female",2580,0.225338985598749
+"1325","50–54 Years","Napier","Female",2763,0.225338985598749
+"1326","55–59 Years","Napier","Female",2424,0.225338985598749
+"1327","60–64 Years","Napier","Female",2427,0.225338985598749
+"1328","65–69 Years","Napier","Female",2022,0.225338985598749
+"1329","70–74 Years","Napier","Female",1572,0.225338985598749
+"1330","75–79 Years","Napier","Female",1188,0.225338985598749
+"1331","80–84 Years","Napier","Female",948,0.225338985598749
+"1332","85 Years And Over","Napier","Female",1011,0.225338985598749
+"1333","0–4 Years","East Coast","Male",3687,0.230242134738923
+"1334","5–9 Years","East Coast","Male",4005,0.230242134738923
+"1335","10–14 Years","East Coast","Male",3966,0.230242134738923
+"1336","15–19 Years","East Coast","Male",3402,0.230242134738923
+"1337","20–24 Years","East Coast","Male",2604,0.230242134738923
+"1338","25–29 Years","East Coast","Male",2109,0.230242134738923
+"1339","30–34 Years","East Coast","Male",2103,0.230242134738923
+"1340","35–39 Years","East Coast","Male",2520,0.230242134738923
+"1341","40–44 Years","East Coast","Male",2847,0.230242134738923
+"1342","45–49 Years","East Coast","Male",2871,0.230242134738923
+"1343","50–54 Years","East Coast","Male",3264,0.230242134738923
+"1344","55–59 Years","East Coast","Male",3057,0.230242134738923
+"1345","60–64 Years","East Coast","Male",2934,0.230242134738923
+"1346","65–69 Years","East Coast","Male",2319,0.230242134738923
+"1347","70–74 Years","East Coast","Male",1779,0.230242134738923
+"1348","75–79 Years","East Coast","Male",1215,0.230242134738923
+"1349","80–84 Years","East Coast","Male",873,0.230242134738923
+"1350","85 Years And Over","East Coast","Male",519,0.230242134738923
+"1351","0–4 Years","East Coast","Female",3582,0.230242134738923
+"1352","5–9 Years","East Coast","Female",3726,0.230242134738923
+"1353","10–14 Years","East Coast","Female",3693,0.230242134738923
+"1354","15–19 Years","East Coast","Female",3204,0.230242134738923
+"1355","20–24 Years","East Coast","Female",2643,0.230242134738923
+"1356","25–29 Years","East Coast","Female",2508,0.230242134738923
+"1357","30–34 Years","East Coast","Female",2646,0.230242134738923
+"1358","35–39 Years","East Coast","Female",2838,0.230242134738923
+"1359","40–44 Years","East Coast","Female",3411,0.230242134738923
+"1360","45–49 Years","East Coast","Female",3315,0.230242134738923
+"1361","50–54 Years","East Coast","Female",3573,0.230242134738923
+"1362","55–59 Years","East Coast","Female",3267,0.230242134738923
+"1363","60–64 Years","East Coast","Female",2847,0.230242134738923
+"1364","65–69 Years","East Coast","Female",2385,0.230242134738923
+"1365","70–74 Years","East Coast","Female",1923,0.230242134738923
+"1366","75–79 Years","East Coast","Female",1329,0.230242134738923
+"1367","80–84 Years","East Coast","Female",1005,0.230242134738923
+"1368","85 Years And Over","East Coast","Female",900,0.230242134738923
+"1369","0–4 Years","Invercargill","Male",2292,0.233332206940831
+"1370","5–9 Years","Invercargill","Male",2229,0.233332206940831
+"1371","10–14 Years","Invercargill","Male",2184,0.233332206940831
+"1372","15–19 Years","Invercargill","Male",2139,0.233332206940831
+"1373","20–24 Years","Invercargill","Male",1959,0.233332206940831
+"1374","25–29 Years","Invercargill","Male",1815,0.233332206940831
+"1375","30–34 Years","Invercargill","Male",1737,0.233332206940831
+"1376","35–39 Years","Invercargill","Male",1941,0.233332206940831
+"1377","40–44 Years","Invercargill","Male",2118,0.233332206940831
+"1378","45–49 Years","Invercargill","Male",2187,0.233332206940831
+"1379","50–54 Years","Invercargill","Male",2316,0.233332206940831
+"1380","55–59 Years","Invercargill","Male",2079,0.233332206940831
+"1381","60–64 Years","Invercargill","Male",1836,0.233332206940831
+"1382","65–69 Years","Invercargill","Male",1476,0.233332206940831
+"1383","70–74 Years","Invercargill","Male",1134,0.233332206940831
+"1384","75–79 Years","Invercargill","Male",849,0.233332206940831
+"1385","80–84 Years","Invercargill","Male",579,0.233332206940831
+"1386","85 Years And Over","Invercargill","Male",426,0.233332206940831
+"1387","0–4 Years","Invercargill","Female",2079,0.233332206940831
+"1388","5–9 Years","Invercargill","Female",2130,0.233332206940831
+"1389","10–14 Years","Invercargill","Female",2136,0.233332206940831
+"1390","15–19 Years","Invercargill","Female",2007,0.233332206940831
+"1391","20–24 Years","Invercargill","Female",1965,0.233332206940831
+"1392","25–29 Years","Invercargill","Female",1989,0.233332206940831
+"1393","30–34 Years","Invercargill","Female",1998,0.233332206940831
+"1394","35–39 Years","Invercargill","Female",2073,0.233332206940831
+"1395","40–44 Years","Invercargill","Female",2271,0.233332206940831
+"1396","45–49 Years","Invercargill","Female",2295,0.233332206940831
+"1397","50–54 Years","Invercargill","Female",2493,0.233332206940831
+"1398","55–59 Years","Invercargill","Female",2100,0.233332206940831
+"1399","60–64 Years","Invercargill","Female",1758,0.233332206940831
+"1400","65–69 Years","Invercargill","Female",1509,0.233332206940831
+"1401","70–74 Years","Invercargill","Female",1206,0.233332206940831
+"1402","75–79 Years","Invercargill","Female",1023,0.233332206940831
+"1403","80–84 Years","Invercargill","Female",789,0.233332206940831
+"1404","85 Years And Over","Invercargill","Female",852,0.233332206940831
+"1405","0–4 Years","Northcote","Male",2424,0.240653988148792
+"1406","5–9 Years","Northcote","Male",1989,0.240653988148792
+"1407","10–14 Years","Northcote","Male",1902,0.240653988148792
+"1408","15–19 Years","Northcote","Male",2073,0.240653988148792
+"1409","20–24 Years","Northcote","Male",2421,0.240653988148792
+"1410","25–29 Years","Northcote","Male",2271,0.240653988148792
+"1411","30–34 Years","Northcote","Male",2478,0.240653988148792
+"1412","35–39 Years","Northcote","Male",2388,0.240653988148792
+"1413","40–44 Years","Northcote","Male",2400,0.240653988148792
+"1414","45–49 Years","Northcote","Male",2115,0.240653988148792
+"1415","50–54 Years","Northcote","Male",1899,0.240653988148792
+"1416","55–59 Years","Northcote","Male",1617,0.240653988148792
+"1417","60–64 Years","Northcote","Male",1473,0.240653988148792
+"1418","65–69 Years","Northcote","Male",1284,0.240653988148792
+"1419","70–74 Years","Northcote","Male",909,0.240653988148792
+"1420","75–79 Years","Northcote","Male",633,0.240653988148792
+"1421","80–84 Years","Northcote","Male",414,0.240653988148792
+"1422","85 Years And Over","Northcote","Male",309,0.240653988148792
+"1423","0–4 Years","Northcote","Female",2346,0.240653988148792
+"1424","5–9 Years","Northcote","Female",1995,0.240653988148792
+"1425","10–14 Years","Northcote","Female",1785,0.240653988148792
+"1426","15–19 Years","Northcote","Female",2058,0.240653988148792
+"1427","20–24 Years","Northcote","Female",2397,0.240653988148792
+"1428","25–29 Years","Northcote","Female",2421,0.240653988148792
+"1429","30–34 Years","Northcote","Female",2775,0.240653988148792
+"1430","35–39 Years","Northcote","Female",2628,0.240653988148792
+"1431","40–44 Years","Northcote","Female",2655,0.240653988148792
+"1432","45–49 Years","Northcote","Female",2301,0.240653988148792
+"1433","50–54 Years","Northcote","Female",2151,0.240653988148792
+"1434","55–59 Years","Northcote","Female",1887,0.240653988148792
+"1435","60–64 Years","Northcote","Female",1563,0.240653988148792
+"1436","65–69 Years","Northcote","Female",1410,0.240653988148792
+"1437","70–74 Years","Northcote","Female",1092,0.240653988148792
+"1438","75–79 Years","Northcote","Female",693,0.240653988148792
+"1439","80–84 Years","Northcote","Female",528,0.240653988148792
+"1440","85 Years And Over","Northcote","Female",657,0.240653988148792
+"1441","0–4 Years","Papakura","Male",3225,0.274083812654067
+"1442","5–9 Years","Papakura","Male",2991,0.274083812654067
+"1443","10–14 Years","Papakura","Male",2850,0.274083812654067
+"1444","15–19 Years","Papakura","Male",2679,0.274083812654067
+"1445","20–24 Years","Papakura","Male",2502,0.274083812654067
+"1446","25–29 Years","Papakura","Male",2208,0.274083812654067
+"1447","30–34 Years","Papakura","Male",2073,0.274083812654067
+"1448","35–39 Years","Papakura","Male",2178,0.274083812654067
+"1449","40–44 Years","Papakura","Male",2454,0.274083812654067
+"1450","45–49 Years","Papakura","Male",2418,0.274083812654067
+"1451","50–54 Years","Papakura","Male",2421,0.274083812654067
+"1452","55–59 Years","Papakura","Male",1929,0.274083812654067
+"1453","60–64 Years","Papakura","Male",1743,0.274083812654067
+"1454","65–69 Years","Papakura","Male",1374,0.274083812654067
+"1455","70–74 Years","Papakura","Male",969,0.274083812654067
+"1456","75–79 Years","Papakura","Male",615,0.274083812654067
+"1457","80–84 Years","Papakura","Male",492,0.274083812654067
+"1458","85 Years And Over","Papakura","Male",339,0.274083812654067
+"1459","0–4 Years","Papakura","Female",3066,0.274083812654067
+"1460","5–9 Years","Papakura","Female",2910,0.274083812654067
+"1461","10–14 Years","Papakura","Female",2679,0.274083812654067
+"1462","15–19 Years","Papakura","Female",2703,0.274083812654067
+"1463","20–24 Years","Papakura","Female",2646,0.274083812654067
+"1464","25–29 Years","Papakura","Female",2448,0.274083812654067
+"1465","30–34 Years","Papakura","Female",2481,0.274083812654067
+"1466","35–39 Years","Papakura","Female",2499,0.274083812654067
+"1467","40–44 Years","Papakura","Female",2778,0.274083812654067
+"1468","45–49 Years","Papakura","Female",2718,0.274083812654067
+"1469","50–54 Years","Papakura","Female",2646,0.274083812654067
+"1470","55–59 Years","Papakura","Female",2109,0.274083812654067
+"1471","60–64 Years","Papakura","Female",1776,0.274083812654067
+"1472","65–69 Years","Papakura","Female",1335,0.274083812654067
+"1473","70–74 Years","Papakura","Female",1101,0.274083812654067
+"1474","75–79 Years","Papakura","Female",765,0.274083812654067
+"1475","80–84 Years","Papakura","Female",654,0.274083812654067
+"1476","85 Years And Over","Papakura","Female",594,0.274083812654067
+"1477","0–4 Years","Tukituki","Male",2745,0.295157148098325
+"1478","5–9 Years","Tukituki","Male",2844,0.295157148098325
+"1479","10–14 Years","Tukituki","Male",2883,0.295157148098325
+"1480","15–19 Years","Tukituki","Male",2640,0.295157148098325
+"1481","20–24 Years","Tukituki","Male",1878,0.295157148098325
+"1482","25–29 Years","Tukituki","Male",1752,0.295157148098325
+"1483","30–34 Years","Tukituki","Male",1707,0.295157148098325
+"1484","35–39 Years","Tukituki","Male",1992,0.295157148098325
+"1485","40–44 Years","Tukituki","Male",2337,0.295157148098325
+"1486","45–49 Years","Tukituki","Male",2541,0.295157148098325
+"1487","50–54 Years","Tukituki","Male",2550,0.295157148098325
+"1488","55–59 Years","Tukituki","Male",2220,0.295157148098325
+"1489","60–64 Years","Tukituki","Male",2076,0.295157148098325
+"1490","65–69 Years","Tukituki","Male",1812,0.295157148098325
+"1491","70–74 Years","Tukituki","Male",1320,0.295157148098325
+"1492","75–79 Years","Tukituki","Male",927,0.295157148098325
+"1493","80–84 Years","Tukituki","Male",639,0.295157148098325
+"1494","85 Years And Over","Tukituki","Male",513,0.295157148098325
+"1495","0–4 Years","Tukituki","Female",2769,0.295157148098325
+"1496","5–9 Years","Tukituki","Female",2679,0.295157148098325
+"1497","10–14 Years","Tukituki","Female",2886,0.295157148098325
+"1498","15–19 Years","Tukituki","Female",2394,0.295157148098325
+"1499","20–24 Years","Tukituki","Female",1980,0.295157148098325
+"1500","25–29 Years","Tukituki","Female",1869,0.295157148098325
+"1501","30–34 Years","Tukituki","Female",1857,0.295157148098325
+"1502","35–39 Years","Tukituki","Female",2319,0.295157148098325
+"1503","40–44 Years","Tukituki","Female",2811,0.295157148098325
+"1504","45–49 Years","Tukituki","Female",2688,0.295157148098325
+"1505","50–54 Years","Tukituki","Female",2808,0.295157148098325
+"1506","55–59 Years","Tukituki","Female",2451,0.295157148098325
+"1507","60–64 Years","Tukituki","Female",2256,0.295157148098325
+"1508","65–69 Years","Tukituki","Female",1920,0.295157148098325
+"1509","70–74 Years","Tukituki","Female",1479,0.295157148098325
+"1510","75–79 Years","Tukituki","Female",1074,0.295157148098325
+"1511","80–84 Years","Tukituki","Female",876,0.295157148098325
+"1512","85 Years And Over","Tukituki","Female",915,0.295157148098325
+"1513","0–4 Years","Northland","Male",2991,0.312992778109057
+"1514","5–9 Years","Northland","Male",3054,0.312992778109057
+"1515","10–14 Years","Northland","Male",3243,0.312992778109057
+"1516","15–19 Years","Northland","Male",2742,0.312992778109057
+"1517","20–24 Years","Northland","Male",1809,0.312992778109057
+"1518","25–29 Years","Northland","Male",1575,0.312992778109057
+"1519","30–34 Years","Northland","Male",1662,0.312992778109057
+"1520","35–39 Years","Northland","Male",1914,0.312992778109057
+"1521","40–44 Years","Northland","Male",2424,0.312992778109057
+"1522","45–49 Years","Northland","Male",2718,0.312992778109057
+"1523","50–54 Years","Northland","Male",3168,0.312992778109057
+"1524","55–59 Years","Northland","Male",3066,0.312992778109057
+"1525","60–64 Years","Northland","Male",3087,0.312992778109057
+"1526","65–69 Years","Northland","Male",2775,0.312992778109057
+"1527","70–74 Years","Northland","Male",2211,0.312992778109057
+"1528","75–79 Years","Northland","Male",1284,0.312992778109057
+"1529","80–84 Years","Northland","Male",822,0.312992778109057
+"1530","85 Years And Over","Northland","Male",525,0.312992778109057
+"1531","0–4 Years","Northland","Female",2796,0.312992778109057
+"1532","5–9 Years","Northland","Female",3021,0.312992778109057
+"1533","10–14 Years","Northland","Female",3090,0.312992778109057
+"1534","15–19 Years","Northland","Female",2550,0.312992778109057
+"1535","20–24 Years","Northland","Female",1848,0.312992778109057
+"1536","25–29 Years","Northland","Female",1740,0.312992778109057
+"1537","30–34 Years","Northland","Female",1872,0.312992778109057
+"1538","35–39 Years","Northland","Female",2280,0.312992778109057
+"1539","40–44 Years","Northland","Female",2694,0.312992778109057
+"1540","45–49 Years","Northland","Female",3144,0.312992778109057
+"1541","50–54 Years","Northland","Female",3444,0.312992778109057
+"1542","55–59 Years","Northland","Female",3288,0.312992778109057
+"1543","60–64 Years","Northland","Female",3150,0.312992778109057
+"1544","65–69 Years","Northland","Female",2748,0.312992778109057
+"1545","70–74 Years","Northland","Female",1968,0.312992778109057
+"1546","75–79 Years","Northland","Female",1242,0.312992778109057
+"1547","80–84 Years","Northland","Female",828,0.312992778109057
+"1548","85 Years And Over","Northland","Female",792,0.312992778109057
+"1549","0–4 Years","Upper Harbour","Male",2736,0.319151717151913
+"1550","5–9 Years","Upper Harbour","Male",2448,0.319151717151913
+"1551","10–14 Years","Upper Harbour","Male",2331,0.319151717151913
+"1552","15–19 Years","Upper Harbour","Male",2424,0.319151717151913
+"1553","20–24 Years","Upper Harbour","Male",2538,0.319151717151913
+"1554","25–29 Years","Upper Harbour","Male",2406,0.319151717151913
+"1555","30–34 Years","Upper Harbour","Male",2496,0.319151717151913
+"1556","35–39 Years","Upper Harbour","Male",2244,0.319151717151913
+"1557","40–44 Years","Upper Harbour","Male",2472,0.319151717151913
+"1558","45–49 Years","Upper Harbour","Male",2283,0.319151717151913
+"1559","50–54 Years","Upper Harbour","Male",2115,0.319151717151913
+"1560","55–59 Years","Upper Harbour","Male",1725,0.319151717151913
+"1561","60–64 Years","Upper Harbour","Male",1479,0.319151717151913
+"1562","65–69 Years","Upper Harbour","Male",1113,0.319151717151913
+"1563","70–74 Years","Upper Harbour","Male",753,0.319151717151913
+"1564","75–79 Years","Upper Harbour","Male",483,0.319151717151913
+"1565","80–84 Years","Upper Harbour","Male",246,0.319151717151913
+"1566","85 Years And Over","Upper Harbour","Male",189,0.319151717151913
+"1567","0–4 Years","Upper Harbour","Female",2619,0.319151717151913
+"1568","5–9 Years","Upper Harbour","Female",2277,0.319151717151913
+"1569","10–14 Years","Upper Harbour","Female",2193,0.319151717151913
+"1570","15–19 Years","Upper Harbour","Female",2319,0.319151717151913
+"1571","20–24 Years","Upper Harbour","Female",2454,0.319151717151913
+"1572","25–29 Years","Upper Harbour","Female",2511,0.319151717151913
+"1573","30–34 Years","Upper Harbour","Female",2616,0.319151717151913
+"1574","35–39 Years","Upper Harbour","Female",2478,0.319151717151913
+"1575","40–44 Years","Upper Harbour","Female",2682,0.319151717151913
+"1576","45–49 Years","Upper Harbour","Female",2613,0.319151717151913
+"1577","50–54 Years","Upper Harbour","Female",2304,0.319151717151913
+"1578","55–59 Years","Upper Harbour","Female",1896,0.319151717151913
+"1579","60–64 Years","Upper Harbour","Female",1542,0.319151717151913
+"1580","65–69 Years","Upper Harbour","Female",1221,0.319151717151913
+"1581","70–74 Years","Upper Harbour","Female",765,0.319151717151913
+"1582","75–79 Years","Upper Harbour","Female",561,0.319151717151913
+"1583","80–84 Years","Upper Harbour","Female",309,0.319151717151913
+"1584","85 Years And Over","Upper Harbour","Female",306,0.319151717151913
+"1585","0–4 Years","Wairarapa","Male",2286,0.320160543377586
+"1586","5–9 Years","Wairarapa","Male",2340,0.320160543377586
+"1587","10–14 Years","Wairarapa","Male",2334,0.320160543377586
+"1588","15–19 Years","Wairarapa","Male",2178,0.320160543377586
+"1589","20–24 Years","Wairarapa","Male",1563,0.320160543377586
+"1590","25–29 Years","Wairarapa","Male",1335,0.320160543377586
+"1591","30–34 Years","Wairarapa","Male",1506,0.320160543377586
+"1592","35–39 Years","Wairarapa","Male",1737,0.320160543377586
+"1593","40–44 Years","Wairarapa","Male",2109,0.320160543377586
+"1594","45–49 Years","Wairarapa","Male",2205,0.320160543377586
+"1595","50–54 Years","Wairarapa","Male",2490,0.320160543377586
+"1596","55–59 Years","Wairarapa","Male",2442,0.320160543377586
+"1597","60–64 Years","Wairarapa","Male",2316,0.320160543377586
+"1598","65–69 Years","Wairarapa","Male",2040,0.320160543377586
+"1599","70–74 Years","Wairarapa","Male",1503,0.320160543377586
+"1600","75–79 Years","Wairarapa","Male",1053,0.320160543377586
+"1601","80–84 Years","Wairarapa","Male",717,0.320160543377586
+"1602","85 Years And Over","Wairarapa","Male",504,0.320160543377586
+"1603","0–4 Years","Wairarapa","Female",2217,0.320160543377586
+"1604","5–9 Years","Wairarapa","Female",2325,0.320160543377586
+"1605","10–14 Years","Wairarapa","Female",2187,0.320160543377586
+"1606","15–19 Years","Wairarapa","Female",2004,0.320160543377586
+"1607","20–24 Years","Wairarapa","Female",1569,0.320160543377586
+"1608","25–29 Years","Wairarapa","Female",1467,0.320160543377586
+"1609","30–34 Years","Wairarapa","Female",1686,0.320160543377586
+"1610","35–39 Years","Wairarapa","Female",1893,0.320160543377586
+"1611","40–44 Years","Wairarapa","Female",2442,0.320160543377586
+"1612","45–49 Years","Wairarapa","Female",2406,0.320160543377586
+"1613","50–54 Years","Wairarapa","Female",2652,0.320160543377586
+"1614","55–59 Years","Wairarapa","Female",2496,0.320160543377586
+"1615","60–64 Years","Wairarapa","Female",2361,0.320160543377586
+"1616","65–69 Years","Wairarapa","Female",1986,0.320160543377586
+"1617","70–74 Years","Wairarapa","Female",1590,0.320160543377586
+"1618","75–79 Years","Wairarapa","Female",1152,0.320160543377586
+"1619","80–84 Years","Wairarapa","Female",945,0.320160543377586
+"1620","85 Years And Over","Wairarapa","Female",957,0.320160543377586
+"1621","0–4 Years","Whangarei","Male",2652,0.322416279442397
+"1622","5–9 Years","Whangarei","Male",2715,0.322416279442397
+"1623","10–14 Years","Whangarei","Male",2637,0.322416279442397
+"1624","15–19 Years","Whangarei","Male",2424,0.322416279442397
+"1625","20–24 Years","Whangarei","Male",1740,0.322416279442397
+"1626","25–29 Years","Whangarei","Male",1683,0.322416279442397
+"1627","30–34 Years","Whangarei","Male",1515,0.322416279442397
+"1628","35–39 Years","Whangarei","Male",1788,0.322416279442397
+"1629","40–44 Years","Whangarei","Male",2280,0.322416279442397
+"1630","45–49 Years","Whangarei","Male",2403,0.322416279442397
+"1631","50–54 Years","Whangarei","Male",2457,0.322416279442397
+"1632","55–59 Years","Whangarei","Male",2385,0.322416279442397
+"1633","60–64 Years","Whangarei","Male",2211,0.322416279442397
+"1634","65–69 Years","Whangarei","Male",2016,0.322416279442397
+"1635","70–74 Years","Whangarei","Male",1551,0.322416279442397
+"1636","75–79 Years","Whangarei","Male",1155,0.322416279442397
+"1637","80–84 Years","Whangarei","Male",807,0.322416279442397
+"1638","85 Years And Over","Whangarei","Male",600,0.322416279442397
+"1639","0–4 Years","Whangarei","Female",2586,0.322416279442397
+"1640","5–9 Years","Whangarei","Female",2625,0.322416279442397
+"1641","10–14 Years","Whangarei","Female",2487,0.322416279442397
+"1642","15–19 Years","Whangarei","Female",2235,0.322416279442397
+"1643","20–24 Years","Whangarei","Female",1878,0.322416279442397
+"1644","25–29 Years","Whangarei","Female",1881,0.322416279442397
+"1645","30–34 Years","Whangarei","Female",1818,0.322416279442397
+"1646","35–39 Years","Whangarei","Female",2190,0.322416279442397
+"1647","40–44 Years","Whangarei","Female",2733,0.322416279442397
+"1648","45–49 Years","Whangarei","Female",2700,0.322416279442397
+"1649","50–54 Years","Whangarei","Female",2856,0.322416279442397
+"1650","55–59 Years","Whangarei","Female",2529,0.322416279442397
+"1651","60–64 Years","Whangarei","Female",2367,0.322416279442397
+"1652","65–69 Years","Whangarei","Female",2106,0.322416279442397
+"1653","70–74 Years","Whangarei","Female",1749,0.322416279442397
+"1654","75–79 Years","Whangarei","Female",1281,0.322416279442397
+"1655","80–84 Years","Whangarei","Female",1023,0.322416279442397
+"1656","85 Years And Over","Whangarei","Female",1083,0.322416279442397
+"1657","0–4 Years","Rotorua","Male",2997,0.325929769935997
+"1658","5–9 Years","Rotorua","Male",2973,0.325929769935997
+"1659","10–14 Years","Rotorua","Male",3183,0.325929769935997
+"1660","15–19 Years","Rotorua","Male",2832,0.325929769935997
+"1661","20–24 Years","Rotorua","Male",2352,0.325929769935997
+"1662","25–29 Years","Rotorua","Male",2013,0.325929769935997
+"1663","30–34 Years","Rotorua","Male",1881,0.325929769935997
+"1664","35–39 Years","Rotorua","Male",2163,0.325929769935997
+"1665","40–44 Years","Rotorua","Male",2487,0.325929769935997
+"1666","45–49 Years","Rotorua","Male",2553,0.325929769935997
+"1667","50–54 Years","Rotorua","Male",2676,0.325929769935997
+"1668","55–59 Years","Rotorua","Male",2328,0.325929769935997
+"1669","60–64 Years","Rotorua","Male",2094,0.325929769935997
+"1670","65–69 Years","Rotorua","Male",1722,0.325929769935997
+"1671","70–74 Years","Rotorua","Male",1365,0.325929769935997
+"1672","75–79 Years","Rotorua","Male",900,0.325929769935997
+"1673","80–84 Years","Rotorua","Male",645,0.325929769935997
+"1674","85 Years And Over","Rotorua","Male",459,0.325929769935997
+"1675","0–4 Years","Rotorua","Female",2811,0.325929769935997
+"1676","5–9 Years","Rotorua","Female",2895,0.325929769935997
+"1677","10–14 Years","Rotorua","Female",2913,0.325929769935997
+"1678","15–19 Years","Rotorua","Female",2646,0.325929769935997
+"1679","20–24 Years","Rotorua","Female",2271,0.325929769935997
+"1680","25–29 Years","Rotorua","Female",2253,0.325929769935997
+"1681","30–34 Years","Rotorua","Female",2175,0.325929769935997
+"1682","35–39 Years","Rotorua","Female",2541,0.325929769935997
+"1683","40–44 Years","Rotorua","Female",2862,0.325929769935997
+"1684","45–49 Years","Rotorua","Female",2886,0.325929769935997
+"1685","50–54 Years","Rotorua","Female",2916,0.325929769935997
+"1686","55–59 Years","Rotorua","Female",2550,0.325929769935997
+"1687","60–64 Years","Rotorua","Female",2244,0.325929769935997
+"1688","65–69 Years","Rotorua","Female",1830,0.325929769935997
+"1689","70–74 Years","Rotorua","Female",1440,0.325929769935997
+"1690","75–79 Years","Rotorua","Female",1020,0.325929769935997
+"1691","80–84 Years","Rotorua","Female",801,0.325929769935997
+"1692","85 Years And Over","Rotorua","Female",852,0.325929769935997
+"1693","0–4 Years","New Plymouth","Male",2427,0.33158506421909
+"1694","5–9 Years","New Plymouth","Male",2409,0.33158506421909
+"1695","10–14 Years","New Plymouth","Male",2349,0.33158506421909
+"1696","15–19 Years","New Plymouth","Male",2199,0.33158506421909
+"1697","20–24 Years","New Plymouth","Male",1956,0.33158506421909
+"1698","25–29 Years","New Plymouth","Male",1764,0.33158506421909
+"1699","30–34 Years","New Plymouth","Male",1902,0.33158506421909
+"1700","35–39 Years","New Plymouth","Male",2025,0.33158506421909
+"1701","40–44 Years","New Plymouth","Male",2286,0.33158506421909
+"1702","45–49 Years","New Plymouth","Male",2262,0.33158506421909
+"1703","50–54 Years","New Plymouth","Male",2346,0.33158506421909
+"1704","55–59 Years","New Plymouth","Male",2148,0.33158506421909
+"1705","60–64 Years","New Plymouth","Male",2076,0.33158506421909
+"1706","65–69 Years","New Plymouth","Male",1671,0.33158506421909
+"1707","70–74 Years","New Plymouth","Male",1239,0.33158506421909
+"1708","75–79 Years","New Plymouth","Male",972,0.33158506421909
+"1709","80–84 Years","New Plymouth","Male",741,0.33158506421909
+"1710","85 Years And Over","New Plymouth","Male",585,0.33158506421909
+"1711","0–4 Years","New Plymouth","Female",2328,0.33158506421909
+"1712","5–9 Years","New Plymouth","Female",2238,0.33158506421909
+"1713","10–14 Years","New Plymouth","Female",2247,0.33158506421909
+"1714","15–19 Years","New Plymouth","Female",2061,0.33158506421909
+"1715","20–24 Years","New Plymouth","Female",1872,0.33158506421909
+"1716","25–29 Years","New Plymouth","Female",1914,0.33158506421909
+"1717","30–34 Years","New Plymouth","Female",1944,0.33158506421909
+"1718","35–39 Years","New Plymouth","Female",2289,0.33158506421909
+"1719","40–44 Years","New Plymouth","Female",2574,0.33158506421909
+"1720","45–49 Years","New Plymouth","Female",2409,0.33158506421909
+"1721","50–54 Years","New Plymouth","Female",2625,0.33158506421909
+"1722","55–59 Years","New Plymouth","Female",2382,0.33158506421909
+"1723","60–64 Years","New Plymouth","Female",2112,0.33158506421909
+"1724","65–69 Years","New Plymouth","Female",1797,0.33158506421909
+"1725","70–74 Years","New Plymouth","Female",1362,0.33158506421909
+"1726","75–79 Years","New Plymouth","Female",1182,0.33158506421909
+"1727","80–84 Years","New Plymouth","Female",993,0.33158506421909
+"1728","85 Years And Over","New Plymouth","Female",1125,0.33158506421909
+"1729","0–4 Years","Ilam","Male",1539,0.332043179825225
+"1730","5–9 Years","Ilam","Male",1671,0.332043179825225
+"1731","10–14 Years","Ilam","Male",2103,0.332043179825225
+"1732","15–19 Years","Ilam","Male",3057,0.332043179825225
+"1733","20–24 Years","Ilam","Male",3249,0.332043179825225
+"1734","25–29 Years","Ilam","Male",1848,0.332043179825225
+"1735","30–34 Years","Ilam","Male",1506,0.332043179825225
+"1736","35–39 Years","Ilam","Male",1461,0.332043179825225
+"1737","40–44 Years","Ilam","Male",1779,0.332043179825225
+"1738","45–49 Years","Ilam","Male",1926,0.332043179825225
+"1739","50–54 Years","Ilam","Male",2151,0.332043179825225
+"1740","55–59 Years","Ilam","Male",1812,0.332043179825225
+"1741","60–64 Years","Ilam","Male",1503,0.332043179825225
+"1742","65–69 Years","Ilam","Male",1305,0.332043179825225
+"1743","70–74 Years","Ilam","Male",1053,0.332043179825225
+"1744","75–79 Years","Ilam","Male",783,0.332043179825225
+"1745","80–84 Years","Ilam","Male",660,0.332043179825225
+"1746","85 Years And Over","Ilam","Male",510,0.332043179825225
+"1747","0–4 Years","Ilam","Female",1449,0.332043179825225
+"1748","5–9 Years","Ilam","Female",1581,0.332043179825225
+"1749","10–14 Years","Ilam","Female",1968,0.332043179825225
+"1750","15–19 Years","Ilam","Female",2649,0.332043179825225
+"1751","20–24 Years","Ilam","Female",2727,0.332043179825225
+"1752","25–29 Years","Ilam","Female",1683,0.332043179825225
+"1753","30–34 Years","Ilam","Female",1566,0.332043179825225
+"1754","35–39 Years","Ilam","Female",1599,0.332043179825225
+"1755","40–44 Years","Ilam","Female",2184,0.332043179825225
+"1756","45–49 Years","Ilam","Female",2316,0.332043179825225
+"1757","50–54 Years","Ilam","Female",2307,0.332043179825225
+"1758","55–59 Years","Ilam","Female",1968,0.332043179825225
+"1759","60–64 Years","Ilam","Female",1671,0.332043179825225
+"1760","65–69 Years","Ilam","Female",1449,0.332043179825225
+"1761","70–74 Years","Ilam","Female",1245,0.332043179825225
+"1762","75–79 Years","Ilam","Female",1089,0.332043179825225
+"1763","80–84 Years","Ilam","Female",936,0.332043179825225
+"1764","85 Years And Over","Ilam","Female",1020,0.332043179825225
+"1765","0–4 Years","Rangitata","Male",2202,0.333557087935559
+"1766","5–9 Years","Rangitata","Male",2037,0.333557087935559
+"1767","10–14 Years","Rangitata","Male",2127,0.333557087935559
+"1768","15–19 Years","Rangitata","Male",2040,0.333557087935559
+"1769","20–24 Years","Rangitata","Male",1782,0.333557087935559
+"1770","25–29 Years","Rangitata","Male",1692,0.333557087935559
+"1771","30–34 Years","Rangitata","Male",1674,0.333557087935559
+"1772","35–39 Years","Rangitata","Male",1773,0.333557087935559
+"1773","40–44 Years","Rangitata","Male",2073,0.333557087935559
+"1774","45–49 Years","Rangitata","Male",2148,0.333557087935559
+"1775","50–54 Years","Rangitata","Male",2274,0.333557087935559
+"1776","55–59 Years","Rangitata","Male",2061,0.333557087935559
+"1777","60–64 Years","Rangitata","Male",2064,0.333557087935559
+"1778","65–69 Years","Rangitata","Male",1626,0.333557087935559
+"1779","70–74 Years","Rangitata","Male",1416,0.333557087935559
+"1780","75–79 Years","Rangitata","Male",1038,0.333557087935559
+"1781","80–84 Years","Rangitata","Male",849,0.333557087935559
+"1782","85 Years And Over","Rangitata","Male",549,0.333557087935559
+"1783","0–4 Years","Rangitata","Female",1968,0.333557087935559
+"1784","5–9 Years","Rangitata","Female",1866,0.333557087935559
+"1785","10–14 Years","Rangitata","Female",1986,0.333557087935559
+"1786","15–19 Years","Rangitata","Female",1818,0.333557087935559
+"1787","20–24 Years","Rangitata","Female",1647,0.333557087935559
+"1788","25–29 Years","Rangitata","Female",1692,0.333557087935559
+"1789","30–34 Years","Rangitata","Female",1749,0.333557087935559
+"1790","35–39 Years","Rangitata","Female",1956,0.333557087935559
+"1791","40–44 Years","Rangitata","Female",2187,0.333557087935559
+"1792","45–49 Years","Rangitata","Female",2316,0.333557087935559
+"1793","50–54 Years","Rangitata","Female",2355,0.333557087935559
+"1794","55–59 Years","Rangitata","Female",2088,0.333557087935559
+"1795","60–64 Years","Rangitata","Female",2058,0.333557087935559
+"1796","65–69 Years","Rangitata","Female",1779,0.333557087935559
+"1797","70–74 Years","Rangitata","Female",1530,0.333557087935559
+"1798","75–79 Years","Rangitata","Female",1302,0.333557087935559
+"1799","80–84 Years","Rangitata","Female",1053,0.333557087935559
+"1800","85 Years And Over","Rangitata","Female",1110,0.333557087935559
+"1801","0–4 Years","Waitaki","Male",2025,0.353383043358188
+"1802","5–9 Years","Waitaki","Male",2037,0.353383043358188
+"1803","10–14 Years","Waitaki","Male",2079,0.353383043358188
+"1804","15–19 Years","Waitaki","Male",1872,0.353383043358188
+"1805","20–24 Years","Waitaki","Male",1341,0.353383043358188
+"1806","25–29 Years","Waitaki","Male",1371,0.353383043358188
+"1807","30–34 Years","Waitaki","Male",1506,0.353383043358188
+"1808","35–39 Years","Waitaki","Male",1848,0.353383043358188
+"1809","40–44 Years","Waitaki","Male",2118,0.353383043358188
+"1810","45–49 Years","Waitaki","Male",2232,0.353383043358188
+"1811","50–54 Years","Waitaki","Male",2457,0.353383043358188
+"1812","55–59 Years","Waitaki","Male",2430,0.353383043358188
+"1813","60–64 Years","Waitaki","Male",2379,0.353383043358188
+"1814","65–69 Years","Waitaki","Male",2172,0.353383043358188
+"1815","70–74 Years","Waitaki","Male",1731,0.353383043358188
+"1816","75–79 Years","Waitaki","Male",1098,0.353383043358188
+"1817","80–84 Years","Waitaki","Male",777,0.353383043358188
+"1818","85 Years And Over","Waitaki","Male",540,0.353383043358188
+"1819","0–4 Years","Waitaki","Female",1878,0.353383043358188
+"1820","5–9 Years","Waitaki","Female",2001,0.353383043358188
+"1821","10–14 Years","Waitaki","Female",2031,0.353383043358188
+"1822","15–19 Years","Waitaki","Female",1485,0.353383043358188
+"1823","20–24 Years","Waitaki","Female",1236,0.353383043358188
+"1824","25–29 Years","Waitaki","Female",1359,0.353383043358188
+"1825","30–34 Years","Waitaki","Female",1677,0.353383043358188
+"1826","35–39 Years","Waitaki","Female",1929,0.353383043358188
+"1827","40–44 Years","Waitaki","Female",2340,0.353383043358188
+"1828","45–49 Years","Waitaki","Female",2448,0.353383043358188
+"1829","50–54 Years","Waitaki","Female",2625,0.353383043358188
+"1830","55–59 Years","Waitaki","Female",2397,0.353383043358188
+"1831","60–64 Years","Waitaki","Female",2442,0.353383043358188
+"1832","65–69 Years","Waitaki","Female",2205,0.353383043358188
+"1833","70–74 Years","Waitaki","Female",1686,0.353383043358188
+"1834","75–79 Years","Waitaki","Female",1113,0.353383043358188
+"1835","80–84 Years","Waitaki","Female",915,0.353383043358188
+"1836","85 Years And Over","Waitaki","Female",888,0.353383043358188
+"1837","0–4 Years","Waimakariri","Male",1695,0.374831018802999
+"1838","5–9 Years","Waimakariri","Male",2010,0.374831018802999
+"1839","10–14 Years","Waimakariri","Male",2190,0.374831018802999
+"1840","15–19 Years","Waimakariri","Male",2034,0.374831018802999
+"1841","20–24 Years","Waimakariri","Male",1506,0.374831018802999
+"1842","25–29 Years","Waimakariri","Male",1179,0.374831018802999
+"1843","30–34 Years","Waimakariri","Male",1215,0.374831018802999
+"1844","35–39 Years","Waimakariri","Male",1584,0.374831018802999
+"1845","40–44 Years","Waimakariri","Male",2169,0.374831018802999
+"1846","45–49 Years","Waimakariri","Male",2298,0.374831018802999
+"1847","50–54 Years","Waimakariri","Male",2250,0.374831018802999
+"1848","55–59 Years","Waimakariri","Male",2001,0.374831018802999
+"1849","60–64 Years","Waimakariri","Male",1953,0.374831018802999
+"1850","65–69 Years","Waimakariri","Male",1659,0.374831018802999
+"1851","70–74 Years","Waimakariri","Male",1290,0.374831018802999
+"1852","75–79 Years","Waimakariri","Male",888,0.374831018802999
+"1853","80–84 Years","Waimakariri","Male",642,0.374831018802999
+"1854","85 Years And Over","Waimakariri","Male",378,0.374831018802999
+"1855","0–4 Years","Waimakariri","Female",1746,0.374831018802999
+"1856","5–9 Years","Waimakariri","Female",1980,0.374831018802999
+"1857","10–14 Years","Waimakariri","Female",2094,0.374831018802999
+"1858","15–19 Years","Waimakariri","Female",1899,0.374831018802999
+"1859","20–24 Years","Waimakariri","Female",1254,0.374831018802999
+"1860","25–29 Years","Waimakariri","Female",1194,0.374831018802999
+"1861","30–34 Years","Waimakariri","Female",1407,0.374831018802999
+"1862","35–39 Years","Waimakariri","Female",1860,0.374831018802999
+"1863","40–44 Years","Waimakariri","Female",2508,0.374831018802999
+"1864","45–49 Years","Waimakariri","Female",2412,0.374831018802999
+"1865","50–54 Years","Waimakariri","Female",2352,0.374831018802999
+"1866","55–59 Years","Waimakariri","Female",2082,0.374831018802999
+"1867","60–64 Years","Waimakariri","Female",1977,0.374831018802999
+"1868","65–69 Years","Waimakariri","Female",1755,0.374831018802999
+"1869","70–74 Years","Waimakariri","Female",1380,0.374831018802999
+"1870","75–79 Years","Waimakariri","Female",951,0.374831018802999
+"1871","80–84 Years","Waimakariri","Female",693,0.374831018802999
+"1872","85 Years And Over","Waimakariri","Female",609,0.374831018802999
+"1873","0–4 Years","Rangitīkei","Male",2460,0.381774787018928
+"1874","5–9 Years","Rangitīkei","Male",2478,0.381774787018928
+"1875","10–14 Years","Rangitīkei","Male",2565,0.381774787018928
+"1876","15–19 Years","Rangitīkei","Male",2658,0.381774787018928
+"1877","20–24 Years","Rangitīkei","Male",2184,0.381774787018928
+"1878","25–29 Years","Rangitīkei","Male",1758,0.381774787018928
+"1879","30–34 Years","Rangitīkei","Male",1599,0.381774787018928
+"1880","35–39 Years","Rangitīkei","Male",1908,0.381774787018928
+"1881","40–44 Years","Rangitīkei","Male",2214,0.381774787018928
+"1882","45–49 Years","Rangitīkei","Male",2418,0.381774787018928
+"1883","50–54 Years","Rangitīkei","Male",2583,0.381774787018928
+"1884","55–59 Years","Rangitīkei","Male",2292,0.381774787018928
+"1885","60–64 Years","Rangitīkei","Male",2052,0.381774787018928
+"1886","65–69 Years","Rangitīkei","Male",1746,0.381774787018928
+"1887","70–74 Years","Rangitīkei","Male",1314,0.381774787018928
+"1888","75–79 Years","Rangitīkei","Male",909,0.381774787018928
+"1889","80–84 Years","Rangitīkei","Male",567,0.381774787018928
+"1890","85 Years And Over","Rangitīkei","Male",384,0.381774787018928
+"1891","0–4 Years","Rangitīkei","Female",2379,0.381774787018928
+"1892","5–9 Years","Rangitīkei","Female",2412,0.381774787018928
+"1893","10–14 Years","Rangitīkei","Female",2445,0.381774787018928
+"1894","15–19 Years","Rangitīkei","Female",2505,0.381774787018928
+"1895","20–24 Years","Rangitīkei","Female",1917,0.381774787018928
+"1896","25–29 Years","Rangitīkei","Female",1794,0.381774787018928
+"1897","30–34 Years","Rangitīkei","Female",1815,0.381774787018928
+"1898","35–39 Years","Rangitīkei","Female",2073,0.381774787018928
+"1899","40–44 Years","Rangitīkei","Female",2424,0.381774787018928
+"1900","45–49 Years","Rangitīkei","Female",2640,0.381774787018928
+"1901","50–54 Years","Rangitīkei","Female",2607,0.381774787018928
+"1902","55–59 Years","Rangitīkei","Female",2271,0.381774787018928
+"1903","60–64 Years","Rangitīkei","Female",2031,0.381774787018928
+"1904","65–69 Years","Rangitīkei","Female",1614,0.381774787018928
+"1905","70–74 Years","Rangitīkei","Female",1320,0.381774787018928
+"1906","75–79 Years","Rangitīkei","Female",894,0.381774787018928
+"1907","80–84 Years","Rangitīkei","Female",648,0.381774787018928
+"1908","85 Years And Over","Rangitīkei","Female",651,0.381774787018928
+"1909","0–4 Years","Coromandel","Male",1893,0.390672876578012
+"1910","5–9 Years","Coromandel","Male",1998,0.390672876578012
+"1911","10–14 Years","Coromandel","Male",2154,0.390672876578012
+"1912","15–19 Years","Coromandel","Male",1881,0.390672876578012
+"1913","20–24 Years","Coromandel","Male",1413,0.390672876578012
+"1914","25–29 Years","Coromandel","Male",1221,0.390672876578012
+"1915","30–34 Years","Coromandel","Male",1197,0.390672876578012
+"1916","35–39 Years","Coromandel","Male",1482,0.390672876578012
+"1917","40–44 Years","Coromandel","Male",1926,0.390672876578012
+"1918","45–49 Years","Coromandel","Male",2073,0.390672876578012
+"1919","50–54 Years","Coromandel","Male",2316,0.390672876578012
+"1920","55–59 Years","Coromandel","Male",2418,0.390672876578012
+"1921","60–64 Years","Coromandel","Male",2571,0.390672876578012
+"1922","65–69 Years","Coromandel","Male",2544,0.390672876578012
+"1923","70–74 Years","Coromandel","Male",2085,0.390672876578012
+"1924","75–79 Years","Coromandel","Male",1419,0.390672876578012
+"1925","80–84 Years","Coromandel","Male",987,0.390672876578012
+"1926","85 Years And Over","Coromandel","Male",603,0.390672876578012
+"1927","0–4 Years","Coromandel","Female",1881,0.390672876578012
+"1928","5–9 Years","Coromandel","Female",1950,0.390672876578012
+"1929","10–14 Years","Coromandel","Female",2058,0.390672876578012
+"1930","15–19 Years","Coromandel","Female",1659,0.390672876578012
+"1931","20–24 Years","Coromandel","Female",1251,0.390672876578012
+"1932","25–29 Years","Coromandel","Female",1338,0.390672876578012
+"1933","30–34 Years","Coromandel","Female",1317,0.390672876578012
+"1934","35–39 Years","Coromandel","Female",1737,0.390672876578012
+"1935","40–44 Years","Coromandel","Female",2124,0.390672876578012
+"1936","45–49 Years","Coromandel","Female",2361,0.390672876578012
+"1937","50–54 Years","Coromandel","Female",2598,0.390672876578012
+"1938","55–59 Years","Coromandel","Female",2538,0.390672876578012
+"1939","60–64 Years","Coromandel","Female",2703,0.390672876578012
+"1940","65–69 Years","Coromandel","Female",2661,0.390672876578012
+"1941","70–74 Years","Coromandel","Female",2103,0.390672876578012
+"1942","75–79 Years","Coromandel","Female",1422,0.390672876578012
+"1943","80–84 Years","Coromandel","Female",1002,0.390672876578012
+"1944","85 Years And Over","Coromandel","Female",981,0.390672876578012
+"1945","0–4 Years","Kaikōura","Male",1941,0.395318715884911
+"1946","5–9 Years","Kaikōura","Male",2031,0.395318715884911
+"1947","10–14 Years","Kaikōura","Male",1923,0.395318715884911
+"1948","15–19 Years","Kaikōura","Male",1785,0.395318715884911
+"1949","20–24 Years","Kaikōura","Male",1377,0.395318715884911
+"1950","25–29 Years","Kaikōura","Male",1449,0.395318715884911
+"1951","30–34 Years","Kaikōura","Male",1473,0.395318715884911
+"1952","35–39 Years","Kaikōura","Male",1767,0.395318715884911
+"1953","40–44 Years","Kaikōura","Male",2073,0.395318715884911
+"1954","45–49 Years","Kaikōura","Male",2163,0.395318715884911
+"1955","50–54 Years","Kaikōura","Male",2448,0.395318715884911
+"1956","55–59 Years","Kaikōura","Male",2325,0.395318715884911
+"1957","60–64 Years","Kaikōura","Male",2334,0.395318715884911
+"1958","65–69 Years","Kaikōura","Male",2124,0.395318715884911
+"1959","70–74 Years","Kaikōura","Male",1626,0.395318715884911
+"1960","75–79 Years","Kaikōura","Male",996,0.395318715884911
+"1961","80–84 Years","Kaikōura","Male",660,0.395318715884911
+"1962","85 Years And Over","Kaikōura","Male",492,0.395318715884911
+"1963","0–4 Years","Kaikōura","Female",1947,0.395318715884911
+"1964","5–9 Years","Kaikōura","Female",1872,0.395318715884911
+"1965","10–14 Years","Kaikōura","Female",1896,0.395318715884911
+"1966","15–19 Years","Kaikōura","Female",1740,0.395318715884911
+"1967","20–24 Years","Kaikōura","Female",1314,0.395318715884911
+"1968","25–29 Years","Kaikōura","Female",1494,0.395318715884911
+"1969","30–34 Years","Kaikōura","Female",1680,0.395318715884911
+"1970","35–39 Years","Kaikōura","Female",1896,0.395318715884911
+"1971","40–44 Years","Kaikōura","Female",2295,0.395318715884911
+"1972","45–49 Years","Kaikōura","Female",2454,0.395318715884911
+"1973","50–54 Years","Kaikōura","Female",2577,0.395318715884911
+"1974","55–59 Years","Kaikōura","Female",2343,0.395318715884911
+"1975","60–64 Years","Kaikōura","Female",2328,0.395318715884911
+"1976","65–69 Years","Kaikōura","Female",2082,0.395318715884911
+"1977","70–74 Years","Kaikōura","Female",1521,0.395318715884911
+"1978","75–79 Years","Kaikōura","Female",1023,0.395318715884911
+"1979","80–84 Years","Kaikōura","Female",768,0.395318715884911
+"1980","85 Years And Over","Kaikōura","Female",807,0.395318715884911
+"1981","0–4 Years","Helensville","Male",2007,0.405873587482926
+"1982","5–9 Years","Helensville","Male",2262,0.405873587482926
+"1983","10–14 Years","Helensville","Male",2319,0.405873587482926
+"1984","15–19 Years","Helensville","Male",2124,0.405873587482926
+"1985","20–24 Years","Helensville","Male",1773,0.405873587482926
+"1986","25–29 Years","Helensville","Male",1362,0.405873587482926
+"1987","30–34 Years","Helensville","Male",1425,0.405873587482926
+"1988","35–39 Years","Helensville","Male",1860,0.405873587482926
+"1989","40–44 Years","Helensville","Male",2613,0.405873587482926
+"1990","45–49 Years","Helensville","Male",2784,0.405873587482926
+"1991","50–54 Years","Helensville","Male",2613,0.405873587482926
+"1992","55–59 Years","Helensville","Male",2052,0.405873587482926
+"1993","60–64 Years","Helensville","Male",1758,0.405873587482926
+"1994","65–69 Years","Helensville","Male",1392,0.405873587482926
+"1995","70–74 Years","Helensville","Male",885,0.405873587482926
+"1996","75–79 Years","Helensville","Male",486,0.405873587482926
+"1997","80–84 Years","Helensville","Male",279,0.405873587482926
+"1998","85 Years And Over","Helensville","Male",210,0.405873587482926
+"1999","0–4 Years","Helensville","Female",1803,0.405873587482926
+"2000","5–9 Years","Helensville","Female",2151,0.405873587482926
+"2001","10–14 Years","Helensville","Female",2187,0.405873587482926
+"2002","15–19 Years","Helensville","Female",2046,0.405873587482926
+"2003","20–24 Years","Helensville","Female",1647,0.405873587482926
+"2004","25–29 Years","Helensville","Female",1380,0.405873587482926
+"2005","30–34 Years","Helensville","Female",1620,0.405873587482926
+"2006","35–39 Years","Helensville","Female",2115,0.405873587482926
+"2007","40–44 Years","Helensville","Female",2877,0.405873587482926
+"2008","45–49 Years","Helensville","Female",2796,0.405873587482926
+"2009","50–54 Years","Helensville","Female",2604,0.405873587482926
+"2010","55–59 Years","Helensville","Female",2049,0.405873587482926
+"2011","60–64 Years","Helensville","Female",1731,0.405873587482926
+"2012","65–69 Years","Helensville","Female",1296,0.405873587482926
+"2013","70–74 Years","Helensville","Female",801,0.405873587482926
+"2014","75–79 Years","Helensville","Female",459,0.405873587482926
+"2015","80–84 Years","Helensville","Female",282,0.405873587482926
+"2016","85 Years And Over","Helensville","Female",267,0.405873587482926
+"2017","0–4 Years","Botany","Male",2199,0.419459356437216
+"2018","5–9 Years","Botany","Male",2349,0.419459356437216
+"2019","10–14 Years","Botany","Male",2394,0.419459356437216
+"2020","15–19 Years","Botany","Male",2535,0.419459356437216
+"2021","20–24 Years","Botany","Male",2157,0.419459356437216
+"2022","25–29 Years","Botany","Male",1869,0.419459356437216
+"2023","30–34 Years","Botany","Male",2028,0.419459356437216
+"2024","35–39 Years","Botany","Male",1860,0.419459356437216
+"2025","40–44 Years","Botany","Male",2178,0.419459356437216
+"2026","45–49 Years","Botany","Male",2376,0.419459356437216
+"2027","50–54 Years","Botany","Male",2151,0.419459356437216
+"2028","55–59 Years","Botany","Male",1887,0.419459356437216
+"2029","60–64 Years","Botany","Male",1587,0.419459356437216
+"2030","65–69 Years","Botany","Male",1236,0.419459356437216
+"2031","70–74 Years","Botany","Male",849,0.419459356437216
+"2032","75–79 Years","Botany","Male",555,0.419459356437216
+"2033","80–84 Years","Botany","Male",339,0.419459356437216
+"2034","85 Years And Over","Botany","Male",228,0.419459356437216
+"2035","0–4 Years","Botany","Female",2028,0.419459356437216
+"2036","5–9 Years","Botany","Female",2172,0.419459356437216
+"2037","10–14 Years","Botany","Female",2325,0.419459356437216
+"2038","15–19 Years","Botany","Female",2343,0.419459356437216
+"2039","20–24 Years","Botany","Female",2169,0.419459356437216
+"2040","25–29 Years","Botany","Female",2205,0.419459356437216
+"2041","30–34 Years","Botany","Female",2325,0.419459356437216
+"2042","35–39 Years","Botany","Female",2175,0.419459356437216
+"2043","40–44 Years","Botany","Female",2613,0.419459356437216
+"2044","45–49 Years","Botany","Female",2664,0.419459356437216
+"2045","50–54 Years","Botany","Female",2328,0.419459356437216
+"2046","55–59 Years","Botany","Female",2019,0.419459356437216
+"2047","60–64 Years","Botany","Female",1716,0.419459356437216
+"2048","65–69 Years","Botany","Female",1317,0.419459356437216
+"2049","70–74 Years","Botany","Female",930,0.419459356437216
+"2050","75–79 Years","Botany","Female",642,0.419459356437216
+"2051","80–84 Years","Botany","Female",432,0.419459356437216
+"2052","85 Years And Over","Botany","Female",363,0.419459356437216
+"2053","0–4 Years","Taupō","Male",2748,0.421502729653823
+"2054","5–9 Years","Taupō","Male",2790,0.421502729653823
+"2055","10–14 Years","Taupō","Male",2724,0.421502729653823
+"2056","15–19 Years","Taupō","Male",2613,0.421502729653823
+"2057","20–24 Years","Taupō","Male",1914,0.421502729653823
+"2058","25–29 Years","Taupō","Male",1752,0.421502729653823
+"2059","30–34 Years","Taupō","Male",1824,0.421502729653823
+"2060","35–39 Years","Taupō","Male",2058,0.421502729653823
+"2061","40–44 Years","Taupō","Male",2502,0.421502729653823
+"2062","45–49 Years","Taupō","Male",2541,0.421502729653823
+"2063","50–54 Years","Taupō","Male",2682,0.421502729653823
+"2064","55–59 Years","Taupō","Male",2325,0.421502729653823
+"2065","60–64 Years","Taupō","Male",2043,0.421502729653823
+"2066","65–69 Years","Taupō","Male",1959,0.421502729653823
+"2067","70–74 Years","Taupō","Male",1593,0.421502729653823
+"2068","75–79 Years","Taupō","Male",1122,0.421502729653823
+"2069","80–84 Years","Taupō","Male",750,0.421502729653823
+"2070","85 Years And Over","Taupō","Male",447,0.421502729653823
+"2071","0–4 Years","Taupō","Female",2661,0.421502729653823
+"2072","5–9 Years","Taupō","Female",2664,0.421502729653823
+"2073","10–14 Years","Taupō","Female",2718,0.421502729653823
+"2074","15–19 Years","Taupō","Female",2343,0.421502729653823
+"2075","20–24 Years","Taupō","Female",1977,0.421502729653823
+"2076","25–29 Years","Taupō","Female",1971,0.421502729653823
+"2077","30–34 Years","Taupō","Female",2070,0.421502729653823
+"2078","35–39 Years","Taupō","Female",2268,0.421502729653823
+"2079","40–44 Years","Taupō","Female",2808,0.421502729653823
+"2080","45–49 Years","Taupō","Female",2727,0.421502729653823
+"2081","50–54 Years","Taupō","Female",2793,0.421502729653823
+"2082","55–59 Years","Taupō","Female",2361,0.421502729653823
+"2083","60–64 Years","Taupō","Female",2244,0.421502729653823
+"2084","65–69 Years","Taupō","Female",2112,0.421502729653823
+"2085","70–74 Years","Taupō","Female",1668,0.421502729653823
+"2086","75–79 Years","Taupō","Female",1158,0.421502729653823
+"2087","80–84 Years","Taupō","Female",894,0.421502729653823
+"2088","85 Years And Over","Taupō","Female",747,0.421502729653823
+"2089","0–4 Years","Epsom","Male",1167,0.439730527253494
+"2090","5–9 Years","Epsom","Male",1740,0.439730527253494
+"2091","10–14 Years","Epsom","Male",2613,0.439730527253494
+"2092","15–19 Years","Epsom","Male",2775,0.439730527253494
+"2093","20–24 Years","Epsom","Male",2598,0.439730527253494
+"2094","25–29 Years","Epsom","Male",2175,0.439730527253494
+"2095","30–34 Years","Epsom","Male",1707,0.439730527253494
+"2096","35–39 Years","Epsom","Male",1512,0.439730527253494
+"2097","40–44 Years","Epsom","Male",2031,0.439730527253494
+"2098","45–49 Years","Epsom","Male",2526,0.439730527253494
+"2099","50–54 Years","Epsom","Male",2310,0.439730527253494
+"2100","55–59 Years","Epsom","Male",1875,0.439730527253494
+"2101","60–64 Years","Epsom","Male",1575,0.439730527253494
+"2102","65–69 Years","Epsom","Male",1206,0.439730527253494
+"2103","70–74 Years","Epsom","Male",804,0.439730527253494
+"2104","75–79 Years","Epsom","Male",531,0.439730527253494
+"2105","80–84 Years","Epsom","Male",393,0.439730527253494
+"2106","85 Years And Over","Epsom","Male",327,0.439730527253494
+"2107","0–4 Years","Epsom","Female",1083,0.439730527253494
+"2108","5–9 Years","Epsom","Female",1740,0.439730527253494
+"2109","10–14 Years","Epsom","Female",2403,0.439730527253494
+"2110","15–19 Years","Epsom","Female",2532,0.439730527253494
+"2111","20–24 Years","Epsom","Female",2682,0.439730527253494
+"2112","25–29 Years","Epsom","Female",2298,0.439730527253494
+"2113","30–34 Years","Epsom","Female",1881,0.439730527253494
+"2114","35–39 Years","Epsom","Female",1794,0.439730527253494
+"2115","40–44 Years","Epsom","Female",2640,0.439730527253494
+"2116","45–49 Years","Epsom","Female",2907,0.439730527253494
+"2117","50–54 Years","Epsom","Female",2481,0.439730527253494
+"2118","55–59 Years","Epsom","Female",1875,0.439730527253494
+"2119","60–64 Years","Epsom","Female",1662,0.439730527253494
+"2120","65–69 Years","Epsom","Female",1230,0.439730527253494
+"2121","70–74 Years","Epsom","Female",930,0.439730527253494
+"2122","75–79 Years","Epsom","Female",603,0.439730527253494
+"2123","80–84 Years","Epsom","Female",516,0.439730527253494
+"2124","85 Years And Over","Epsom","Female",750,0.439730527253494
+"2125","0–4 Years","North Shore","Male",1866,0.450545769241506
+"2126","5–9 Years","North Shore","Male",2034,0.450545769241506
+"2127","10–14 Years","North Shore","Male",2259,0.450545769241506
+"2128","15–19 Years","North Shore","Male",2421,0.450545769241506
+"2129","20–24 Years","North Shore","Male",2193,0.450545769241506
+"2130","25–29 Years","North Shore","Male",1758,0.450545769241506
+"2131","30–34 Years","North Shore","Male",1614,0.450545769241506
+"2132","35–39 Years","North Shore","Male",1830,0.450545769241506
+"2133","40–44 Years","North Shore","Male",2184,0.450545769241506
+"2134","45–49 Years","North Shore","Male",2346,0.450545769241506
+"2135","50–54 Years","North Shore","Male",2241,0.450545769241506
+"2136","55–59 Years","North Shore","Male",1905,0.450545769241506
+"2137","60–64 Years","North Shore","Male",1767,0.450545769241506
+"2138","65–69 Years","North Shore","Male",1512,0.450545769241506
+"2139","70–74 Years","North Shore","Male",1083,0.450545769241506
+"2140","75–79 Years","North Shore","Male",690,0.450545769241506
+"2141","80–84 Years","North Shore","Male",558,0.450545769241506
+"2142","85 Years And Over","North Shore","Male",480,0.450545769241506
+"2143","0–4 Years","North Shore","Female",1833,0.450545769241506
+"2144","5–9 Years","North Shore","Female",1935,0.450545769241506
+"2145","10–14 Years","North Shore","Female",2013,0.450545769241506
+"2146","15–19 Years","North Shore","Female",2232,0.450545769241506
+"2147","20–24 Years","North Shore","Female",2103,0.450545769241506
+"2148","25–29 Years","North Shore","Female",1785,0.450545769241506
+"2149","30–34 Years","North Shore","Female",1902,0.450545769241506
+"2150","35–39 Years","North Shore","Female",2154,0.450545769241506
+"2151","40–44 Years","North Shore","Female",2646,0.450545769241506
+"2152","45–49 Years","North Shore","Female",2739,0.450545769241506
+"2153","50–54 Years","North Shore","Female",2565,0.450545769241506
+"2154","55–59 Years","North Shore","Female",2106,0.450545769241506
+"2155","60–64 Years","North Shore","Female",1896,0.450545769241506
+"2156","65–69 Years","North Shore","Female",1623,0.450545769241506
+"2157","70–74 Years","North Shore","Female",1191,0.450545769241506
+"2158","75–79 Years","North Shore","Female",885,0.450545769241506
+"2159","80–84 Years","North Shore","Female",795,0.450545769241506
+"2160","85 Years And Over","North Shore","Female",996,0.450545769241506
+"2161","0–4 Years","Selwyn","Male",1986,0.468997541655285
+"2162","5–9 Years","Selwyn","Male",2259,0.468997541655285
+"2163","10–14 Years","Selwyn","Male",2160,0.468997541655285
+"2164","15–19 Years","Selwyn","Male",2301,0.468997541655285
+"2165","20–24 Years","Selwyn","Male",1824,0.468997541655285
+"2166","25–29 Years","Selwyn","Male",1434,0.468997541655285
+"2167","30–34 Years","Selwyn","Male",1416,0.468997541655285
+"2168","35–39 Years","Selwyn","Male",1881,0.468997541655285
+"2169","40–44 Years","Selwyn","Male",2484,0.468997541655285
+"2170","45–49 Years","Selwyn","Male",2499,0.468997541655285
+"2171","50–54 Years","Selwyn","Male",2427,0.468997541655285
+"2172","55–59 Years","Selwyn","Male",2103,0.468997541655285
+"2173","60–64 Years","Selwyn","Male",1800,0.468997541655285
+"2174","65–69 Years","Selwyn","Male",1458,0.468997541655285
+"2175","70–74 Years","Selwyn","Male",1026,0.468997541655285
+"2176","75–79 Years","Selwyn","Male",600,0.468997541655285
+"2177","80–84 Years","Selwyn","Male",342,0.468997541655285
+"2178","85 Years And Over","Selwyn","Male",216,0.468997541655285
+"2179","0–4 Years","Selwyn","Female",1845,0.468997541655285
+"2180","5–9 Years","Selwyn","Female",2244,0.468997541655285
+"2181","10–14 Years","Selwyn","Female",2100,0.468997541655285
+"2182","15–19 Years","Selwyn","Female",1932,0.468997541655285
+"2183","20–24 Years","Selwyn","Female",1392,0.468997541655285
+"2184","25–29 Years","Selwyn","Female",1305,0.468997541655285
+"2185","30–34 Years","Selwyn","Female",1575,0.468997541655285
+"2186","35–39 Years","Selwyn","Female",2073,0.468997541655285
+"2187","40–44 Years","Selwyn","Female",2601,0.468997541655285
+"2188","45–49 Years","Selwyn","Female",2490,0.468997541655285
+"2189","50–54 Years","Selwyn","Female",2322,0.468997541655285
+"2190","55–59 Years","Selwyn","Female",1947,0.468997541655285
+"2191","60–64 Years","Selwyn","Female",1761,0.468997541655285
+"2192","65–69 Years","Selwyn","Female",1344,0.468997541655285
+"2193","70–74 Years","Selwyn","Female",942,0.468997541655285
+"2194","75–79 Years","Selwyn","Female",570,0.468997541655285
+"2195","80–84 Years","Selwyn","Female",336,0.468997541655285
+"2196","85 Years And Over","Selwyn","Female",246,0.468997541655285
+"2197","0–4 Years","Tauranga","Male",2079,0.475155478617683
+"2198","5–9 Years","Tauranga","Male",2091,0.475155478617683
+"2199","10–14 Years","Tauranga","Male",2211,0.475155478617683
+"2200","15–19 Years","Tauranga","Male",2019,0.475155478617683
+"2201","20–24 Years","Tauranga","Male",1716,0.475155478617683
+"2202","25–29 Years","Tauranga","Male",1653,0.475155478617683
+"2203","30–34 Years","Tauranga","Male",1563,0.475155478617683
+"2204","35–39 Years","Tauranga","Male",1746,0.475155478617683
+"2205","40–44 Years","Tauranga","Male",2004,0.475155478617683
+"2206","45–49 Years","Tauranga","Male",1956,0.475155478617683
+"2207","50–54 Years","Tauranga","Male",2073,0.475155478617683
+"2208","55–59 Years","Tauranga","Male",1812,0.475155478617683
+"2209","60–64 Years","Tauranga","Male",1698,0.475155478617683
+"2210","65–69 Years","Tauranga","Male",1581,0.475155478617683
+"2211","70–74 Years","Tauranga","Male",1314,0.475155478617683
+"2212","75–79 Years","Tauranga","Male",1038,0.475155478617683
+"2213","80–84 Years","Tauranga","Male",906,0.475155478617683
+"2214","85 Years And Over","Tauranga","Male",699,0.475155478617683
+"2215","0–4 Years","Tauranga","Female",1944,0.475155478617683
+"2216","5–9 Years","Tauranga","Female",1926,0.475155478617683
+"2217","10–14 Years","Tauranga","Female",2067,0.475155478617683
+"2218","15–19 Years","Tauranga","Female",1917,0.475155478617683
+"2219","20–24 Years","Tauranga","Female",1800,0.475155478617683
+"2220","25–29 Years","Tauranga","Female",1779,0.475155478617683
+"2221","30–34 Years","Tauranga","Female",1797,0.475155478617683
+"2222","35–39 Years","Tauranga","Female",1977,0.475155478617683
+"2223","40–44 Years","Tauranga","Female",2373,0.475155478617683
+"2224","45–49 Years","Tauranga","Female",2313,0.475155478617683
+"2225","50–54 Years","Tauranga","Female",2403,0.475155478617683
+"2226","55–59 Years","Tauranga","Female",2184,0.475155478617683
+"2227","60–64 Years","Tauranga","Female",1947,0.475155478617683
+"2228","65–69 Years","Tauranga","Female",1866,0.475155478617683
+"2229","70–74 Years","Tauranga","Female",1626,0.475155478617683
+"2230","75–79 Years","Tauranga","Female",1365,0.475155478617683
+"2231","80–84 Years","Tauranga","Female",1140,0.475155478617683
+"2232","85 Years And Over","Tauranga","Female",1299,0.475155478617683
+"2233","0–4 Years","Tāmaki","Male",2076,0.484686661085934
+"2234","5–9 Years","Tāmaki","Male",2181,0.484686661085934
+"2235","10–14 Years","Tāmaki","Male",1986,0.484686661085934
+"2236","15–19 Years","Tāmaki","Male",1797,0.484686661085934
+"2237","20–24 Years","Tāmaki","Male",1686,0.484686661085934
+"2238","25–29 Years","Tāmaki","Male",1650,0.484686661085934
+"2239","30–34 Years","Tāmaki","Male",1725,0.484686661085934
+"2240","35–39 Years","Tāmaki","Male",1896,0.484686661085934
+"2241","40–44 Years","Tāmaki","Male",2133,0.484686661085934
+"2242","45–49 Years","Tāmaki","Male",2106,0.484686661085934
+"2243","50–54 Years","Tāmaki","Male",1926,0.484686661085934
+"2244","55–59 Years","Tāmaki","Male",1764,0.484686661085934
+"2245","60–64 Years","Tāmaki","Male",1641,0.484686661085934
+"2246","65–69 Years","Tāmaki","Male",1311,0.484686661085934
+"2247","70–74 Years","Tāmaki","Male",960,0.484686661085934
+"2248","75–79 Years","Tāmaki","Male",624,0.484686661085934
+"2249","80–84 Years","Tāmaki","Male",474,0.484686661085934
+"2250","85 Years And Over","Tāmaki","Male",432,0.484686661085934
+"2251","0–4 Years","Tāmaki","Female",2034,0.484686661085934
+"2252","5–9 Years","Tāmaki","Female",2097,0.484686661085934
+"2253","10–14 Years","Tāmaki","Female",1818,0.484686661085934
+"2254","15–19 Years","Tāmaki","Female",1734,0.484686661085934
+"2255","20–24 Years","Tāmaki","Female",1806,0.484686661085934
+"2256","25–29 Years","Tāmaki","Female",1734,0.484686661085934
+"2257","30–34 Years","Tāmaki","Female",1932,0.484686661085934
+"2258","35–39 Years","Tāmaki","Female",2310,0.484686661085934
+"2259","40–44 Years","Tāmaki","Female",2547,0.484686661085934
+"2260","45–49 Years","Tāmaki","Female",2370,0.484686661085934
+"2261","50–54 Years","Tāmaki","Female",2226,0.484686661085934
+"2262","55–59 Years","Tāmaki","Female",2127,0.484686661085934
+"2263","60–64 Years","Tāmaki","Female",1812,0.484686661085934
+"2264","65–69 Years","Tāmaki","Female",1464,0.484686661085934
+"2265","70–74 Years","Tāmaki","Female",1050,0.484686661085934
+"2266","75–79 Years","Tāmaki","Female",816,0.484686661085934
+"2267","80–84 Years","Tāmaki","Female",708,0.484686661085934
+"2268","85 Years And Over","Tāmaki","Female",900,0.484686661085934
+"2269","0–4 Years","Clutha-Southland","Male",2319,0.500302711659179
+"2270","5–9 Years","Clutha-Southland","Male",2208,0.500302711659179
+"2271","10–14 Years","Clutha-Southland","Male",2130,0.500302711659179
+"2272","15–19 Years","Clutha-Southland","Male",1950,0.500302711659179
+"2273","20–24 Years","Clutha-Southland","Male",1995,0.500302711659179
+"2274","25–29 Years","Clutha-Southland","Male",2238,0.500302711659179
+"2275","30–34 Years","Clutha-Southland","Male",2217,0.500302711659179
+"2276","35–39 Years","Clutha-Southland","Male",2313,0.500302711659179
+"2277","40–44 Years","Clutha-Southland","Male",2481,0.500302711659179
+"2278","45–49 Years","Clutha-Southland","Male",2364,0.500302711659179
+"2279","50–54 Years","Clutha-Southland","Male",2439,0.500302711659179
+"2280","55–59 Years","Clutha-Southland","Male",2190,0.500302711659179
+"2281","60–64 Years","Clutha-Southland","Male",1926,0.500302711659179
+"2282","65–69 Years","Clutha-Southland","Male",1557,0.500302711659179
+"2283","70–74 Years","Clutha-Southland","Male",1164,0.500302711659179
+"2284","75–79 Years","Clutha-Southland","Male",780,0.500302711659179
+"2285","80–84 Years","Clutha-Southland","Male",555,0.500302711659179
+"2286","85 Years And Over","Clutha-Southland","Male",357,0.500302711659179
+"2287","0–4 Years","Clutha-Southland","Female",2241,0.500302711659179
+"2288","5–9 Years","Clutha-Southland","Female",2073,0.500302711659179
+"2289","10–14 Years","Clutha-Southland","Female",2067,0.500302711659179
+"2290","15–19 Years","Clutha-Southland","Female",1725,0.500302711659179
+"2291","20–24 Years","Clutha-Southland","Female",1755,0.500302711659179
+"2292","25–29 Years","Clutha-Southland","Female",2139,0.500302711659179
+"2293","30–34 Years","Clutha-Southland","Female",2355,0.500302711659179
+"2294","35–39 Years","Clutha-Southland","Female",2262,0.500302711659179
+"2295","40–44 Years","Clutha-Southland","Female",2517,0.500302711659179
+"2296","45–49 Years","Clutha-Southland","Female",2412,0.500302711659179
+"2297","50–54 Years","Clutha-Southland","Female",2373,0.500302711659179
+"2298","55–59 Years","Clutha-Southland","Female",1983,0.500302711659179
+"2299","60–64 Years","Clutha-Southland","Female",1695,0.500302711659179
+"2300","65–69 Years","Clutha-Southland","Female",1482,0.500302711659179
+"2301","70–74 Years","Clutha-Southland","Female",1161,0.500302711659179
+"2302","75–79 Years","Clutha-Southland","Female",792,0.500302711659179
+"2303","80–84 Years","Clutha-Southland","Female",633,0.500302711659179
+"2304","85 Years And Over","Clutha-Southland","Female",600,0.500302711659179
+"2305","0–4 Years","Pakuranga","Male",1869,0.500851144316247
+"2306","5–9 Years","Pakuranga","Male",2055,0.500851144316247
+"2307","10–14 Years","Pakuranga","Male",2274,0.500851144316247
+"2308","15–19 Years","Pakuranga","Male",2457,0.500851144316247
+"2309","20–24 Years","Pakuranga","Male",2106,0.500851144316247
+"2310","25–29 Years","Pakuranga","Male",1632,0.500851144316247
+"2311","30–34 Years","Pakuranga","Male",1674,0.500851144316247
+"2312","35–39 Years","Pakuranga","Male",1818,0.500851144316247
+"2313","40–44 Years","Pakuranga","Male",2232,0.500851144316247
+"2314","45–49 Years","Pakuranga","Male",2403,0.500851144316247
+"2315","50–54 Years","Pakuranga","Male",2097,0.500851144316247
+"2316","55–59 Years","Pakuranga","Male",1743,0.500851144316247
+"2317","60–64 Years","Pakuranga","Male",1593,0.500851144316247
+"2318","65–69 Years","Pakuranga","Male",1323,0.500851144316247
+"2319","70–74 Years","Pakuranga","Male",1050,0.500851144316247
+"2320","75–79 Years","Pakuranga","Male",711,0.500851144316247
+"2321","80–84 Years","Pakuranga","Male",531,0.500851144316247
+"2322","85 Years And Over","Pakuranga","Male",399,0.500851144316247
+"2323","0–4 Years","Pakuranga","Female",1779,0.500851144316247
+"2324","5–9 Years","Pakuranga","Female",1878,0.500851144316247
+"2325","10–14 Years","Pakuranga","Female",2115,0.500851144316247
+"2326","15–19 Years","Pakuranga","Female",2355,0.500851144316247
+"2327","20–24 Years","Pakuranga","Female",1905,0.500851144316247
+"2328","25–29 Years","Pakuranga","Female",1725,0.500851144316247
+"2329","30–34 Years","Pakuranga","Female",1899,0.500851144316247
+"2330","35–39 Years","Pakuranga","Female",2133,0.500851144316247
+"2331","40–44 Years","Pakuranga","Female",2694,0.500851144316247
+"2332","45–49 Years","Pakuranga","Female",2508,0.500851144316247
+"2333","50–54 Years","Pakuranga","Female",2286,0.500851144316247
+"2334","55–59 Years","Pakuranga","Female",1932,0.500851144316247
+"2335","60–64 Years","Pakuranga","Female",1689,0.500851144316247
+"2336","65–69 Years","Pakuranga","Female",1467,0.500851144316247
+"2337","70–74 Years","Pakuranga","Female",1158,0.500851144316247
+"2338","75–79 Years","Pakuranga","Female",789,0.500851144316247
+"2339","80–84 Years","Pakuranga","Female",687,0.500851144316247
+"2340","85 Years And Over","Pakuranga","Female",855,0.500851144316247
+"2341","0–4 Years","Bay of Plenty","Male",2349,0.506688692384932
+"2342","5–9 Years","Bay of Plenty","Male",2433,0.506688692384932
+"2343","10–14 Years","Bay of Plenty","Male",2397,0.506688692384932
+"2344","15–19 Years","Bay of Plenty","Male",2019,0.506688692384932
+"2345","20–24 Years","Bay of Plenty","Male",1440,0.506688692384932
+"2346","25–29 Years","Bay of Plenty","Male",1359,0.506688692384932
+"2347","30–34 Years","Bay of Plenty","Male",1515,0.506688692384932
+"2348","35–39 Years","Bay of Plenty","Male",1827,0.506688692384932
+"2349","40–44 Years","Bay of Plenty","Male",2175,0.506688692384932
+"2350","45–49 Years","Bay of Plenty","Male",2223,0.506688692384932
+"2351","50–54 Years","Bay of Plenty","Male",2106,0.506688692384932
+"2352","55–59 Years","Bay of Plenty","Male",1974,0.506688692384932
+"2353","60–64 Years","Bay of Plenty","Male",1815,0.506688692384932
+"2354","65–69 Years","Bay of Plenty","Male",1800,0.506688692384932
+"2355","70–74 Years","Bay of Plenty","Male",1500,0.506688692384932
+"2356","75–79 Years","Bay of Plenty","Male",996,0.506688692384932
+"2357","80–84 Years","Bay of Plenty","Male",732,0.506688692384932
+"2358","85 Years And Over","Bay of Plenty","Male",507,0.506688692384932
+"2359","0–4 Years","Bay of Plenty","Female",2223,0.506688692384932
+"2360","5–9 Years","Bay of Plenty","Female",2394,0.506688692384932
+"2361","10–14 Years","Bay of Plenty","Female",2319,0.506688692384932
+"2362","15–19 Years","Bay of Plenty","Female",1905,0.506688692384932
+"2363","20–24 Years","Bay of Plenty","Female",1539,0.506688692384932
+"2364","25–29 Years","Bay of Plenty","Female",1602,0.506688692384932
+"2365","30–34 Years","Bay of Plenty","Female",1767,0.506688692384932
+"2366","35–39 Years","Bay of Plenty","Female",2145,0.506688692384932
+"2367","40–44 Years","Bay of Plenty","Female",2511,0.506688692384932
+"2368","45–49 Years","Bay of Plenty","Female",2427,0.506688692384932
+"2369","50–54 Years","Bay of Plenty","Female",2397,0.506688692384932
+"2370","55–59 Years","Bay of Plenty","Female",2232,0.506688692384932
+"2371","60–64 Years","Bay of Plenty","Female",1965,0.506688692384932
+"2372","65–69 Years","Bay of Plenty","Female",1968,0.506688692384932
+"2373","70–74 Years","Bay of Plenty","Female",1659,0.506688692384932
+"2374","75–79 Years","Bay of Plenty","Female",1104,0.506688692384932
+"2375","80–84 Years","Bay of Plenty","Female",828,0.506688692384932
+"2376","85 Years And Over","Bay of Plenty","Female",744,0.506688692384932
+"2377","0–4 Years","Waikato","Male",2784,0.518695458309446
+"2378","5–9 Years","Waikato","Male",2934,0.518695458309446
+"2379","10–14 Years","Waikato","Male",3048,0.518695458309446
+"2380","15–19 Years","Waikato","Male",2664,0.518695458309446
+"2381","20–24 Years","Waikato","Male",2142,0.518695458309446
+"2382","25–29 Years","Waikato","Male",1872,0.518695458309446
+"2383","30–34 Years","Waikato","Male",1782,0.518695458309446
+"2384","35–39 Years","Waikato","Male",2076,0.518695458309446
+"2385","40–44 Years","Waikato","Male",2652,0.518695458309446
+"2386","45–49 Years","Waikato","Male",2679,0.518695458309446
+"2387","50–54 Years","Waikato","Male",2742,0.518695458309446
+"2388","55–59 Years","Waikato","Male",2367,0.518695458309446
+"2389","60–64 Years","Waikato","Male",2013,0.518695458309446
+"2390","65–69 Years","Waikato","Male",1725,0.518695458309446
+"2391","70–74 Years","Waikato","Male",1266,0.518695458309446
+"2392","75–79 Years","Waikato","Male",852,0.518695458309446
+"2393","80–84 Years","Waikato","Male",600,0.518695458309446
+"2394","85 Years And Over","Waikato","Male",402,0.518695458309446
+"2395","0–4 Years","Waikato","Female",2655,0.518695458309446
+"2396","5–9 Years","Waikato","Female",2973,0.518695458309446
+"2397","10–14 Years","Waikato","Female",2925,0.518695458309446
+"2398","15–19 Years","Waikato","Female",2433,0.518695458309446
+"2399","20–24 Years","Waikato","Female",2001,0.518695458309446
+"2400","25–29 Years","Waikato","Female",1830,0.518695458309446
+"2401","30–34 Years","Waikato","Female",2001,0.518695458309446
+"2402","35–39 Years","Waikato","Female",2268,0.518695458309446
+"2403","40–44 Years","Waikato","Female",2925,0.518695458309446
+"2404","45–49 Years","Waikato","Female",2835,0.518695458309446
+"2405","50–54 Years","Waikato","Female",2787,0.518695458309446
+"2406","55–59 Years","Waikato","Female",2346,0.518695458309446
+"2407","60–64 Years","Waikato","Female",1938,0.518695458309446
+"2408","65–69 Years","Waikato","Female",1674,0.518695458309446
+"2409","70–74 Years","Waikato","Female",1287,0.518695458309446
+"2410","75–79 Years","Waikato","Female",900,0.518695458309446
+"2411","80–84 Years","Waikato","Female",756,0.518695458309446
+"2412","85 Years And Over","Waikato","Female",702,0.518695458309446
+"2413","0–4 Years","Rodney","Male",1800,0.522882291342371
+"2414","5–9 Years","Rodney","Male",1965,0.522882291342371
+"2415","10–14 Years","Rodney","Male",2187,0.522882291342371
+"2416","15–19 Years","Rodney","Male",2016,0.522882291342371
+"2417","20–24 Years","Rodney","Male",1443,0.522882291342371
+"2418","25–29 Years","Rodney","Male",1077,0.522882291342371
+"2419","30–34 Years","Rodney","Male",1290,0.522882291342371
+"2420","35–39 Years","Rodney","Male",1515,0.522882291342371
+"2421","40–44 Years","Rodney","Male",2124,0.522882291342371
+"2422","45–49 Years","Rodney","Male",2223,0.522882291342371
+"2423","50–54 Years","Rodney","Male",2148,0.522882291342371
+"2424","55–59 Years","Rodney","Male",1809,0.522882291342371
+"2425","60–64 Years","Rodney","Male",1869,0.522882291342371
+"2426","65–69 Years","Rodney","Male",1959,0.522882291342371
+"2427","70–74 Years","Rodney","Male",1659,0.522882291342371
+"2428","75–79 Years","Rodney","Male",1125,0.522882291342371
+"2429","80–84 Years","Rodney","Male",918,0.522882291342371
+"2430","85 Years And Over","Rodney","Male",708,0.522882291342371
+"2431","0–4 Years","Rodney","Female",1716,0.522882291342371
+"2432","5–9 Years","Rodney","Female",2019,0.522882291342371
+"2433","10–14 Years","Rodney","Female",2031,0.522882291342371
+"2434","15–19 Years","Rodney","Female",1941,0.522882291342371
+"2435","20–24 Years","Rodney","Female",1293,0.522882291342371
+"2436","25–29 Years","Rodney","Female",1230,0.522882291342371
+"2437","30–34 Years","Rodney","Female",1422,0.522882291342371
+"2438","35–39 Years","Rodney","Female",1842,0.522882291342371
+"2439","40–44 Years","Rodney","Female",2490,0.522882291342371
+"2440","45–49 Years","Rodney","Female",2472,0.522882291342371
+"2441","50–54 Years","Rodney","Female",2334,0.522882291342371
+"2442","55–59 Years","Rodney","Female",2016,0.522882291342371
+"2443","60–64 Years","Rodney","Female",2148,0.522882291342371
+"2444","65–69 Years","Rodney","Female",2178,0.522882291342371
+"2445","70–74 Years","Rodney","Female",1770,0.522882291342371
+"2446","75–79 Years","Rodney","Female",1383,0.522882291342371
+"2447","80–84 Years","Rodney","Female",1062,0.522882291342371
+"2448","85 Years And Over","Rodney","Female",1101,0.522882291342371
+"2449","0–4 Years","Taranaki-King Country","Male",2562,0.523118279569892
+"2450","5–9 Years","Taranaki-King Country","Male",2673,0.523118279569892
+"2451","10–14 Years","Taranaki-King Country","Male",2625,0.523118279569892
+"2452","15–19 Years","Taranaki-King Country","Male",2343,0.523118279569892
+"2453","20–24 Years","Taranaki-King Country","Male",1785,0.523118279569892
+"2454","25–29 Years","Taranaki-King Country","Male",1659,0.523118279569892
+"2455","30–34 Years","Taranaki-King Country","Male",1809,0.523118279569892
+"2456","35–39 Years","Taranaki-King Country","Male",1971,0.523118279569892
+"2457","40–44 Years","Taranaki-King Country","Male",2337,0.523118279569892
+"2458","45–49 Years","Taranaki-King Country","Male",2412,0.523118279569892
+"2459","50–54 Years","Taranaki-King Country","Male",2622,0.523118279569892
+"2460","55–59 Years","Taranaki-King Country","Male",2349,0.523118279569892
+"2461","60–64 Years","Taranaki-King Country","Male",1989,0.523118279569892
+"2462","65–69 Years","Taranaki-King Country","Male",1647,0.523118279569892
+"2463","70–74 Years","Taranaki-King Country","Male",1218,0.523118279569892
+"2464","75–79 Years","Taranaki-King Country","Male",813,0.523118279569892
+"2465","80–84 Years","Taranaki-King Country","Male",516,0.523118279569892
+"2466","85 Years And Over","Taranaki-King Country","Male",357,0.523118279569892
+"2467","0–4 Years","Taranaki-King Country","Female",2349,0.523118279569892
+"2468","5–9 Years","Taranaki-King Country","Female",2505,0.523118279569892
+"2469","10–14 Years","Taranaki-King Country","Female",2481,0.523118279569892
+"2470","15–19 Years","Taranaki-King Country","Female",2094,0.523118279569892
+"2471","20–24 Years","Taranaki-King Country","Female",1677,0.523118279569892
+"2472","25–29 Years","Taranaki-King Country","Female",1755,0.523118279569892
+"2473","30–34 Years","Taranaki-King Country","Female",1884,0.523118279569892
+"2474","35–39 Years","Taranaki-King Country","Female",2196,0.523118279569892
+"2475","40–44 Years","Taranaki-King Country","Female",2550,0.523118279569892
+"2476","45–49 Years","Taranaki-King Country","Female",2565,0.523118279569892
+"2477","50–54 Years","Taranaki-King Country","Female",2592,0.523118279569892
+"2478","55–59 Years","Taranaki-King Country","Female",2367,0.523118279569892
+"2479","60–64 Years","Taranaki-King Country","Female",2004,0.523118279569892
+"2480","65–69 Years","Taranaki-King Country","Female",1530,0.523118279569892
+"2481","70–74 Years","Taranaki-King Country","Female",1224,0.523118279569892
+"2482","75–79 Years","Taranaki-King Country","Female",852,0.523118279569892
+"2483","80–84 Years","Taranaki-King Country","Female",648,0.523118279569892
+"2484","85 Years And Over","Taranaki-King Country","Female",570,0.523118279569892
+"2485","0–4 Years","East Coast Bays","Male",1791,0.546826018808777
+"2486","5–9 Years","East Coast Bays","Male",1806,0.546826018808777
+"2487","10–14 Years","East Coast Bays","Male",2037,0.546826018808777
+"2488","15–19 Years","East Coast Bays","Male",2421,0.546826018808777
+"2489","20–24 Years","East Coast Bays","Male",2298,0.546826018808777
+"2490","25–29 Years","East Coast Bays","Male",1734,0.546826018808777
+"2491","30–34 Years","East Coast Bays","Male",1746,0.546826018808777
+"2492","35–39 Years","East Coast Bays","Male",1686,0.546826018808777
+"2493","40–44 Years","East Coast Bays","Male",2205,0.546826018808777
+"2494","45–49 Years","East Coast Bays","Male",2298,0.546826018808777
+"2495","50–54 Years","East Coast Bays","Male",2151,0.546826018808777
+"2496","55–59 Years","East Coast Bays","Male",1815,0.546826018808777
+"2497","60–64 Years","East Coast Bays","Male",1491,0.546826018808777
+"2498","65–69 Years","East Coast Bays","Male",1146,0.546826018808777
+"2499","70–74 Years","East Coast Bays","Male",816,0.546826018808777
+"2500","75–79 Years","East Coast Bays","Male",603,0.546826018808777
+"2501","80–84 Years","East Coast Bays","Male",426,0.546826018808777
+"2502","85 Years And Over","East Coast Bays","Male",339,0.546826018808777
+"2503","0–4 Years","East Coast Bays","Female",1767,0.546826018808777
+"2504","5–9 Years","East Coast Bays","Female",1839,0.546826018808777
+"2505","10–14 Years","East Coast Bays","Female",2010,0.546826018808777
+"2506","15–19 Years","East Coast Bays","Female",2349,0.546826018808777
+"2507","20–24 Years","East Coast Bays","Female",2097,0.546826018808777
+"2508","25–29 Years","East Coast Bays","Female",1770,0.546826018808777
+"2509","30–34 Years","East Coast Bays","Female",1806,0.546826018808777
+"2510","35–39 Years","East Coast Bays","Female",1950,0.546826018808777
+"2511","40–44 Years","East Coast Bays","Female",2715,0.546826018808777
+"2512","45–49 Years","East Coast Bays","Female",2520,0.546826018808777
+"2513","50–54 Years","East Coast Bays","Female",2301,0.546826018808777
+"2514","55–59 Years","East Coast Bays","Female",1911,0.546826018808777
+"2515","60–64 Years","East Coast Bays","Female",1548,0.546826018808777
+"2516","65–69 Years","East Coast Bays","Female",1224,0.546826018808777
+"2517","70–74 Years","East Coast Bays","Female",939,0.546826018808777
+"2518","75–79 Years","East Coast Bays","Female",699,0.546826018808777
+"2519","80–84 Years","East Coast Bays","Female",558,0.546826018808777
+"2520","85 Years And Over","East Coast Bays","Female",744,0.546826018808777
+"2521","0–4 Years","Hunua","Male",2382,0.566051891216005
+"2522","5–9 Years","Hunua","Male",2676,0.566051891216005
+"2523","10–14 Years","Hunua","Male",2625,0.566051891216005
+"2524","15–19 Years","Hunua","Male",2316,0.566051891216005
+"2525","20–24 Years","Hunua","Male",1716,0.566051891216005
+"2526","25–29 Years","Hunua","Male",1446,0.566051891216005
+"2527","30–34 Years","Hunua","Male",1554,0.566051891216005
+"2528","35–39 Years","Hunua","Male",1968,0.566051891216005
+"2529","40–44 Years","Hunua","Male",2493,0.566051891216005
+"2530","45–49 Years","Hunua","Male",2532,0.566051891216005
+"2531","50–54 Years","Hunua","Male",2403,0.566051891216005
+"2532","55–59 Years","Hunua","Male",1968,0.566051891216005
+"2533","60–64 Years","Hunua","Male",1761,0.566051891216005
+"2534","65–69 Years","Hunua","Male",1446,0.566051891216005
+"2535","70–74 Years","Hunua","Male",1107,0.566051891216005
+"2536","75–79 Years","Hunua","Male",702,0.566051891216005
+"2537","80–84 Years","Hunua","Male",441,0.566051891216005
+"2538","85 Years And Over","Hunua","Male",306,0.566051891216005
+"2539","0–4 Years","Hunua","Female",2277,0.566051891216005
+"2540","5–9 Years","Hunua","Female",2364,0.566051891216005
+"2541","10–14 Years","Hunua","Female",2496,0.566051891216005
+"2542","15–19 Years","Hunua","Female",2115,0.566051891216005
+"2543","20–24 Years","Hunua","Female",1662,0.566051891216005
+"2544","25–29 Years","Hunua","Female",1545,0.566051891216005
+"2545","30–34 Years","Hunua","Female",1848,0.566051891216005
+"2546","35–39 Years","Hunua","Female",2292,0.566051891216005
+"2547","40–44 Years","Hunua","Female",2877,0.566051891216005
+"2548","45–49 Years","Hunua","Female",2622,0.566051891216005
+"2549","50–54 Years","Hunua","Female",2466,0.566051891216005
+"2550","55–59 Years","Hunua","Female",1971,0.566051891216005
+"2551","60–64 Years","Hunua","Female",1830,0.566051891216005
+"2552","65–69 Years","Hunua","Female",1512,0.566051891216005
+"2553","70–74 Years","Hunua","Female",1152,0.566051891216005
+"2554","75–79 Years","Hunua","Female",705,0.566051891216005
+"2555","80–84 Years","Hunua","Female",531,0.566051891216005
+"2556","85 Years And Over","Hunua","Female",546,0.566051891216005
