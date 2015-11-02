@@ -4,8 +4,16 @@
 ### @kjhealy
 ###--------------------------------------------------
 
+
 library(ggplot2)
+
+### Install tidyr if you don't have it:
+### install.packages("tidyr")
 library(tidyr)
+
+## Make a "figures" subdirectory if one doesn't exist
+ifelse(!dir.exists(file.path("figures")), dir.create(file.path("figures")), FALSE)
+
 
 ### Data from Jonathan Marshall
 ### https://github.com/jmarshallnz/electorates
